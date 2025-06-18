@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "format": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "ranges": "cpp",
+        "qfile": "cpp",
+        "qnetworkreply": "cpp",
+        "new": "cpp"
+    }
+}

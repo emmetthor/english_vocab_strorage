@@ -1,0 +1,9 @@
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/VocabularyArchive.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/edit_cache.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/rebuild_cache.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/list_install_components.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/install.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/install/local.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/install/strip.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/VocabularyArchive_autogen_timestamp_deps.dir
+E:/Emmet/coding/vocabApp/VocabularyArchive/build/CMakeFiles/VocabularyArchive_autogen.dir
