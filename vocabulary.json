@@ -1,5 +1,35 @@
 [
     {
+        "definition": "外觀",
+        "example": "Hw is a man of smart appearance",
+        "parts-of-speech": "noun",
+        "word": "appearance"
+    },
+    {
+        "definition": "城邦",
+        "example": "Singapore is a highly developed city-state.",
+        "parts-of-speech": "noun",
+        "word": "city-state"
+    },
+    {
+        "definition": "社區，社群",
+        "example": "The community is well-known because of its food.",
+        "parts-of-speech": "noun",
+        "word": "community"
+    },
+    {
+        "definition": "發達的",
+        "example": "This city is well developed.",
+        "parts-of-speech": "adjective",
+        "word": "developed"
+    },
+    {
+        "definition": "從...減少",
+        "example": "The country's population is down from 4,000 to 200.",
+        "parts-of-speech": "phrase",
+        "word": "down from"
+    },
+    {
         "definition": "事物的起源",
         "example": "The story has unknown origins.",
         "parts-of-speech": "noun",
@@ -24,9 +54,39 @@
         "word": "originally"
     },
     {
+        "definition": "人口",
+        "example": "India has the highest population in the world.",
+        "parts-of-speech": "noun",
+        "word": "population"
+    },
+    {
+        "definition": "粗糙的",
+        "example": "My hands get rough in the cold.",
+        "parts-of-speech": "adjective",
+        "word": "rough"
+    },
+    {
+        "definition": "鄉村的",
+        "example": "This area is still very rural.",
+        "parts-of-speech": "adjective",
+        "word": "rural"
+    },
+    {
+        "definition": "鄉村的",
+        "example": "The rustic community is full of warmth and kindness.",
+        "parts-of-speech": "adjective",
+        "word": "rustic"
+    },
+    {
         "definition": "鏟子",
         "example": "I dug up some dirt with a spade.",
         "parts-of-speech": "noun",
         "word": "spade"
+    },
+    {
+        "definition": "具木頭外觀的",
+        "example": "This wood-like house was built by my grandfather.",
+        "parts-of-speech": "adjective",
+        "word": "wood-like"
     }
 ]
