@@ -1,9 +1,39 @@
 [
     {
+        "definition": "認可，接納",
+        "example": "The party marked his acceptance into the community.",
+        "parts-of-speech": "noun",
+        "word": "acceptance"
+    },
+    {
         "definition": "外觀",
         "example": "Hw is a man of smart appearance",
         "parts-of-speech": "noun",
         "word": "appearance"
+    },
+    {
+        "definition": "開花，綻放",
+        "example": "The flowers all bloomed.",
+        "parts-of-speech": "verb",
+        "word": "bloom"
+    },
+    {
+        "definition": "芽，花蕾",
+        "example": "It was springtime and the fruit trees were in bud.",
+        "parts-of-speech": "noun",
+        "word": "bud"
+    },
+    {
+        "definition": "（尤指政治、商業或軍事的）活動，運動",
+        "example": "This is a controversial new advertising campaign.",
+        "parts-of-speech": "noun",
+        "word": "campaign"
+    },
+    {
+        "definition": "當然，毫無疑問，確實，肯定",
+        "example": "She is certainly doing her job.",
+        "parts-of-speech": "adverb",
+        "word": "certainly"
     },
     {
         "definition": "城邦",
@@ -30,6 +60,24 @@
         "word": "down from"
     },
     {
+        "definition": "表示，表達，表露",
+        "example": "We've received a lot of expressions of support for our campaign.",
+        "parts-of-speech": "noun",
+        "word": "expression"
+    },
+    {
+        "definition": "顯而易見的，明顯的，顯著的",
+        "example": "Those colorful flowers are noticeable.",
+        "parts-of-speech": "adjective",
+        "word": "noticeable"
+    },
+    {
+        "definition": "繁忙 活躍",
+        "example": "Like most working mothers, she is always on the go.",
+        "parts-of-speech": "idiom",
+        "word": "on the go"
+    },
+    {
         "definition": "事物的起源",
         "example": "The story has unknown origins.",
         "parts-of-speech": "noun",
@@ -54,10 +102,22 @@
         "word": "originally"
     },
     {
+        "definition": "從政者，政治家，政客",
+        "example": "The politician lost the election.",
+        "parts-of-speech": "noun",
+        "word": "politician"
+    },
+    {
         "definition": "人口",
         "example": "India has the highest population in the world.",
         "parts-of-speech": "noun",
         "word": "population"
+    },
+    {
+        "definition": "更新，更換",
+        "example": "In the spring, everything renewals.",
+        "parts-of-speech": "verb",
+        "word": "renewal"
     },
     {
         "definition": "粗糙的",
@@ -78,16 +138,28 @@
         "word": "rustic"
     },
     {
+        "definition": "芽，苗，新枝",
+        "example": "Two weeks after we'd planted the seeds, little green shoots started to appear.",
+        "parts-of-speech": "noun",
+        "word": "shoot"
+    },
+    {
         "definition": "鏟子",
         "example": "I dug up some dirt with a spade.",
         "parts-of-speech": "noun",
         "word": "spade"
     },
     {
-        "definition": "2",
-        "example": "3",
-        "parts-of-speech": "1",
-        "word": "test"
+        "definition": "單調乏味的，無趣的",
+        "example": "Most forms of exercise are so tedious.",
+        "parts-of-speech": "adjective",
+        "word": "tedious"
+    },
+    {
+        "definition": "不吸引人的;無趣的",
+        "example": "Watching grass grow is uninteresting.",
+        "parts-of-speech": "adjective",
+        "word": "uninteresting"
     },
     {
         "definition": "具木頭外觀的",
