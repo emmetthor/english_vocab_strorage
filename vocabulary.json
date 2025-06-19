@@ -60,6 +60,12 @@
         "word": "down from"
     },
     {
+        "definition": "此軟體的創造者",
+        "example": "The author of this app is Emmet.",
+        "parts-of-speech": "noun",
+        "word": "Emmet"
+    },
+    {
         "definition": "表示，表達，表露",
         "example": "We've received a lot of expressions of support for our campaign.",
         "parts-of-speech": "noun",
@@ -78,14 +84,14 @@
         "word": "on the go"
     },
     {
-        "definition": "事物的起源",
-        "example": "The story has unknown origins.",
+        "definition": "人物的血統",
+        "example": "The president's family was of poor origins.",
         "parts-of-speech": "noun",
         "word": "origin"
     },
     {
-        "definition": "人物的血統",
-        "example": "The president's family was of poor origins.",
+        "definition": "事物的起源",
+        "example": "The story has unknown origins.",
         "parts-of-speech": "noun",
         "word": "origin"
     },
