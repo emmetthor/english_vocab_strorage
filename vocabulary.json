@@ -1,175 +1,406 @@
 [
     {
+        "back": "",
         "definition": "認可，接納",
         "example": "The party marked his acceptance into the community.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "acceptance"
     },
     {
+        "back": "al",
+        "definition": "農業的",
+        "example": "The world's supply of agricultural land is shrinking fast.",
+        "front": "",
+        "main": "agriculture",
+        "parts-of-speech": "adjective",
+        "word": "agricultural"
+    },
+    {
+        "back": "",
+        "definition": "農業，農藝，農學",
+        "example": "The area depends on agriculture for most of its income.",
+        "front": "",
+        "main": "agriculture",
+        "parts-of-speech": "noun",
+        "word": "agriculture"
+    },
+    {
+        "back": "",
         "definition": "外觀",
-        "example": "Hw is a man of smart appearance",
+        "example": "He is a man of smart appearance",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "appearance"
     },
     {
+        "back": "al",
+        "definition": "贊成，同意，稱許",
+        "example": "He showed his approval with a smile.",
+        "front": "",
+        "main": "approve",
+        "parts-of-speech": "noun",
+        "word": "approval"
+    },
+    {
+        "back": "",
+        "definition": "贊成，同意，稱許",
+        "example": "He doesn't approve of smoking.",
+        "front": "",
+        "main": "approve",
+        "parts-of-speech": "verb",
+        "word": "approve"
+    },
+    {
+        "back": "",
         "definition": "開花，綻放",
         "example": "The flowers all bloomed.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "verb",
         "word": "bloom"
     },
     {
+        "back": "",
         "definition": "芽，花蕾",
         "example": "It was springtime and the fruit trees were in bud.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "bud"
     },
     {
+        "back": "",
         "definition": "（尤指政治、商業或軍事的）活動，運動",
         "example": "This is a controversial new advertising campaign.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "campaign"
     },
     {
+        "back": "",
         "definition": "當然，毫無疑問，確實，肯定",
         "example": "She is certainly doing her job.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adverb",
         "word": "certainly"
     },
     {
+        "back": "",
         "definition": "城邦",
         "example": "Singapore is a highly developed city-state.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "city-state"
     },
     {
+        "back": "",
         "definition": "社區，社群",
         "example": "The community is well-known because of its food.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "community"
     },
     {
+        "back": "",
+        "definition": "收成，收穫量",
+        "example": "Grains produced much larger crops.",
+        "front": "",
+        "main": "crop",
+        "parts-of-speech": "noun",
+        "word": "crop"
+    },
+    {
+        "back": "",
         "definition": "發達的",
         "example": "This city is well developed.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "developed"
     },
     {
+        "back": "",
         "definition": "從...減少",
         "example": "The country's population is down from 4,000 to 200.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "phrase",
         "word": "down from"
     },
     {
+        "back": "",
         "definition": "此軟體的創造者",
         "example": "The author of this app is Emmet.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "Emmet"
     },
     {
+        "back": "",
         "definition": "表示，表達，表露",
         "example": "We've received a lot of expressions of support for our campaign.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "expression"
     },
     {
+        "back": "",
+        "definition": "穀物",
+        "example": "Grain is one of the main exports of the American Midwest.",
+        "front": "",
+        "main": "grain",
+        "parts-of-speech": "noun",
+        "word": "grain"
+    },
+    {
+        "back": "",
+        "definition": "綠色革命",
+        "example": "Because of the Green Revolution, we have much food today.",
+        "front": "",
+        "main": "Green Revolution",
+        "parts-of-speech": "專有名詞",
+        "word": "Green Revolution"
+    },
+    {
+        "back": "horn",
+        "definition": "新手",
+        "example": "I'm new to this job. I'm a greenhorn.",
+        "front": "",
+        "main": "green",
+        "parts-of-speech": "noun",
+        "word": "greenhorn"
+    },
+    {
+        "back": "",
+        "definition": "嫉妒",
+        "example": "I'm jelous of your money.",
+        "front": "",
+        "main": "jealous",
+        "parts-of-speech": "adjective",
+        "word": "jealous"
+    },
+    {
+        "back": "y",
+        "definition": "嫉妒",
+        "example": "He broke his brother's bike because of jealousy.",
+        "front": "",
+        "main": "jealous",
+        "parts-of-speech": "noun",
+        "word": "jealousy"
+    },
+    {
+        "back": "",
+        "definition": "缺乏，缺少",
+        "example": "He just lacks a little confidence.",
+        "front": "",
+        "main": "lack",
+        "parts-of-speech": "verb",
+        "word": "lack"
+    },
+    {
+        "back": "",
         "definition": "顯而易見的，明顯的，顯著的",
         "example": "Those colorful flowers are noticeable.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "noticeable"
     },
     {
+        "back": "",
         "definition": "繁忙 活躍",
         "example": "Like most working mothers, she is always on the go.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "idiom",
         "word": "on the go"
     },
     {
+        "back": "",
         "definition": "人物的血統",
         "example": "The president's family was of poor origins.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "origin"
     },
     {
+        "back": "",
         "definition": "事物的起源",
         "example": "The story has unknown origins.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "origin"
     },
     {
+        "back": "",
         "definition": "起初的，原先的，最早的",
         "example": "The gardens have recently been restored to their original glory.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "original"
     },
     {
+        "back": "",
         "definition": "原本，起初，原先",
         "example": "Originally it was a bedroom, but we turned it into a study.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adverb",
         "word": "originally"
     },
     {
+        "back": "ant",
+        "definition": "令人愉快的",
+        "example": "What a pleasant surprise!",
+        "front": "",
+        "main": "please",
+        "parts-of-speech": "adjective",
+        "word": "pleasant"
+    },
+    {
+        "back": "",
+        "definition": "使開心，使滿意，取悅",
+        "example": "He pleased everyone by his moves.",
+        "front": "",
+        "main": "please",
+        "parts-of-speech": "verb",
+        "word": "please"
+    },
+    {
+        "back": "",
         "definition": "從政者，政治家，政客",
         "example": "The politician lost the election.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "politician"
     },
     {
+        "back": "",
         "definition": "人口",
         "example": "India has the highest population in the world.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "population"
     },
     {
+        "back": "",
         "definition": "更新，更換",
         "example": "In the spring, everything renewals.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "verb",
         "word": "renewal"
     },
     {
+        "back": "",
+        "definition": "成熟的",
+        "example": "Those bananas aren't ripe yet. They're still green.",
+        "front": "",
+        "main": "ripe",
+        "parts-of-speech": "adjective",
+        "word": "ripe"
+    },
+    {
+        "back": "",
         "definition": "粗糙的",
         "example": "My hands get rough in the cold.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "rough"
     },
     {
+        "back": "",
         "definition": "鄉村的",
         "example": "This area is still very rural.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "rural"
     },
     {
+        "back": "",
         "definition": "鄉村的",
         "example": "The rustic community is full of warmth and kindness.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "rustic"
     },
     {
+        "back": "",
         "definition": "芽，苗，新枝",
         "example": "Two weeks after we'd planted the seeds, little green shoots started to appear.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "shoot"
     },
     {
+        "back": "",
         "definition": "鏟子",
         "example": "I dug up some dirt with a spade.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "noun",
         "word": "spade"
     },
     {
+        "back": "",
         "definition": "單調乏味的，無趣的",
         "example": "Most forms of exercise are so tedious.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "tedious"
     },
     {
+        "back": "out",
+        "definition": "在各處",
+        "example": "People throughout the country are out of work.",
+        "front": "",
+        "main": "through",
+        "parts-of-speech": "preposition",
+        "word": "throughout"
+    },
+    {
+        "back": "",
         "definition": "不吸引人的;無趣的",
         "example": "Watching grass grow is uninteresting.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "uninteresting"
     },
     {
+        "back": "",
+        "definition": "令人不快的，使人討厭的",
+        "example": "What an unpleasant movement!",
+        "front": "un",
+        "main": "pleasant",
+        "parts-of-speech": "adjective",
+        "word": "unpleasant"
+    },
+    {
+        "back": "",
         "definition": "具木頭外觀的",
         "example": "This wood-like house was built by my grandfather.",
+        "front": "",
+        "main": "",
         "parts-of-speech": "adjective",
         "word": "wood-like"
     }
