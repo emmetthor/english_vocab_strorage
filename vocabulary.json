@@ -9,7 +9,7 @@
         "word": "acceptance"
     },
     {
-        "back": "al",
+        "back": "-al",
         "definition": "農業的",
         "example": "The world's supply of agricultural land is shrinking fast.",
         "front": "",
@@ -36,7 +36,7 @@
         "word": "appearance"
     },
     {
-        "back": "al",
+        "back": "-al",
         "definition": "贊成，同意，稱許",
         "example": "He showed his approval with a smile.",
         "front": "",
@@ -171,7 +171,7 @@
         "word": "Green Revolution"
     },
     {
-        "back": "horn",
+        "back": "-horn",
         "definition": "新手",
         "example": "I'm new to this job. I'm a greenhorn.",
         "front": "",
@@ -189,7 +189,7 @@
         "word": "jealous"
     },
     {
-        "back": "y",
+        "back": "-y",
         "definition": "嫉妒",
         "example": "He broke his brother's bike because of jealousy.",
         "front": "",
@@ -369,7 +369,7 @@
         "word": "tedious"
     },
     {
-        "back": "out",
+        "back": "-out",
         "definition": "在各處",
         "example": "People throughout the country are out of work.",
         "front": "",
@@ -390,7 +390,7 @@
         "back": "",
         "definition": "令人不快的，使人討厭的",
         "example": "What an unpleasant movement!",
-        "front": "un",
+        "front": "un-",
         "main": "pleasant",
         "parts-of-speech": "adjective",
         "word": "unpleasant"
