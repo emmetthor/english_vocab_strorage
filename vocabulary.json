@@ -91,6 +91,15 @@
     },
     {
         "back": "",
+        "definition": "(某人的)一群朋友",
+        "example": "My circle of friends has become smaller as I have got older.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "circle of friends"
+    },
+    {
+        "back": "",
         "definition": "城邦",
         "example": "Singapore is a highly developed city-state.",
         "front": "",
@@ -108,6 +117,15 @@
         "word": "community"
     },
     {
+        "back": "-ism",
+        "definition": "批評，批判",
+        "example": "I have a few criticisms to make about your speech.",
+        "front": "",
+        "main": "critic",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "criticism"
+    },
+    {
         "back": "",
         "definition": "收成，收穫量",
         "example": "Grains produced much larger crops.",
@@ -117,6 +135,24 @@
         "word": "crop"
     },
     {
+        "back": "-ed",
+        "definition": "過時的",
+        "example": "This kind of clothes is quite dated.",
+        "front": "",
+        "main": "date",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "dated"
+    },
+    {
+        "back": "",
+        "definition": "值得，應得",
+        "example": "You deserve it.",
+        "front": "de-",
+        "main": "serve",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "deserve"
+    },
+    {
         "back": "",
         "definition": "發達的",
         "example": "This city is well developed.",
@@ -124,6 +160,24 @@
         "main": "",
         "parts-of-speech": "adjective",
         "word": "developed"
+    },
+    {
+        "back": "",
+        "definition": "（未經仔細考慮地）給出，說出",
+        "example": "One of my friends asked me to dish out what happend that day.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "dish out"
+    },
+    {
+        "back": "",
+        "definition": "做飯",
+        "example": "I have dished dinner up. Come here to enjoy.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "dish up"
     },
     {
         "back": "",
@@ -145,12 +199,30 @@
     },
     {
         "back": "",
+        "definition": "特別，尤其，格外",
+        "example": "I like fruits, especially apples.",
+        "front": "e-",
+        "main": "specially",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "especially"
+    },
+    {
+        "back": "",
         "definition": "表示，表達，表露",
         "example": "We've received a lot of expressions of support for our campaign.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
         "word": "expression"
+    },
+    {
+        "back": "",
+        "definition": "（有關別人隱私的）流言蜚語，閒言閒語，閒聊",
+        "example": "Have you heard the latest gossip?",
+        "front": "",
+        "main": "（有關別人隱私的）流言蜚語，閒言閒語，閒聊",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "gossip"
     },
     {
         "back": "",
@@ -178,6 +250,42 @@
         "main": "green",
         "parts-of-speech": "noun",
         "word": "greenhorn"
+    },
+    {
+        "back": "",
+        "definition": "令人不快的，嚴酷的",
+        "example": "What  a harsh criticism!",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "harsh"
+    },
+    {
+        "back": "-ify",
+        "definition": "認出，識別",
+        "example": "Babies can identify their moms by their voice.",
+        "front": "",
+        "main": "ident",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "identify"
+    },
+    {
+        "back": "",
+        "definition": "侮辱，辱駡",
+        "example": "She made several insults about my appearance.",
+        "front": "",
+        "main": "insult",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "insult"
+    },
+    {
+        "back": "-ing",
+        "definition": "令人愉快的，吸引人的",
+        "example": "This table of dish is inviting to me.",
+        "front": "",
+        "main": "invite",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "inviting"
     },
     {
         "back": "",
@@ -316,6 +424,24 @@
     },
     {
         "back": "",
+        "definition": "麵包捲",
+        "example": "I cooded some sweet potato rosemary dinner rolls.",
+        "front": "",
+        "main": "roll",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "roll"
+    },
+    {
+        "back": "",
+        "definition": "迷迭香",
+        "example": "",
+        "front": "",
+        "main": "rosemary",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "rosemary"
+    },
+    {
+        "back": "",
         "definition": "粗糙的",
         "example": "My hands get rough in the cold.",
         "front": "",
@@ -352,12 +478,66 @@
     },
     {
         "back": "",
+        "definition": "簽名",
+        "example": "Please sign here to complete the process.",
+        "front": "",
+        "main": "sign",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "sign"
+    },
+    {
+        "back": "-ature",
+        "definition": "簽名",
+        "example": "Your sigature dish tastes really wonderful.",
+        "front": "",
+        "main": "sign",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "signature"
+    },
+    {
+        "back": "",
         "definition": "鏟子",
         "example": "I dug up some dirt with a spade.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
         "word": "spade"
+    },
+    {
+        "back": "",
+        "definition": "特殊的，特別的，不尋常的",
+        "example": "The car is special because of its windows.",
+        "front": "",
+        "main": "special",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "special"
+    },
+    {
+        "back": "-ly",
+        "definition": "極其，特別地，尤其",
+        "example": "This is a specially good wine.",
+        "front": "",
+        "main": "special",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "specially"
+    },
+    {
+        "back": "",
+        "definition": "主題",
+        "example": "Our subject for discussion is homelessness.",
+        "front": "",
+        "main": "subject",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "subject"
+    },
+    {
+        "back": "",
+        "definition": "戲弄，逗弄",
+        "example": "He always teases me in an aggressive way.",
+        "front": "",
+        "main": "tease",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "tease"
     },
     {
         "back": "",
