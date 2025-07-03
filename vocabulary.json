@@ -9,6 +9,24 @@
         "word": "acceptance"
     },
     {
+        "back": "-ation",
+        "definition": "指控，控告",
+        "example": "You can't make wild accusations to others.",
+        "front": "",
+        "main": "accuse",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "accusation"
+    },
+    {
+        "back": "-able",
+        "definition": "付得起的，買得起的",
+        "example": "These clothes are at affordable prices.",
+        "front": "",
+        "main": "affford",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "affordable"
+    },
+    {
         "back": "-al",
         "definition": "農業的",
         "example": "The world's supply of agricultural land is shrinking fast.",
@@ -54,6 +72,42 @@
         "word": "approve"
     },
     {
+        "back": "-ity",
+        "definition": "可得性",
+        "example": "There is limited ticket availability, so book early to avoid disappointment.",
+        "front": "",
+        "main": "available",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "availability"
+    },
+    {
+        "back": "-able",
+        "definition": "可獲得的，可用的",
+        "example": "What item is available today?",
+        "front": "",
+        "main": "avail",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "available"
+    },
+    {
+        "back": "",
+        "definition": "相信，信心",
+        "example": "All religious and political beliefs should be respected equally.",
+        "front": "",
+        "main": "belief",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "belief"
+    },
+    {
+        "back": "",
+        "definition": "雙目的",
+        "example": "There's a binocular microscope.",
+        "front": "bin-",
+        "main": "ocular",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "binocular"
+    },
+    {
         "back": "",
         "definition": "開花，綻放",
         "example": "The flowers all bloomed.",
@@ -61,6 +115,15 @@
         "main": "",
         "parts-of-speech": "verb",
         "word": "bloom"
+    },
+    {
+        "back": "",
+        "definition": "生活(相關)問題",
+        "example": "Food prices are the bread-and-butter issues that most families have.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "專有名詞 (proper noun)",
+        "word": "bread-and-butter issues"
     },
     {
         "back": "",
@@ -79,6 +142,15 @@
         "main": "",
         "parts-of-speech": "noun",
         "word": "campaign"
+    },
+    {
+        "back": "",
+        "definition": "某，某個，某些",
+        "example": "Division by zero is possible in certain special cases.",
+        "front": "",
+        "main": "certain",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "certain"
     },
     {
         "back": "",
@@ -108,6 +180,15 @@
         "word": "city-state"
     },
     {
+        "back": "-ic",
+        "definition": "典型的，經典的",
+        "example": "\"War and Peace\" is a classic book of all time.",
+        "front": "",
+        "main": "class",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "classic"
+    },
+    {
         "back": "",
         "definition": "社區，社群",
         "example": "The community is well-known because of its food.",
@@ -115,6 +196,15 @@
         "main": "",
         "parts-of-speech": "noun",
         "word": "community"
+    },
+    {
+        "back": "",
+        "definition": "吃完，喝完",
+        "example": "Americans consumed 2 billion hot dogs last year.",
+        "front": "",
+        "main": "consume",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "consume"
     },
     {
         "back": "-ism",
@@ -144,6 +234,15 @@
         "word": "dated"
     },
     {
+        "back": "-ly",
+        "definition": "明確的，明顯的",
+        "example": "He is definitely coming.",
+        "front": "",
+        "main": "definite",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "definitely"
+    },
+    {
         "back": "",
         "definition": "值得，應得",
         "example": "You deserve it.",
@@ -153,6 +252,15 @@
         "word": "deserve"
     },
     {
+        "back": "-ed",
+        "definition": "預期的",
+        "example": "His words had the desired effect.",
+        "front": "",
+        "main": "desire",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "desired"
+    },
+    {
         "back": "",
         "definition": "發達的",
         "example": "This city is well developed.",
@@ -160,6 +268,24 @@
         "main": "",
         "parts-of-speech": "adjective",
         "word": "developed"
+    },
+    {
+        "back": "",
+        "definition": "錶盤，儀表盤，旋鈕，調節器",
+        "example": "The dial on the washing machine is broken.",
+        "front": "",
+        "main": "dial",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "dial"
+    },
+    {
+        "back": "",
+        "definition": "浸泡",
+        "example": "He dipped his finger to check whether the water is hot or not.",
+        "front": "",
+        "main": "dip",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "dip"
     },
     {
         "back": "",
@@ -181,12 +307,30 @@
     },
     {
         "back": "",
+        "definition": "遙遠的",
+        "example": "I heard the distant explosion.",
+        "front": "",
+        "main": "distant",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "distant"
+    },
+    {
+        "back": "",
         "definition": "從...減少",
         "example": "The country's population is down from 4,000 to 200.",
         "front": "",
         "main": "",
         "parts-of-speech": "phrase",
         "word": "down from"
+    },
+    {
+        "back": "",
+        "definition": "吸引",
+        "example": "He's an excellent speaker who always draws a crowd.",
+        "front": "",
+        "main": "draw",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "draw"
     },
     {
         "back": "",
@@ -207,6 +351,15 @@
         "word": "especially"
     },
     {
+        "back": "-ence",
+        "definition": "證據，證明",
+        "example": "There's no evidence to prove that he committed a crime.",
+        "front": "",
+        "main": "evid",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "evidence"
+    },
+    {
         "back": "",
         "definition": "表示，表達，表露",
         "example": "We've received a lot of expressions of support for our campaign.",
@@ -214,6 +367,33 @@
         "main": "",
         "parts-of-speech": "noun",
         "word": "expression"
+    },
+    {
+        "back": "",
+        "definition": "因素",
+        "example": "The combination of several factors caused this accident.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "factor"
+    },
+    {
+        "back": "-away",
+        "definition": "遙遠的",
+        "example": "The faraway country produces milk as its main export.",
+        "front": "",
+        "main": "far",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "faraway"
+    },
+    {
+        "back": "",
+        "definition": "中心，焦點",
+        "example": "What is the focus of your report?",
+        "front": "",
+        "main": "focus",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "focus"
     },
     {
         "back": "",
@@ -261,6 +441,15 @@
         "word": "harsh"
     },
     {
+        "back": "",
+        "definition": "中心，樞紐",
+        "example": "The hub of America's economy is New York.",
+        "front": "",
+        "main": "hub",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "hub"
+    },
+    {
         "back": "-ify",
         "definition": "認出，識別",
         "example": "Babies can identify their moms by their voice.",
@@ -270,6 +459,42 @@
         "word": "identify"
     },
     {
+        "back": "-ity",
+        "definition": "身分，本身",
+        "example": "The man's identity is kept as a secret.",
+        "front": "",
+        "main": "ident",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "identity"
+    },
+    {
+        "back": "",
+        "definition": "介於兩者之間的",
+        "example": "Swiches don't have in-between settings like with a dial.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "in-between"
+    },
+    {
+        "back": "-ual",
+        "definition": "個體",
+        "example": "Every individuals has their own rights.",
+        "front": "in-",
+        "main": "divide",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "individual"
+    },
+    {
+        "back": "",
+        "definition": "告知",
+        "example": "I should have been informed about this problem, but I didn’t receive anything.",
+        "front": "in-",
+        "main": "form",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "inform"
+    },
+    {
         "back": "",
         "definition": "侮辱，辱駡",
         "example": "She made several insults about my appearance.",
@@ -277,6 +502,15 @@
         "main": "insult",
         "parts-of-speech": "名詞 (noun)",
         "word": "insult"
+    },
+    {
+        "back": "-tion",
+        "definition": "調查",
+        "example": "After several weeks of investigation, the murder was finally proved to be an accident.",
+        "front": "",
+        "main": "investigate",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "investigation"
     },
     {
         "back": "-ing",
@@ -307,12 +541,75 @@
     },
     {
         "back": "",
+        "definition": "敏銳的，敏捷的",
+        "example": "He has a keen sense of smell.",
+        "front": "",
+        "main": "keen",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "keen"
+    },
+    {
+        "back": "",
         "definition": "缺乏，缺少",
         "example": "He just lacks a little confidence.",
         "front": "",
         "main": "lack",
         "parts-of-speech": "verb",
         "word": "lack"
+    },
+    {
+        "back": "-ihood",
+        "definition": "生計，飯碗",
+        "example": "That farm is his livelihood.",
+        "front": "",
+        "main": "live",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "livelihood"
+    },
+    {
+        "back": "-s",
+        "definition": "(特指)方法，手段",
+        "example": "His means of earning money is unacceptable.",
+        "front": "",
+        "main": "mean",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "means"
+    },
+    {
+        "back": "-able",
+        "definition": "值得懷念的",
+        "example": "This is the most memorable day of my life.",
+        "front": "",
+        "main": "memory",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "memorable"
+    },
+    {
+        "back": "",
+        "definition": "愉快的，快樂的，興高采烈的",
+        "example": "The more people come, the merrier we are.",
+        "front": "",
+        "main": "merry",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "merry"
+    },
+    {
+        "back": "",
+        "definition": "隱喻",
+        "example": "",
+        "front": "",
+        "main": "metaphor",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "metaphor"
+    },
+    {
+        "back": "",
+        "definition": "惡劣行為",
+        "example": "The man went to jail because of his misbehavior.",
+        "front": "mis-",
+        "main": "behavior",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "misbehavior"
     },
     {
         "back": "",
@@ -322,6 +619,15 @@
         "main": "",
         "parts-of-speech": "adjective",
         "word": "noticeable"
+    },
+    {
+        "back": "-ant",
+        "definition": "善於觀察的，觀察力敏銳的，機警的",
+        "example": "An observant person can always notice things before others.",
+        "front": "",
+        "main": "observe",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "observant"
     },
     {
         "back": "",
@@ -334,8 +640,35 @@
     },
     {
         "back": "",
-        "definition": "人物的血統",
-        "example": "The president's family was of poor origins.",
+        "definition": "運行，運作，操作，起作用",
+        "example": "Operating this machine is hard for greenhorns like me.",
+        "front": "",
+        "main": "operate",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "operate"
+    },
+    {
+        "back": "",
+        "definition": "對手",
+        "example": "The political opponent has lost the election.",
+        "front": "",
+        "main": "opponent",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "opponent"
+    },
+    {
+        "back": "-ic",
+        "definition": "有機的，不使用化肥的",
+        "example": "The restaurant has changed the price of organic vegetables.",
+        "front": "",
+        "main": "organ",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "organic"
+    },
+    {
+        "back": "",
+        "definition": "事物的起源",
+        "example": "The story has unknown origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
@@ -343,8 +676,8 @@
     },
     {
         "back": "",
-        "definition": "事物的起源",
-        "example": "The story has unknown origins.",
+        "definition": "人物的血統",
+        "example": "The president's family was of poor origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
@@ -367,6 +700,51 @@
         "main": "",
         "parts-of-speech": "adverb",
         "word": "originally"
+    },
+    {
+        "back": "",
+        "definition": "全面的，總的來說",
+        "example": "An overall view can help you know what to focus on.",
+        "front": "over-",
+        "main": "all",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "overall"
+    },
+    {
+        "back": "",
+        "definition": "察覺，注意到，意識到",
+        "example": "I perceived a little cat hiding beneath a bench.",
+        "front": "per-",
+        "main": "ceive",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "perceive"
+    },
+    {
+        "back": "-ive",
+        "definition": "感知能力強的，觀察敏銳的，有洞察力的",
+        "example": "Being perceptive allows you to notice things others might easily miss.",
+        "front": "",
+        "main": "percept",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "perceptive"
+    },
+    {
+        "back": "",
+        "definition": "堆積，疊上",
+        "example": "He piled the books on top of each other.",
+        "front": "",
+        "main": "pile",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "pile"
+    },
+    {
+        "back": "-ful",
+        "definition": "愛開玩笑的，嬉戲的",
+        "example": "He is now in a playful mood.",
+        "front": "",
+        "main": "play",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "playful"
     },
     {
         "back": "ant",
@@ -396,6 +774,15 @@
         "word": "politician"
     },
     {
+        "back": "-ity",
+        "definition": "普及度，流行程度",
+        "example": "Cellphones has gained populariy since they are useful.",
+        "front": "",
+        "main": "popular",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "popularity"
+    },
+    {
         "back": "",
         "definition": "人口",
         "example": "India has the highest population in the world.",
@@ -403,6 +790,87 @@
         "main": "",
         "parts-of-speech": "noun",
         "word": "population"
+    },
+    {
+        "back": "-cy",
+        "definition": "懷孕",
+        "example": "",
+        "front": "",
+        "main": "pregnant",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "pregnancy"
+    },
+    {
+        "back": "",
+        "definition": "進行，進步",
+        "example": "Technology is always progressing.",
+        "front": "pro-",
+        "main": "gress",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "progress"
+    },
+    {
+        "back": "-ly",
+        "definition": "僅僅，純粹地",
+        "example": "We made this decision only for financial reasons.",
+        "front": "",
+        "main": "pure",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "purely"
+    },
+    {
+        "back": "-out",
+        "definition": "輸出，讀出，顯示，列印",
+        "example": "Digital number reaouts replaced the hands on old clocks.",
+        "front": "",
+        "main": "read",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "readout"
+    },
+    {
+        "back": "",
+        "definition": "地區",
+        "example": "Some regions have their own special dishes.",
+        "front": "",
+        "main": "region",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "region"
+    },
+    {
+        "back": "-al",
+        "definition": "地區性的",
+        "example": "The regional accent here is hard to understand.",
+        "front": "",
+        "main": "region",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "regional"
+    },
+    {
+        "back": "-ous",
+        "definition": "宗教的，宗教上的",
+        "example": "I don't have any kinds of religious beliefs.",
+        "front": "",
+        "main": "religion",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "religious"
+    },
+    {
+        "back": "",
+        "definition": "甜醬",
+        "example": "",
+        "front": "",
+        "main": "relish",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "relish"
+    },
+    {
+        "back": "",
+        "definition": "保持不變，仍然是",
+        "example": "It remains a secret.",
+        "front": "re-",
+        "main": "main",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "remain"
     },
     {
         "back": "",
@@ -421,6 +889,15 @@
         "main": "ripe",
         "parts-of-speech": "adjective",
         "word": "ripe"
+    },
+    {
+        "back": "",
+        "definition": "烤，炙",
+        "example": "Some people likes to roast hot dogs around a campfire.",
+        "front": "",
+        "main": "roast",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "roast"
     },
     {
         "back": "",
@@ -469,6 +946,15 @@
     },
     {
         "back": "",
+        "definition": "範圍",
+        "example": "The problem is outside the scope of my knowledge.",
+        "front": "",
+        "main": "scope",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "scope"
+    },
+    {
+        "back": "",
         "definition": "芽，苗，新枝",
         "example": "Two weeks after we'd planted the seeds, little green shoots started to appear.",
         "front": "",
@@ -493,6 +979,15 @@
         "main": "sign",
         "parts-of-speech": "名詞 (noun)",
         "word": "signature"
+    },
+    {
+        "back": "",
+        "definition": "浸泡(長時間的)",
+        "example": "He soaked his socks with detergent.",
+        "front": "",
+        "main": "soak",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "soak"
     },
     {
         "back": "",
@@ -523,12 +1018,48 @@
     },
     {
         "back": "",
+        "definition": "運動館，體育場",
+        "example": "There are many people waiting in the stadium to enjoy the baseball game.",
+        "front": "",
+        "main": "stadium",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "stadium"
+    },
+    {
+        "back": "",
+        "definition": "以...開始",
+        "example": "She start off the meeting with her report.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "start off"
+    },
+    {
+        "back": "",
+        "definition": "靜電干擾",
+        "example": "The noise of a radio is called static.",
+        "front": "",
+        "main": "static",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "static"
+    },
+    {
+        "back": "",
         "definition": "主題",
         "example": "Our subject for discussion is homelessness.",
         "front": "",
         "main": "subject",
         "parts-of-speech": "名詞 (noun)",
         "word": "subject"
+    },
+    {
+        "back": "-ity",
+        "definition": "可持續性",
+        "example": "The long-term sustainability is important for a community.",
+        "front": "",
+        "main": "sustainable",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "sustainability"
     },
     {
         "back": "",
@@ -549,6 +1080,33 @@
         "word": "tedious"
     },
     {
+        "back": "",
+        "definition": "術語，專門名稱，措詞",
+        "example": "\"Without let or hindrance\" is a legal term that means \"freely\".",
+        "front": "",
+        "main": "term",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "term"
+    },
+    {
+        "back": "-ian",
+        "definition": "神學家",
+        "example": "He is a theologian who studies the Buddha.",
+        "front": "",
+        "main": "theology",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "theologian"
+    },
+    {
+        "back": "",
+        "definition": "威脅",
+        "example": "Human activity has caused threats to wildlife",
+        "front": "",
+        "main": "threat",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "threat"
+    },
+    {
         "back": "-out",
         "definition": "在各處",
         "example": "People throughout the country are out of work.",
@@ -556,6 +1114,15 @@
         "main": "through",
         "parts-of-speech": "preposition",
         "word": "throughout"
+    },
+    {
+        "back": "",
+        "definition": "收看，收聽",
+        "example": "Be sure to tune in to next week's show.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "tune in"
     },
     {
         "back": "",
@@ -583,5 +1150,14 @@
         "main": "",
         "parts-of-speech": "adjective",
         "word": "wood-like"
+    },
+    {
+        "back": "",
+        "definition": "包裝",
+        "example": "The restaurant always wrap their hot dog in brown paper.",
+        "front": "",
+        "main": "wrap",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "wrap"
     }
 ]
