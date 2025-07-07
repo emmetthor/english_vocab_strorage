@@ -1,6 +1,15 @@
 [
     {
         "back": "",
+        "definition": "",
+        "example": "",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "名詞 (noun)",
+        "word": ""
+    },
+    {
+        "back": "",
         "definition": "認可，接納",
         "example": "The party marked his acceptance into the community.",
         "front": "",
@@ -64,6 +73,15 @@
     },
     {
         "back": "",
+        "definition": "年度的",
+        "example": "The annual event is always held in the first day of the year.",
+        "front": "",
+        "main": "annual",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "annual"
+    },
+    {
+        "back": "",
         "definition": "外觀",
         "example": "He is a man of smart appearance",
         "front": "",
@@ -88,6 +106,15 @@
         "main": "approve",
         "parts-of-speech": "verb",
         "word": "approve"
+    },
+    {
+        "back": "",
+        "definition": "氣氛",
+        "example": "The atmosphere at the restaurant is awful—everyone's shouting!",
+        "front": "",
+        "main": "atmosphere",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "atmosphere"
     },
     {
         "back": "",
@@ -259,6 +286,15 @@
         "main": "",
         "parts-of-speech": "專有名詞 (proper noun)",
         "word": "cold snap"
+    },
+    {
+        "back": "",
+        "definition": "舒適，舒服",
+        "example": "It's little too hot for comfort.",
+        "front": "",
+        "main": "comfort",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "comfort"
     },
     {
         "back": "",
@@ -477,6 +513,15 @@
         "word": "evidence"
     },
     {
+        "back": "-ment",
+        "definition": "刺激，興奮",
+        "example": "The baby's first step caused a great excitement.",
+        "front": "",
+        "main": "excite",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "excitement"
+    },
+    {
         "back": "",
         "definition": "展覽會",
         "example": "I attended an exhibition about cars.",
@@ -538,6 +583,15 @@
         "main": "focus",
         "parts-of-speech": "名詞 (noun)",
         "word": "focus"
+    },
+    {
+        "back": "",
+        "definition": "準備生產",
+        "example": "",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "go into labor"
     },
     {
         "back": "",
@@ -954,6 +1008,24 @@
         "word": "perceptive"
     },
     {
+        "back": "",
+        "definition": "危險的",
+        "example": "Walking alone at night is really perilous.",
+        "front": "",
+        "main": "perilous",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "perilous"
+    },
+    {
+        "back": "",
+        "definition": "永恆的，永久的",
+        "example": "A vendor is not a permanent store.",
+        "front": "",
+        "main": "permanent",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "permanent"
+    },
+    {
         "back": "-cation",
         "definition": "擬人化，人格化",
         "example": "Jack Frost is the personification of winter.",
@@ -999,6 +1071,15 @@
         "word": "please"
     },
     {
+        "back": "-ry",
+        "definition": "詩歌",
+        "example": "",
+        "front": "",
+        "main": "poet",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "poetry"
+    },
+    {
         "back": "",
         "definition": "從政者，政治家，政客",
         "example": "The politician lost the election.",
@@ -1033,6 +1114,15 @@
         "main": "possess",
         "parts-of-speech": "動詞 (verb)",
         "word": "possess"
+    },
+    {
+        "back": "",
+        "definition": "潛在的，可能的",
+        "example": "Be careful of potential dangers.",
+        "front": "",
+        "main": "potential",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "potential"
     },
     {
         "back": "",
@@ -1114,6 +1204,15 @@
         "main": "rehearsal",
         "parts-of-speech": "名詞 (noun)",
         "word": "rehearsal"
+    },
+    {
+        "back": "",
+        "definition": "緩和，減輕，解除",
+        "example": "The pills gave him some relief.",
+        "front": "",
+        "main": "relief",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "relief"
     },
     {
         "back": "-ous",
@@ -1234,6 +1333,15 @@
     },
     {
         "back": "",
+        "definition": "圍巾，頭巾",
+        "example": "Here is a bule scarf. Who is it belongs to?",
+        "front": "",
+        "main": "scarf",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "scarf"
+    },
+    {
+        "back": "",
         "definition": "範圍",
         "example": "The problem is outside the scope of my knowledge.",
         "front": "",
@@ -1276,6 +1384,15 @@
         "main": "simultaneous",
         "parts-of-speech": "副詞 (adverb)",
         "word": "simultaneously"
+    },
+    {
+        "back": "",
+        "definition": "打滑",
+        "example": "The taxi skided on the road and caused an accident.",
+        "front": "",
+        "main": "skid",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "skid"
     },
     {
         "back": "-ly",
@@ -1357,6 +1474,15 @@
         "main": "subject",
         "parts-of-speech": "名詞 (noun)",
         "word": "subject"
+    },
+    {
+        "back": "",
+        "definition": "察覺，懷疑",
+        "example": "If you suspect any kind of threat, call 110.",
+        "front": "",
+        "main": "suspect",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "suspect"
     },
     {
         "back": "-ity",
@@ -1447,6 +1573,15 @@
         "main": "",
         "parts-of-speech": "片語 (phrase)",
         "word": "tune in"
+    },
+    {
+        "back": "-ly",
+        "definition": "通常，一般",
+        "example": "Video games are typically made by Unity.",
+        "front": "",
+        "main": "typical",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "typically"
     },
     {
         "back": "-ly",
