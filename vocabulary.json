@@ -9,6 +9,15 @@
         "word": "acceptance"
     },
     {
+        "back": "",
+        "definition": "讀取",
+        "example": "The hackers accessed the secret file.",
+        "front": "",
+        "main": "access",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "access"
+    },
+    {
         "back": "-ation",
         "definition": "指控，控告",
         "example": "You can't make wild accusations to others.",
@@ -16,6 +25,15 @@
         "main": "accuse",
         "parts-of-speech": "名詞 (noun)",
         "word": "accusation"
+    },
+    {
+        "back": "-al",
+        "definition": "附加的，額外的",
+        "example": "Additional developments are planned to improve the app's performance.",
+        "front": "",
+        "main": "addition",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "additional"
     },
     {
         "back": "-able",
@@ -72,6 +90,15 @@
         "word": "approve"
     },
     {
+        "back": "",
+        "definition": "附加，連接",
+        "example": "The E-mail is attached with a file.",
+        "front": "",
+        "main": "attach",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "attach"
+    },
+    {
         "back": "-ity",
         "definition": "可得性",
         "example": "There is limited ticket availability, so book early to avoid disappointment.",
@@ -88,6 +115,15 @@
         "main": "avail",
         "parts-of-speech": "形容詞 (adjective)",
         "word": "available"
+    },
+    {
+        "back": "",
+        "definition": "應該，預期",
+        "example": "This exercise isn't meant to be difficult.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "be meant to"
     },
     {
         "back": "",
@@ -118,6 +154,15 @@
     },
     {
         "back": "",
+        "definition": "粗樹枝",
+        "example": "",
+        "front": "",
+        "main": "bough",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "bough"
+    },
+    {
+        "back": "",
         "definition": "生活(相關)問題",
         "example": "Food prices are the bread-and-butter issues that most families have.",
         "front": "",
@@ -133,6 +178,15 @@
         "main": "",
         "parts-of-speech": "noun",
         "word": "bud"
+    },
+    {
+        "back": "",
+        "definition": "穿暖一點",
+        "example": "The kids were bundled up in coats.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "bundle up"
     },
     {
         "back": "",
@@ -180,6 +234,15 @@
         "word": "city-state"
     },
     {
+        "back": "",
+        "definition": "聲稱，主張",
+        "example": "The company claims that it is not responsible for the pollution in the river.",
+        "front": "",
+        "main": "claim",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "claim"
+    },
+    {
         "back": "-ic",
         "definition": "典型的，經典的",
         "example": "\"War and Peace\" is a classic book of all time.",
@@ -187,6 +250,15 @@
         "main": "class",
         "parts-of-speech": "形容詞 (adjective)",
         "word": "classic"
+    },
+    {
+        "back": "",
+        "definition": "寒流",
+        "example": "As the cold snap comes, winter is coming.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "專有名詞 (proper noun)",
+        "word": "cold snap"
     },
     {
         "back": "",
@@ -199,12 +271,39 @@
     },
     {
         "back": "",
+        "definition": "同意，準許",
+        "example": "You should get your parents' consent to join the party.",
+        "front": "",
+        "main": "consent",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "consent"
+    },
+    {
+        "back": "",
         "definition": "吃完，喝完",
         "example": "Americans consumed 2 billion hot dogs last year.",
         "front": "",
         "main": "consume",
         "parts-of-speech": "動詞 (verb)",
         "word": "consume"
+    },
+    {
+        "back": "-er",
+        "definition": "反對，反擊",
+        "example": "New technology countered the misuse of tracking.",
+        "front": "",
+        "main": "count",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "counter"
+    },
+    {
+        "back": "",
+        "definition": "羽飾，徽章",
+        "example": "That's the soldier's crest.",
+        "front": "",
+        "main": "crest",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "crest"
     },
     {
         "back": "-ism",
@@ -234,6 +333,15 @@
         "word": "dated"
     },
     {
+        "back": "",
+        "definition": "不履行，拖欠",
+        "example": "The player defaulted the game since the injury on his feet.",
+        "front": "de-",
+        "main": "fault",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "default"
+    },
+    {
         "back": "-ly",
         "definition": "明確的，明顯的",
         "example": "He is definitely coming.",
@@ -259,6 +367,15 @@
         "main": "desire",
         "parts-of-speech": "形容詞 (adjective)",
         "word": "desired"
+    },
+    {
+        "back": "",
+        "definition": "偵測",
+        "example": "Some sounds can not be detected by human.",
+        "front": "",
+        "main": "detect",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "detect"
     },
     {
         "back": "",
@@ -361,6 +478,15 @@
     },
     {
         "back": "",
+        "definition": "展覽會",
+        "example": "I attended an exhibition about cars.",
+        "front": "",
+        "main": "exhibition",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "exhibition"
+    },
+    {
+        "back": "",
         "definition": "表示，表達，表露",
         "example": "We've received a lot of expressions of support for our campaign.",
         "front": "",
@@ -370,12 +496,30 @@
     },
     {
         "back": "",
+        "definition": "特別的，非凡的",
+        "example": "His strength of will is extraordinary.",
+        "front": "extra-",
+        "main": "ordinary",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "extraordinary"
+    },
+    {
+        "back": "",
         "definition": "因素",
         "example": "The combination of several factors caused this accident.",
         "front": "",
         "main": "",
         "parts-of-speech": "名詞 (noun)",
         "word": "factor"
+    },
+    {
+        "back": "",
+        "definition": "誤報",
+        "example": "The false earthquake alarm from the government is annoying.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "專有名詞 (proper noun)",
+        "word": "false alarm"
     },
     {
         "back": "-away",
@@ -468,6 +612,15 @@
         "word": "identity"
     },
     {
+        "back": "-ary",
+        "definition": "想像中的，虛構的",
+        "example": "I have an imaginal friend when I wa little.",
+        "front": "",
+        "main": "imagine",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "imaginary"
+    },
+    {
         "back": "",
         "definition": "介於兩者之間的",
         "example": "Swiches don't have in-between settings like with a dial.",
@@ -475,6 +628,15 @@
         "main": "",
         "parts-of-speech": "形容詞 (adjective)",
         "word": "in-between"
+    },
+    {
+        "back": "",
+        "definition": "的確，確實",
+        "example": "He is indeed a good teacher.",
+        "front": "",
+        "main": "indeed",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "indeed"
     },
     {
         "back": "-ual",
@@ -538,6 +700,15 @@
         "main": "jealous",
         "parts-of-speech": "noun",
         "word": "jealousy"
+    },
+    {
+        "back": "",
+        "definition": "旅行",
+        "example": "Have a great journey!",
+        "front": "",
+        "main": "journey",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "journey"
     },
     {
         "back": "",
@@ -613,12 +784,39 @@
     },
     {
         "back": "",
+        "definition": "動機",
+        "example": "His motive to help me was unclear.",
+        "front": "",
+        "main": "motive",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "motive"
+    },
+    {
+        "back": "-ing",
+        "definition": "同時做多件事",
+        "example": "To succeed, you will need a strong multitasking skill.",
+        "front": "",
+        "main": "multitask",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "multitasking"
+    },
+    {
+        "back": "",
         "definition": "顯而易見的，明顯的，顯著的",
         "example": "Those colorful flowers are noticeable.",
         "front": "",
         "main": "",
         "parts-of-speech": "adjective",
         "word": "noticeable"
+    },
+    {
+        "back": "",
+        "definition": "通知",
+        "example": "When there's an earthquake, the app will notify you with a ding.",
+        "front": "",
+        "main": "notify",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "notify"
     },
     {
         "back": "-ant",
@@ -667,8 +865,8 @@
     },
     {
         "back": "",
-        "definition": "事物的起源",
-        "example": "The story has unknown origins.",
+        "definition": "人物的血統",
+        "example": "The president's family was of poor origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
@@ -676,8 +874,8 @@
     },
     {
         "back": "",
-        "definition": "人物的血統",
-        "example": "The president's family was of poor origins.",
+        "definition": "事物的起源",
+        "example": "The story has unknown origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
@@ -711,6 +909,33 @@
         "word": "overall"
     },
     {
+        "back": "-ed",
+        "definition": "過度承諾",
+        "example": "He overcommitted himself by attending five clubs at the same time.",
+        "front": "",
+        "main": "overcommit",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "overcommitted"
+    },
+    {
+        "back": "-ed",
+        "definition": "壓力大到喘不過氣",
+        "example": "He is overextended at work and at home.",
+        "front": "",
+        "main": "overextend",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "overextended"
+    },
+    {
+        "back": "",
+        "definition": "不知所措",
+        "example": "Since I have to finish the project tomorrow but I havn't started yet, I feel overwhelmed.",
+        "front": "",
+        "main": "overwhelm",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "overwhelmed"
+    },
+    {
         "back": "",
         "definition": "察覺，注意到，意識到",
         "example": "I perceived a little cat hiding beneath a bench.",
@@ -727,6 +952,15 @@
         "main": "percept",
         "parts-of-speech": "形容詞 (adjective)",
         "word": "perceptive"
+    },
+    {
+        "back": "-cation",
+        "definition": "擬人化，人格化",
+        "example": "Jack Frost is the personification of winter.",
+        "front": "",
+        "main": "presonify",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "personification"
     },
     {
         "back": "",
@@ -792,6 +1026,24 @@
         "word": "population"
     },
     {
+        "back": "",
+        "definition": "具有",
+        "example": "I don't possess the ability to earn money.",
+        "front": "",
+        "main": "possess",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "possess"
+    },
+    {
+        "back": "",
+        "definition": "往...擦粉",
+        "example": "",
+        "front": "",
+        "main": "powder",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "powder"
+    },
+    {
         "back": "-cy",
         "definition": "懷孕",
         "example": "",
@@ -799,6 +1051,15 @@
         "main": "pregnant",
         "parts-of-speech": "名詞 (noun)",
         "word": "pregnancy"
+    },
+    {
+        "back": "-ce",
+        "definition": "出席，在場",
+        "example": "I was surprised by the presence of so many people at the meeting.",
+        "front": "",
+        "main": "present",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "presence"
     },
     {
         "back": "",
@@ -846,6 +1107,15 @@
         "word": "regional"
     },
     {
+        "back": "",
+        "definition": "排練，排演，試演",
+        "example": "The students have rehearals for the show tonight.",
+        "front": "",
+        "main": "rehearsal",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "rehearsal"
+    },
+    {
         "back": "-ous",
         "definition": "宗教的，宗教上的",
         "example": "I don't have any kinds of religious beliefs.",
@@ -862,6 +1132,15 @@
         "main": "relish",
         "parts-of-speech": "名詞 (noun)",
         "word": "relish"
+    },
+    {
+        "back": "",
+        "definition": "維持",
+        "example": "All the other problems remained secret.",
+        "front": "re-",
+        "main": "main",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "remain"
     },
     {
         "back": "",
@@ -946,6 +1225,15 @@
     },
     {
         "back": "",
+        "definition": "掃描",
+        "example": "He scaned the file with a scanner.",
+        "front": "",
+        "main": "scan",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "scan"
+    },
+    {
+        "back": "",
         "definition": "範圍",
         "example": "The problem is outside the scope of my knowledge.",
         "front": "",
@@ -979,6 +1267,24 @@
         "main": "sign",
         "parts-of-speech": "名詞 (noun)",
         "word": "signature"
+    },
+    {
+        "back": "-ly",
+        "definition": "同時的",
+        "example": "He likes to study and listento music simultaneously.",
+        "front": "",
+        "main": "simultaneous",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "simultaneously"
+    },
+    {
+        "back": "-ly",
+        "definition": "輕微的，稍為的",
+        "example": "I'm slightly upset because one of my friends forgot my birthday.",
+        "front": "",
+        "main": "slight",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "slightly"
     },
     {
         "back": "",
@@ -1099,6 +1405,15 @@
     },
     {
         "back": "",
+        "definition": "徹底的，完全的",
+        "example": "The doctor did a thorough check, but still missed the point.",
+        "front": "",
+        "main": "thorough",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "thorough"
+    },
+    {
+        "back": "",
         "definition": "威脅",
         "example": "Human activity has caused threats to wildlife",
         "front": "",
@@ -1117,12 +1432,30 @@
     },
     {
         "back": "",
+        "definition": "傳送",
+        "example": "The ratio tower is used to transmit TV signals.",
+        "front": "",
+        "main": "transmit",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "transmit"
+    },
+    {
+        "back": "",
         "definition": "收看，收聽",
         "example": "Be sure to tune in to next week's show.",
         "front": "",
         "main": "",
         "parts-of-speech": "片語 (phrase)",
         "word": "tune in"
+    },
+    {
+        "back": "-ly",
+        "definition": "最終，最後",
+        "example": "Ultimately, they called the police.",
+        "front": "",
+        "main": "ultimate",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "ultimately"
     },
     {
         "back": "",
@@ -1141,6 +1474,24 @@
         "main": "pleasant",
         "parts-of-speech": "adjective",
         "word": "unpleasant"
+    },
+    {
+        "back": "",
+        "definition": "受害者，犧牲者",
+        "example": "The parents of the victims cried when they realized the problem.",
+        "front": "",
+        "main": "victim",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "victim"
+    },
+    {
+        "back": "-as",
+        "definition": "鑒於",
+        "example": "",
+        "front": "",
+        "main": "where",
+        "parts-of-speech": "介係詞 (preposition)",
+        "word": "whereas"
     },
     {
         "back": "",
