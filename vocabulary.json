@@ -27,6 +27,24 @@
         "word": "access"
     },
     {
+        "back": "",
+        "definition": "實現，達到",
+        "example": "They have accomplished the mission successfully.",
+        "front": "",
+        "main": "accomplish",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "accomplish"
+    },
+    {
+        "back": "-ment",
+        "definition": "成就，成績",
+        "example": "What a grand accomplishment!",
+        "front": "",
+        "main": "accomplish",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "accomplishment"
+    },
+    {
         "back": "-ation",
         "definition": "指控，控告",
         "example": "You can't make wild accusations to others.",
@@ -34,6 +52,33 @@
         "main": "accuse",
         "parts-of-speech": "名詞 (noun)",
         "word": "accusation"
+    },
+    {
+        "back": "",
+        "definition": "指責，控告",
+        "example": "He was accused of murder.",
+        "front": "",
+        "main": "accuse",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "accuse"
+    },
+    {
+        "back": "",
+        "definition": "總和起來，加在一起後",
+        "example": "The cost of the ticket, food, and drinks added up to a lot.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "add up"
+    },
+    {
+        "back": "",
+        "definition": "增加的人或物",
+        "example": "The car's addition is too fancy for me.",
+        "front": "",
+        "main": "addition",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "addition"
     },
     {
         "back": "-al",
@@ -82,6 +127,15 @@
     },
     {
         "back": "",
+        "definition": "焦慮的，掛念的",
+        "example": "I'm anxious about his safety.",
+        "front": "",
+        "main": "anxious",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "anxious"
+    },
+    {
+        "back": "",
         "definition": "外觀",
         "example": "He is a man of smart appearance",
         "front": "",
@@ -106,6 +160,15 @@
         "main": "approve",
         "parts-of-speech": "verb",
         "word": "approve"
+    },
+    {
+        "back": "",
+        "definition": "與 ... 相關",
+        "example": "",
+        "front": "",
+        "main": "associate",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "associate"
     },
     {
         "back": "",
@@ -154,6 +217,15 @@
     },
     {
         "back": "",
+        "definition": "該去的地方",
+        "example": "When summer comes, the beach is the place to be.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "be the place to be"
+    },
+    {
+        "back": "",
         "definition": "相信，信心",
         "example": "All religious and political beliefs should be respected equally.",
         "front": "",
@@ -181,6 +253,24 @@
     },
     {
         "back": "",
+        "definition": "擁有",
+        "example": "Taiwan boasts high-tech products.",
+        "front": "",
+        "main": "boast",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "boast"
+    },
+    {
+        "back": "",
+        "definition": "貨攤",
+        "example": "I bought a coke at a small booth.",
+        "front": "",
+        "main": "booth",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "booth"
+    },
+    {
+        "back": "",
         "definition": "粗樹枝",
         "example": "",
         "front": "",
@@ -199,6 +289,15 @@
     },
     {
         "back": "",
+        "definition": "短暫的",
+        "example": "He stood up and made a brief speech.",
+        "front": "",
+        "main": "brief",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "brief"
+    },
+    {
+        "back": "",
         "definition": "芽，花蕾",
         "example": "It was springtime and the fruit trees were in bud.",
         "front": "",
@@ -214,6 +313,15 @@
         "main": "",
         "parts-of-speech": "片語 (phrase)",
         "word": "bundle up"
+    },
+    {
+        "back": "",
+        "definition": "充滿活力，充滿興奮",
+        "example": "That night was buzzing with energy because a famous actor showed up.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "buzzing with energy"
     },
     {
         "back": "",
@@ -280,12 +388,30 @@
     },
     {
         "back": "",
+        "definition": "繭",
+        "example": "The caterpillar's cocoon is ugly. Why?",
+        "front": "",
+        "main": "cocoon",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "cocoon"
+    },
+    {
+        "back": "",
         "definition": "寒流",
         "example": "As the cold snap comes, winter is coming.",
         "front": "",
         "main": "",
         "parts-of-speech": "專有名詞 (proper noun)",
         "word": "cold snap"
+    },
+    {
+        "back": "",
+        "definition": "殖民地",
+        "example": "Taiwan was once a colony of Japan.",
+        "front": "",
+        "main": "colony",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "colony"
     },
     {
         "back": "",
@@ -316,12 +442,30 @@
     },
     {
         "back": "",
+        "definition": "結果，後果",
+        "example": "The consequence of skipping school is disciplinary action.",
+        "front": "",
+        "main": "consequence",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "consequence"
+    },
+    {
+        "back": "",
         "definition": "吃完，喝完",
         "example": "Americans consumed 2 billion hot dogs last year.",
         "front": "",
         "main": "consume",
         "parts-of-speech": "動詞 (verb)",
         "word": "consume"
+    },
+    {
+        "back": "",
+        "definition": "接觸，碰到",
+        "example": "Football involves a lot of contact.",
+        "front": "",
+        "main": "contact",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "contact"
     },
     {
         "back": "-er",
@@ -331,6 +475,15 @@
         "main": "count",
         "parts-of-speech": "動詞 (verb)",
         "word": "counter"
+    },
+    {
+        "back": "",
+        "definition": "裂紋",
+        "example": "",
+        "front": "",
+        "main": "crack",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "crack"
     },
     {
         "back": "",
@@ -358,6 +511,15 @@
         "main": "crop",
         "parts-of-speech": "noun",
         "word": "crop"
+    },
+    {
+        "back": "",
+        "definition": "美食",
+        "example": "Stinky tofu is one of the most popular cuisines in Taiwan.",
+        "front": "",
+        "main": "cuisine",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "cuisine"
     },
     {
         "back": "-ed",
@@ -412,6 +574,24 @@
         "main": "detect",
         "parts-of-speech": "動詞 (verb)",
         "word": "detect"
+    },
+    {
+        "back": "-ation",
+        "definition": "決心",
+        "example": "He has the determination to overcome all the obstacles to succeess.",
+        "front": "",
+        "main": "determine",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "determination"
+    },
+    {
+        "back": "",
+        "definition": "下定決心",
+        "example": "I determined to be a software engineer.",
+        "front": "",
+        "main": "determine",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "determine"
     },
     {
         "back": "",
@@ -496,6 +676,15 @@
     },
     {
         "back": "",
+        "definition": "噴發，爆發",
+        "example": "The volcano erupted a few days ago.",
+        "front": "",
+        "main": "erupt",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "erupt"
+    },
+    {
+        "back": "",
         "definition": "特別，尤其，格外",
         "example": "I like fruits, especially apples.",
         "front": "e-",
@@ -577,12 +766,30 @@
     },
     {
         "back": "",
+        "definition": "以...為特色",
+        "example": "The event features music, food and shows.",
+        "front": "",
+        "main": "feature",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "feature"
+    },
+    {
+        "back": "",
         "definition": "中心，焦點",
         "example": "What is the focus of your report?",
         "front": "",
         "main": "focus",
         "parts-of-speech": "名詞 (noun)",
         "word": "focus"
+    },
+    {
+        "back": "",
+        "definition": "一般的，普遍的",
+        "example": "In general, men are taller than women.",
+        "front": "",
+        "main": "general",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "general"
     },
     {
         "back": "",
@@ -601,6 +808,15 @@
         "main": "gossip",
         "parts-of-speech": "名詞 (noun)",
         "word": "gossip"
+    },
+    {
+        "back": "-ly",
+        "definition": "逐步的，漸漸的",
+        "example": "We began to know each other gradually.",
+        "front": "",
+        "main": "gradual",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "gradually"
     },
     {
         "back": "",
@@ -676,6 +892,15 @@
     },
     {
         "back": "",
+        "definition": "意味著",
+        "example": "The word revolution could imply many things.",
+        "front": "",
+        "main": "imply",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "imply"
+    },
+    {
+        "back": "",
         "definition": "介於兩者之間的",
         "example": "Swiches don't have in-between settings like with a dial.",
         "front": "",
@@ -703,6 +928,15 @@
     },
     {
         "back": "",
+        "definition": "經驗不足的",
+        "example": "The man is so inexperienced that the company is deciding to fire him",
+        "front": "",
+        "main": "experienced",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "inexperienced"
+    },
+    {
+        "back": "",
         "definition": "告知",
         "example": "I should have been informed about this problem, but I didn’t receive anything.",
         "front": "in-",
@@ -718,6 +952,15 @@
         "main": "insult",
         "parts-of-speech": "名詞 (noun)",
         "word": "insult"
+    },
+    {
+        "back": "",
+        "definition": "利息",
+        "example": "",
+        "front": "",
+        "main": "interest",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "interest"
     },
     {
         "back": "-tion",
@@ -775,12 +1018,39 @@
     },
     {
         "back": "",
+        "definition": "開始",
+        "example": "Experts from all over the world attended the kick off of the new language museum.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "kick off"
+    },
+    {
+        "back": "",
+        "definition": "蝴蝶結",
+        "example": "Most shoes now are tied with knots.",
+        "front": "",
+        "main": "knot",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "knot"
+    },
+    {
+        "back": "",
         "definition": "缺乏，缺少",
         "example": "He just lacks a little confidence.",
         "front": "",
         "main": "lack",
         "parts-of-speech": "verb",
         "word": "lack"
+    },
+    {
+        "back": "-ly",
+        "definition": "實在的，真的",
+        "example": "The city was literally destroyed.",
+        "front": "",
+        "main": "literal",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "literally"
     },
     {
         "back": "-ihood",
@@ -829,6 +1099,15 @@
     },
     {
         "back": "",
+        "definition": "縮小模型",
+        "example": "I bought a miniature of the Eiffel Tower.",
+        "front": "",
+        "main": "miniature",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "miniature"
+    },
+    {
+        "back": "",
         "definition": "惡劣行為",
         "example": "The man went to jail because of his misbehavior.",
         "front": "mis-",
@@ -844,6 +1123,15 @@
         "main": "motive",
         "parts-of-speech": "名詞 (noun)",
         "word": "motive"
+    },
+    {
+        "back": "",
+        "definition": "改變規則，改變條件",
+        "example": "My boss kept moving the goalposts, so I eventually quit.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "諺語 (idiom)",
+        "word": "move the goalposts"
     },
     {
         "back": "-ing",
@@ -871,6 +1159,15 @@
         "main": "notify",
         "parts-of-speech": "動詞 (verb)",
         "word": "notify"
+    },
+    {
+        "back": "-ive",
+        "definition": "目標，目的",
+        "example": "Can the salesman achive the final objective?",
+        "front": "",
+        "main": "object",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "objective"
     },
     {
         "back": "-ant",
@@ -910,6 +1207,15 @@
     },
     {
         "back": "-ic",
+        "definition": "樂觀的",
+        "example": "",
+        "front": "",
+        "main": "optimist",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "optimistic"
+    },
+    {
+        "back": "-ic",
         "definition": "有機的，不使用化肥的",
         "example": "The restaurant has changed the price of organic vegetables.",
         "front": "",
@@ -919,8 +1225,8 @@
     },
     {
         "back": "",
-        "definition": "人物的血統",
-        "example": "The president's family was of poor origins.",
+        "definition": "事物的起源",
+        "example": "The story has unknown origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
@@ -928,8 +1234,8 @@
     },
     {
         "back": "",
-        "definition": "事物的起源",
-        "example": "The story has unknown origins.",
+        "definition": "人物的血統",
+        "example": "The president's family was of poor origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
@@ -990,6 +1296,15 @@
         "word": "overwhelmed"
     },
     {
+        "back": "-ate",
+        "definition": "熱情",
+        "example": "He is obviously passionate about coding.",
+        "front": "",
+        "main": "passion",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "passionate"
+    },
+    {
         "back": "",
         "definition": "察覺，注意到，意識到",
         "example": "I perceived a little cat hiding beneath a bench.",
@@ -1033,6 +1348,15 @@
         "main": "presonify",
         "parts-of-speech": "名詞 (noun)",
         "word": "personification"
+    },
+    {
+        "back": "-ic",
+        "definition": "悲觀的",
+        "example": "",
+        "front": "",
+        "main": "pessimist",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "pessimistic"
     },
     {
         "back": "",
@@ -1081,6 +1405,15 @@
     },
     {
         "back": "",
+        "definition": "政治上的",
+        "example": "",
+        "front": "",
+        "main": "political",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "political"
+    },
+    {
+        "back": "",
         "definition": "從政者，政治家，政客",
         "example": "The politician lost the election.",
         "front": "",
@@ -1117,6 +1450,15 @@
     },
     {
         "back": "",
+        "definition": "延期，拖延",
+        "example": "The meeting was postponed because of a typhoon.",
+        "front": "",
+        "main": "postpone",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "postpone"
+    },
+    {
+        "back": "",
         "definition": "潛在的，可能的",
         "example": "Be careful of potential dangers.",
         "front": "",
@@ -1132,6 +1474,15 @@
         "main": "powder",
         "parts-of-speech": "動詞 (verb)",
         "word": "powder"
+    },
+    {
+        "back": "",
+        "definition": "實際的",
+        "example": "Your invention is practical",
+        "front": "",
+        "main": "practical",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "practical"
     },
     {
         "back": "-cy",
@@ -1153,12 +1504,30 @@
     },
     {
         "back": "",
+        "definition": "主要的，首要的",
+        "example": "The primary author of this book was once a president.",
+        "front": "",
+        "main": "primary",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "primary"
+    },
+    {
+        "back": "",
         "definition": "進行，進步",
         "example": "Technology is always progressing.",
         "front": "pro-",
         "main": "gress",
         "parts-of-speech": "動詞 (verb)",
         "word": "progress"
+    },
+    {
+        "back": "",
+        "definition": "省去，不做",
+        "example": "We were running out of time, so we decided to punt the sightseeing and just go shopping.",
+        "front": "",
+        "main": "punt",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "punt"
     },
     {
         "back": "-ly",
@@ -1170,6 +1539,15 @@
         "word": "purely"
     },
     {
+        "back": "",
+        "definition": "延期，拖延",
+        "example": "The meeting was put off because a typhoon was coming in two hours.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "put off"
+    },
+    {
         "back": "-out",
         "definition": "輸出，讀出，顯示，列印",
         "example": "Digital number reaouts replaced the hands on old clocks.",
@@ -1177,6 +1555,15 @@
         "main": "read",
         "parts-of-speech": "名詞 (noun)",
         "word": "readout"
+    },
+    {
+        "back": "-ist",
+        "definition": "現實主義者",
+        "example": "",
+        "front": "",
+        "main": "real",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "realist"
     },
     {
         "back": "",
@@ -1260,6 +1647,42 @@
         "word": "renewal"
     },
     {
+        "back": "-ial",
+        "definition": "住宅的",
+        "example": "The land beside the city remained residential.",
+        "front": "",
+        "main": "resident",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "residential"
+    },
+    {
+        "back": "-ion",
+        "definition": "下定決心",
+        "example": "I made a resolution to give up video games.",
+        "front": "",
+        "main": "resolute",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "resolution"
+    },
+    {
+        "back": "",
+        "definition": "起義，反叛",
+        "example": "The people revolted for their freedom.",
+        "front": "",
+        "main": "revolt",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "revolt"
+    },
+    {
+        "back": "",
+        "definition": "革命",
+        "example": "The politician's speech led to a revolution.",
+        "front": "",
+        "main": "revolution",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "revolution"
+    },
+    {
         "back": "",
         "definition": "成熟的",
         "example": "Those bananas aren't ripe yet. They're still green.",
@@ -1341,6 +1764,15 @@
         "word": "scarf"
     },
     {
+        "back": "-ship",
+        "definition": "獎學金",
+        "example": "The school offers scholarships for students to study abroad.",
+        "front": "",
+        "main": "scholar",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "scholarship"
+    },
+    {
         "back": "",
         "definition": "範圍",
         "example": "The problem is outside the scope of my knowledge.",
@@ -1414,12 +1846,30 @@
     },
     {
         "back": "",
+        "definition": "紀念品",
+        "example": "I usually buy souvenirs when I go to a foreign city.",
+        "front": "",
+        "main": "souvenir",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "souvenir"
+    },
+    {
+        "back": "",
         "definition": "鏟子",
         "example": "I dug up some dirt with a spade.",
         "front": "",
         "main": "",
         "parts-of-speech": "noun",
         "word": "spade"
+    },
+    {
+        "back": "",
+        "definition": "火花",
+        "example": "I started a fire with a small spark generator.",
+        "front": "",
+        "main": "spark",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "spark"
     },
     {
         "back": "",
@@ -1450,6 +1900,15 @@
     },
     {
         "back": "",
+        "definition": "攤位，貨攤",
+        "example": "I bought a soda at a small stall.",
+        "front": "",
+        "main": "stall",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "stall"
+    },
+    {
+        "back": "",
         "definition": "以...開始",
         "example": "She start off the meeting with her report.",
         "front": "",
@@ -1468,12 +1927,30 @@
     },
     {
         "back": "",
+        "definition": "奮鬥，鬥爭",
+        "example": "We saw his passion during his struggles in life.",
+        "front": "",
+        "main": "struggle",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "struggle"
+    },
+    {
+        "back": "",
         "definition": "主題",
         "example": "Our subject for discussion is homelessness.",
         "front": "",
         "main": "subject",
         "parts-of-speech": "名詞 (noun)",
         "word": "subject"
+    },
+    {
+        "back": "",
+        "definition": "可開關的車頂",
+        "example": "",
+        "front": "",
+        "main": "sunroof",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "sunroof"
     },
     {
         "back": "",
@@ -1548,6 +2025,15 @@
         "word": "threat"
     },
     {
+        "back": "",
+        "definition": "興旺，繁榮",
+        "example": "Rice thrives in hot weather.",
+        "front": "",
+        "main": "thrive",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "thrive"
+    },
+    {
         "back": "-out",
         "definition": "在各處",
         "example": "People throughout the country are out of work.",
@@ -1609,6 +2095,15 @@
         "main": "pleasant",
         "parts-of-speech": "adjective",
         "word": "unpleasant"
+    },
+    {
+        "back": "",
+        "definition": "使心情放鬆",
+        "example": "The best way to unwind is to go on vacation.",
+        "front": "un-",
+        "main": "wind",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "unwind"
     },
     {
         "back": "",
