@@ -1621,8 +1621,8 @@
     },
     {
         "back": "",
-        "definition": "保持不變，仍然是",
-        "example": "It remains a secret.",
+        "definition": "維持",
+        "example": "All the other problems remained secret.",
         "front": "re-",
         "main": "main",
         "parts-of-speech": "動詞 (verb)",
@@ -1630,8 +1630,8 @@
     },
     {
         "back": "",
-        "definition": "維持",
-        "example": "All the other problems remained secret.",
+        "definition": "保持不變，仍然是",
+        "example": "It remains a secret.",
         "front": "re-",
         "main": "main",
         "parts-of-speech": "動詞 (verb)",
