@@ -10,11 +10,29 @@
     },
     {
         "back": "",
+        "definition": "一點點真相",
+        "example": "There's always a kernel of truth in criticism.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "諺語 (idiom)",
+        "word": "a kernel of truth"
+    },
+    {
+        "back": "",
+        "definition": "抽象的",
+        "example": "Some people say that beauty itself is abstract.",
+        "front": "",
+        "main": "abstract",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "abstract"
+    },
+    {
+        "back": "",
         "definition": "認可，接納",
         "example": "The party marked his acceptance into the community.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "acceptance"
     },
     {
@@ -25,6 +43,15 @@
         "main": "access",
         "parts-of-speech": "動詞 (verb)",
         "word": "access"
+    },
+    {
+        "back": "-ion",
+        "definition": "住宿",
+        "example": "I paid for my flight and accommodations.",
+        "front": "",
+        "main": "accommodate",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "accommodation"
     },
     {
         "back": "",
@@ -43,6 +70,15 @@
         "main": "accomplish",
         "parts-of-speech": "名詞 (noun)",
         "word": "accomplishment"
+    },
+    {
+        "back": "",
+        "definition": "正確，精確",
+        "example": "The report lacks accuracy.",
+        "front": "",
+        "main": "accuracy",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "accuracy"
     },
     {
         "back": "-ation",
@@ -104,7 +140,7 @@
         "example": "The world's supply of agricultural land is shrinking fast.",
         "front": "",
         "main": "agriculture",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "agricultural"
     },
     {
@@ -113,7 +149,7 @@
         "example": "The area depends on agriculture for most of its income.",
         "front": "",
         "main": "agriculture",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "agriculture"
     },
     {
@@ -140,7 +176,7 @@
         "example": "He is a man of smart appearance",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "appearance"
     },
     {
@@ -149,7 +185,7 @@
         "example": "He showed his approval with a smile.",
         "front": "",
         "main": "approve",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "approval"
     },
     {
@@ -158,8 +194,17 @@
         "example": "He doesn't approve of smoking.",
         "front": "",
         "main": "approve",
-        "parts-of-speech": "verb",
+        "parts-of-speech": "動詞 (verb)",
         "word": "approve"
+    },
+    {
+        "back": "",
+        "definition": "撇開，離開",
+        "example": "Swimming is easier if you put your fear aside.",
+        "front": "a-",
+        "main": "side",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "aside"
     },
     {
         "back": "",
@@ -207,6 +252,15 @@
         "word": "available"
     },
     {
+        "back": "-cy",
+        "definition": "破產",
+        "example": "",
+        "front": "",
+        "main": "bankrupt",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "bankrupcy"
+    },
+    {
         "back": "",
         "definition": "應該，預期",
         "example": "This exercise isn't meant to be difficult.",
@@ -248,7 +302,7 @@
         "example": "The flowers all bloomed.",
         "front": "",
         "main": "",
-        "parts-of-speech": "verb",
+        "parts-of-speech": "動詞 (verb)",
         "word": "bloom"
     },
     {
@@ -302,7 +356,7 @@
         "example": "It was springtime and the fruit trees were in bud.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "bud"
     },
     {
@@ -329,7 +383,7 @@
         "example": "This is a controversial new advertising campaign.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "campaign"
     },
     {
@@ -347,7 +401,7 @@
         "example": "She is certainly doing her job.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adverb",
+        "parts-of-speech": "副詞 (adverb)",
         "word": "certainly"
     },
     {
@@ -365,7 +419,7 @@
         "example": "Singapore is a highly developed city-state.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "city-state"
     },
     {
@@ -376,6 +430,15 @@
         "main": "claim",
         "parts-of-speech": "動詞 (verb)",
         "word": "claim"
+    },
+    {
+        "back": "",
+        "definition": "澄清，闡明",
+        "example": "Clarfying your opinion is important for communitation.",
+        "front": "",
+        "main": "clarfy",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "clarfy"
     },
     {
         "back": "-ic",
@@ -424,12 +487,39 @@
     },
     {
         "back": "",
+        "definition": "註解，留言",
+        "example": "",
+        "front": "",
+        "main": "comment",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "comment"
+    },
+    {
+        "back": "",
         "definition": "社區，社群",
         "example": "The community is well-known because of its food.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "community"
+    },
+    {
+        "back": "-itive",
+        "definition": "競爭的",
+        "example": "A competitive person likes to win.",
+        "front": "",
+        "main": "compete",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "competitive"
+    },
+    {
+        "back": "",
+        "definition": "妥協，損害",
+        "example": "Don't compromise other people's dignity.",
+        "front": "com-",
+        "main": "promise",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "compromise"
     },
     {
         "back": "",
@@ -448,6 +538,24 @@
         "main": "consequence",
         "parts-of-speech": "名詞 (noun)",
         "word": "consequence"
+    },
+    {
+        "back": "-ly",
+        "definition": "不斷的，時常的",
+        "example": "He constantly criticises me.",
+        "front": "",
+        "main": "constant",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "constantly"
+    },
+    {
+        "back": "-ive",
+        "definition": "有建設性的",
+        "example": "That criticism is constructive. You should consider it.",
+        "front": "",
+        "main": "construct",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "constructive"
     },
     {
         "back": "",
@@ -495,6 +603,33 @@
         "word": "crest"
     },
     {
+        "back": "",
+        "definition": "批評家，評論家",
+        "example": "He likes tasting food, so he wants to be a food critic someday.",
+        "front": "",
+        "main": "critic",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "critic"
+    },
+    {
+        "back": "-al",
+        "definition": "批判的，批評的",
+        "example": "Your advice, though critical, is very constructive.",
+        "front": "",
+        "main": "crisic",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "critical"
+    },
+    {
+        "back": "-m",
+        "definition": "批評，評論",
+        "example": "His criticism is offensive.",
+        "front": "",
+        "main": "criticise",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "criticism"
+    },
+    {
         "back": "-ism",
         "definition": "批評，批判",
         "example": "I have a few criticisms to make about your speech.",
@@ -509,7 +644,7 @@
         "example": "Grains produced much larger crops.",
         "front": "",
         "main": "crop",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "crop"
     },
     {
@@ -538,6 +673,15 @@
         "main": "fault",
         "parts-of-speech": "動詞 (verb)",
         "word": "default"
+    },
+    {
+        "back": "-ive",
+        "definition": "防禦的，保衛的",
+        "example": "His defensive act is making communication difficult.",
+        "front": "",
+        "main": "defense",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "defensive"
     },
     {
         "back": "-ly",
@@ -599,7 +743,7 @@
         "example": "This city is well developed.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "developed"
     },
     {
@@ -619,6 +763,15 @@
         "main": "dip",
         "parts-of-speech": "動詞 (verb)",
         "word": "dip"
+    },
+    {
+        "back": "",
+        "definition": "直截了當的，率直的",
+        "example": "He made a direct rejection.",
+        "front": "",
+        "main": "direct",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "direct"
     },
     {
         "back": "",
@@ -648,6 +801,15 @@
         "word": "distant"
     },
     {
+        "back": "-ed",
+        "definition": "分心的，思想不集中的",
+        "example": "I often get distracted by phone notifications popping up.",
+        "front": "",
+        "main": "distract",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "distracted"
+    },
+    {
         "back": "",
         "definition": "從...減少",
         "example": "The country's population is down from 4,000 to 200.",
@@ -671,8 +833,17 @@
         "example": "The author of this app is Emmet.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "Emmet"
+    },
+    {
+        "back": "",
+        "definition": "忍受，忍耐",
+        "example": "I have to endure an 18-hour flight to get to Japan.",
+        "front": "",
+        "main": "endure",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "endure"
     },
     {
         "back": "",
@@ -693,6 +864,15 @@
         "word": "especially"
     },
     {
+        "back": "",
+        "definition": "必要的，不可或缺的",
+        "example": "Cooking skills are essential for daily life.",
+        "front": "",
+        "main": "essential",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "essential"
+    },
+    {
         "back": "-ence",
         "definition": "證據，證明",
         "example": "There's no evidence to prove that he committed a crime.",
@@ -700,6 +880,15 @@
         "main": "evid",
         "parts-of-speech": "名詞 (noun)",
         "word": "evidence"
+    },
+    {
+        "back": "-ed",
+        "definition": "言過其實的，誇張的",
+        "example": "He loves boasting, and it's always exaggerated.",
+        "front": "",
+        "main": "exaggerate",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "exaggerated"
     },
     {
         "back": "-ment",
@@ -725,7 +914,7 @@
         "example": "We've received a lot of expressions of support for our campaign.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "expression"
     },
     {
@@ -784,6 +973,24 @@
     },
     {
         "back": "",
+        "definition": "節儉的",
+        "example": "He is a frugal housekeeper.",
+        "front": "",
+        "main": "frugal",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "frugal"
+    },
+    {
+        "back": "-ed",
+        "definition": "挫敗的，失望的",
+        "example": "After a big failure in business, he felt frustrated.",
+        "front": "",
+        "main": "frustrate",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "frustrated"
+    },
+    {
+        "back": "",
         "definition": "一般的，普遍的",
         "example": "In general, men are taller than women.",
         "front": "",
@@ -810,6 +1017,15 @@
         "word": "gossip"
     },
     {
+        "back": "",
+        "definition": "優雅，優美",
+        "example": "Handling criticism with grace is difficult.",
+        "front": "",
+        "main": "grace",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "grace"
+    },
+    {
         "back": "-ly",
         "definition": "逐步的，漸漸的",
         "example": "We began to know each other gradually.",
@@ -824,8 +1040,17 @@
         "example": "Grain is one of the main exports of the American Midwest.",
         "front": "",
         "main": "grain",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "grain"
+    },
+    {
+        "back": "",
+        "definition": "感謝之情",
+        "example": "I felt gratitude toward him because he pointed out my mistake.",
+        "front": "",
+        "main": "gratitude",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "gratitude"
     },
     {
         "back": "",
@@ -842,7 +1067,7 @@
         "example": "I'm new to this job. I'm a greenhorn.",
         "front": "",
         "main": "green",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "greenhorn"
     },
     {
@@ -946,6 +1171,15 @@
     },
     {
         "back": "",
+        "definition": "洞察力，眼光",
+        "example": "His speech gave us an insight into the problem of education.",
+        "front": "in-",
+        "main": "sight",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "insight"
+    },
+    {
+        "back": "",
         "definition": "侮辱，辱駡",
         "example": "She made several insults about my appearance.",
         "front": "",
@@ -955,12 +1189,48 @@
     },
     {
         "back": "",
+        "definition": "整合，結合",
+        "example": "I integrated two projects into one.",
+        "front": "",
+        "main": "integrate",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "integrate"
+    },
+    {
+        "back": "-al",
+        "definition": "有意的，故意的",
+        "example": "I think the car accident was not intentional.",
+        "front": "",
+        "main": "intention",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "intentional"
+    },
+    {
+        "back": "-ly",
+        "definition": "有意的，故意的",
+        "example": "",
+        "front": "",
+        "main": "intentional",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "intentionally"
+    },
+    {
+        "back": "",
         "definition": "利息",
         "example": "",
         "front": "",
         "main": "interest",
         "parts-of-speech": "名詞 (noun)",
         "word": "interest"
+    },
+    {
+        "back": "-ize",
+        "definition": "內化，自己消化",
+        "example": "I often internalize other's criticism.",
+        "front": "",
+        "main": "internal",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "internalize"
     },
     {
         "back": "-tion",
@@ -986,7 +1256,7 @@
         "example": "I'm jelous of your money.",
         "front": "",
         "main": "jealous",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "jealous"
     },
     {
@@ -995,7 +1265,7 @@
         "example": "He broke his brother's bike because of jealousy.",
         "front": "",
         "main": "jealous",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "jealousy"
     },
     {
@@ -1040,8 +1310,17 @@
         "example": "He just lacks a little confidence.",
         "front": "",
         "main": "lack",
-        "parts-of-speech": "verb",
+        "parts-of-speech": "動詞 (verb)",
         "word": "lack"
+    },
+    {
+        "back": "",
+        "definition": "猛烈斥責，批評",
+        "example": "Don't lash out just because you hear some criticism.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "片語 (phrase)",
+        "word": "lash out"
     },
     {
         "back": "-ly",
@@ -1060,6 +1339,15 @@
         "main": "live",
         "parts-of-speech": "名詞 (noun)",
         "word": "livelihood"
+    },
+    {
+        "back": "-al",
+        "definition": "合邏輯的，合理的",
+        "example": "His words are logical and clearly expressed.",
+        "front": "",
+        "main": "logic",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "logical"
     },
     {
         "back": "-s",
@@ -1143,12 +1431,21 @@
         "word": "multitasking"
     },
     {
+        "back": "-ily",
+        "definition": "必然的",
+        "example": "",
+        "front": "",
+        "main": "necessary",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "necessarily"
+    },
+    {
         "back": "",
         "definition": "顯而易見的，明顯的，顯著的",
         "example": "Those colorful flowers are noticeable.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "noticeable"
     },
     {
@@ -1225,20 +1522,20 @@
     },
     {
         "back": "",
-        "definition": "事物的起源",
-        "example": "The story has unknown origins.",
-        "front": "",
-        "main": "",
-        "parts-of-speech": "noun",
-        "word": "origin"
-    },
-    {
-        "back": "",
         "definition": "人物的血統",
         "example": "The president's family was of poor origins.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "origin"
+    },
+    {
+        "back": "",
+        "definition": "事物的起源",
+        "example": "The story has unknown origins.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "名詞 (noun)",
         "word": "origin"
     },
     {
@@ -1247,7 +1544,7 @@
         "example": "The gardens have recently been restored to their original glory.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "original"
     },
     {
@@ -1256,7 +1553,7 @@
         "example": "Originally it was a bedroom, but we turned it into a study.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adverb",
+        "parts-of-speech": "副詞 (adverb)",
         "word": "originally"
     },
     {
@@ -1341,6 +1638,24 @@
         "word": "permanent"
     },
     {
+        "back": "",
+        "definition": "堅持",
+        "example": "He still persists in his opinion, although it is totally wrong.",
+        "front": "",
+        "main": "persist",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "persist"
+    },
+    {
+        "back": "",
+        "definition": "作為個人的",
+        "example": "",
+        "front": "",
+        "main": "personal",
+        "parts-of-speech": "副詞 (adverb)",
+        "word": "personally"
+    },
+    {
         "back": "-cation",
         "definition": "擬人化，人格化",
         "example": "Jack Frost is the personification of winter.",
@@ -1348,6 +1663,15 @@
         "main": "presonify",
         "parts-of-speech": "名詞 (noun)",
         "word": "personification"
+    },
+    {
+        "back": "",
+        "definition": "看法，觀點",
+        "example": "When you receive criticism, find out the perspective behind it first.",
+        "front": "",
+        "main": "perspective",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "perspective"
     },
     {
         "back": "-ic",
@@ -1382,7 +1706,7 @@
         "example": "What a pleasant surprise!",
         "front": "",
         "main": "please",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "pleasant"
     },
     {
@@ -1391,7 +1715,7 @@
         "example": "He pleased everyone by his moves.",
         "front": "",
         "main": "please",
-        "parts-of-speech": "verb",
+        "parts-of-speech": "動詞 (verb)",
         "word": "please"
     },
     {
@@ -1418,7 +1742,7 @@
         "example": "The politician lost the election.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "politician"
     },
     {
@@ -1436,7 +1760,7 @@
         "example": "India has the highest population in the world.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "population"
     },
     {
@@ -1566,6 +1890,42 @@
         "word": "realist"
     },
     {
+        "back": "-able",
+        "definition": "有道理的，講道理的",
+        "example": "My father is always reasonable.",
+        "front": "",
+        "main": "reason",
+        "parts-of-speech": "形容詞 (adjective)",
+        "word": "reasonable"
+    },
+    {
+        "back": "",
+        "definition": "認出，識別",
+        "example": "Have you recognsized this song? It is famous.",
+        "front": "",
+        "main": "recognize",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "recognize"
+    },
+    {
+        "back": "",
+        "definition": "重新考慮",
+        "example": "His words made me reconsider my opinion.",
+        "front": "re-",
+        "main": "consider",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "reconsider"
+    },
+    {
+        "back": "-tion",
+        "definition": "反省，反思",
+        "example": "After long reflection, he finally apologized to us.",
+        "front": "",
+        "main": "reflect",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "reflection"
+    },
+    {
         "back": "",
         "definition": "地區",
         "example": "Some regions have their own special dishes.",
@@ -1643,8 +2003,17 @@
         "example": "In the spring, everything renewals.",
         "front": "",
         "main": "",
-        "parts-of-speech": "verb",
+        "parts-of-speech": "動詞 (verb)",
         "word": "renewal"
+    },
+    {
+        "back": "",
+        "definition": "改變措辭來描述",
+        "example": "",
+        "front": "re-",
+        "main": "phrase",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "rephrase"
     },
     {
         "back": "-ial",
@@ -1654,6 +2023,15 @@
         "main": "resident",
         "parts-of-speech": "形容詞 (adjective)",
         "word": "residential"
+    },
+    {
+        "back": "",
+        "definition": "韌性，彈性",
+        "example": "You need resilience to face the problem.",
+        "front": "",
+        "main": "resilience",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "resilience"
     },
     {
         "back": "-ion",
@@ -1688,7 +2066,7 @@
         "example": "Those bananas aren't ripe yet. They're still green.",
         "front": "",
         "main": "ripe",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "ripe"
     },
     {
@@ -1724,7 +2102,7 @@
         "example": "My hands get rough in the cold.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "rough"
     },
     {
@@ -1733,7 +2111,7 @@
         "example": "This area is still very rural.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "rural"
     },
     {
@@ -1742,8 +2120,17 @@
         "example": "The rustic community is full of warmth and kindness.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "rustic"
+    },
+    {
+        "back": "",
+        "definition": "目的",
+        "example": "He did that for his own sake.",
+        "front": "",
+        "main": "sake",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "sake"
     },
     {
         "back": "",
@@ -1783,11 +2170,29 @@
     },
     {
         "back": "",
+        "definition": "水肺潛水",
+        "example": "",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "專有名詞 (proper noun)",
+        "word": "scuba diving"
+    },
+    {
+        "back": "",
+        "definition": "開會",
+        "example": "",
+        "front": "",
+        "main": "session",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "session"
+    },
+    {
+        "back": "",
         "definition": "芽，苗，新枝",
         "example": "Two weeks after we'd planted the seeds, little green shoots started to appear.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "shoot"
     },
     {
@@ -1859,7 +2264,7 @@
         "example": "I dug up some dirt with a spade.",
         "front": "",
         "main": "",
-        "parts-of-speech": "noun",
+        "parts-of-speech": "名詞 (noun)",
         "word": "spade"
     },
     {
@@ -1972,6 +2377,15 @@
     },
     {
         "back": "",
+        "definition": "考慮",
+        "example": "A good architect takes into account the building's surroundings.",
+        "front": "",
+        "main": "",
+        "parts-of-speech": "諺語 (idiom)",
+        "word": "take into account"
+    },
+    {
+        "back": "",
         "definition": "戲弄，逗弄",
         "example": "He always teases me in an aggressive way.",
         "front": "",
@@ -1985,7 +2399,7 @@
         "example": "Most forms of exercise are so tedious.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "tedious"
     },
     {
@@ -2039,7 +2453,7 @@
         "example": "People throughout the country are out of work.",
         "front": "",
         "main": "through",
-        "parts-of-speech": "preposition",
+        "parts-of-speech": "介系詞 (preposition)",
         "word": "throughout"
     },
     {
@@ -2079,12 +2493,21 @@
         "word": "ultimately"
     },
     {
+        "back": "-ness",
+        "definition": "不安，擔心",
+        "example": "The news gave him uneasiness.",
+        "front": "",
+        "main": "uneasy",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "uneasiness"
+    },
+    {
         "back": "",
         "definition": "不吸引人的;無趣的",
         "example": "Watching grass grow is uninteresting.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "uninteresting"
     },
     {
@@ -2093,7 +2516,7 @@
         "example": "What an unpleasant movement!",
         "front": "un-",
         "main": "pleasant",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "unpleasant"
     },
     {
@@ -2104,6 +2527,15 @@
         "main": "wind",
         "parts-of-speech": "動詞 (verb)",
         "word": "unwind"
+    },
+    {
+        "back": "",
+        "definition": "可變因素",
+        "example": "Weather is a highly unpredictable variable in our daily lives.",
+        "front": "",
+        "main": "variable",
+        "parts-of-speech": "名詞 (noun)",
+        "word": "variable"
     },
     {
         "back": "",
@@ -2125,11 +2557,20 @@
     },
     {
         "back": "",
+        "definition": "抱怨，哀哀叫",
+        "example": "Stop whining. Take action to solve the problem.",
+        "front": "",
+        "main": "whine",
+        "parts-of-speech": "動詞 (verb)",
+        "word": "whine"
+    },
+    {
+        "back": "",
         "definition": "具木頭外觀的",
         "example": "This wood-like house was built by my grandfather.",
         "front": "",
         "main": "",
-        "parts-of-speech": "adjective",
+        "parts-of-speech": "形容詞 (adjective)",
         "word": "wood-like"
     },
     {
