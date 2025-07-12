@@ -140,6 +140,26 @@
         "word": "additional"
     },
     {
+        "back": "-ly",
+        "definition": "附加的，此外",
+        "example": "Additionally, the company provides 90-day technical support.",
+        "front": "",
+        "main": "additional",
+        "parts-of-speech": "副詞 (adverb)",
+        "test-count": 0,
+        "word": "additionally"
+    },
+    {
+        "back": "-ment",
+        "definition": "進展，進步",
+        "example": "",
+        "front": "",
+        "main": "advance",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "advancement"
+    },
+    {
         "back": "-able",
         "definition": "付得起的，買得起的",
         "example": "These clothes are at affordable prices.",
@@ -148,6 +168,16 @@
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "affordable"
+    },
+    {
+        "back": "-ing",
+        "definition": "老化",
+        "example": "",
+        "front": "",
+        "main": "age",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "aging"
     },
     {
         "back": "-al",
@@ -198,6 +228,16 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "appearance"
+    },
+    {
+        "back": "-iance",
+        "definition": "器具，用具",
+        "example": "Older appliances are often better than new ones because they were made with higher quality materials.",
+        "front": "",
+        "main": "apply",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "appliance"
     },
     {
         "back": "-al",
@@ -280,6 +320,16 @@
         "word": "available"
     },
     {
+        "back": "-ness",
+        "definition": "察覺，覺悟",
+        "example": "There is a general awareness that smoking is harmful.",
+        "front": "",
+        "main": "aware",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "awareness"
+    },
+    {
         "back": "-cy",
         "definition": "破產",
         "example": "",
@@ -320,6 +370,26 @@
         "word": "belief"
     },
     {
+        "back": "-ed",
+        "definition": "心愛的",
+        "example": "My beloved doll was thrown away.",
+        "front": "",
+        "main": "belove",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "beloved"
+    },
+    {
+        "back": "",
+        "definition": "對 ... 有益",
+        "example": "The plan will benefit the company, but the customers will suffer.",
+        "front": "",
+        "main": "benefit",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "benefit"
+    },
+    {
         "back": "",
         "definition": "雙目的",
         "example": "There's a binocular microscope.",
@@ -348,6 +418,26 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "boast"
+    },
+    {
+        "back": "-ing",
+        "definition": "景氣好的",
+        "example": "",
+        "front": "",
+        "main": "boom",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "booming"
+    },
+    {
+        "back": "",
+        "definition": "增進，推進",
+        "example": "The father boosts his children's spirits by buying them ice cream.",
+        "front": "",
+        "main": "boost",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "boost"
     },
     {
         "back": "",
@@ -428,6 +518,26 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "campaign"
+    },
+    {
+        "back": "",
+        "definition": "地下企業聯合",
+        "example": "",
+        "front": "",
+        "main": "cartel",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "cartel"
+    },
+    {
+        "back": "",
+        "definition": "墨水筒",
+        "example": "",
+        "front": "",
+        "main": "cartridge",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "cartridge"
     },
     {
         "back": "",
@@ -551,6 +661,16 @@
     },
     {
         "back": "",
+        "definition": "委員會",
+        "example": "",
+        "front": "",
+        "main": "commission",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "commission"
+    },
+    {
+        "back": "",
         "definition": "社區，社群",
         "example": "The community is well-known because of its food.",
         "front": "",
@@ -588,6 +708,16 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "conflict"
+    },
+    {
+        "back": "",
+        "definition": "遇到，面臨",
+        "example": "I was confronted by the fine.",
+        "front": "",
+        "main": "confront",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "confront"
     },
     {
         "back": "",
@@ -648,6 +778,16 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "contact"
+    },
+    {
+        "back": "-y",
+        "definition": "爭議，爭論",
+        "example": "The controversy damaged the company's reputation.",
+        "front": "",
+        "main": "controverse",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "controversy"
     },
     {
         "back": "-er",
@@ -731,6 +871,16 @@
     },
     {
         "back": "",
+        "definition": "重要的，決定性的",
+        "example": "Cell phones are becoming more and more crucial in our daily lives.",
+        "front": "",
+        "main": "crucial",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "crucial"
+    },
+    {
+        "back": "",
         "definition": "美食",
         "example": "Stinky tofu is one of the most popular cuisines in Taiwan.",
         "front": "",
@@ -748,6 +898,16 @@
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "dated"
+    },
+    {
+        "back": "",
+        "definition": "誤導的，迷惑的",
+        "example": "The soldier's actions are deceptive against the enemy.",
+        "front": "",
+        "main": "deceptive",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "deceptive"
     },
     {
         "back": "",
@@ -901,6 +1061,16 @@
     },
     {
         "back": "",
+        "definition": "不誠實的，欺詐的",
+        "example": "Some companies engage in dishonest practices that make their products break more easily.",
+        "front": "dis-",
+        "main": "honest",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "dishonest"
+    },
+    {
+        "back": "",
         "definition": "遙遠的",
         "example": "I heard the distant explosion.",
         "front": "",
@@ -931,6 +1101,16 @@
     },
     {
         "back": "",
+        "definition": "耗盡",
+        "example": "My cell phone's battery always drains too fast.",
+        "front": "",
+        "main": "drain",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "drain"
+    },
+    {
+        "back": "",
         "definition": "吸引",
         "example": "He's an excellent speaker who always draws a crowd.",
         "front": "",
@@ -938,6 +1118,26 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "draw"
+    },
+    {
+        "back": "",
+        "definition": "持久的，耐用的",
+        "example": "This car is made by durable material.",
+        "front": "",
+        "main": "durable",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "durable"
+    },
+    {
+        "back": "",
+        "definition": "提高，升高",
+        "example": "The boss's decision elevated the company's income.",
+        "front": "",
+        "main": "elevate",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "elevate"
     },
     {
         "back": "",
@@ -1251,6 +1451,26 @@
     },
     {
         "back": "",
+        "definition": "沙漏",
+        "example": "",
+        "front": "",
+        "main": "hourglass",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "hourglass"
+    },
+    {
+        "back": "",
+        "definition": "家用的，家常的",
+        "example": "This is a good household soap.",
+        "front": "",
+        "main": "house-hold",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "household"
+    },
+    {
+        "back": "",
         "definition": "中心，樞紐",
         "example": "The hub of America's economy is New York.",
         "front": "",
@@ -1348,6 +1568,16 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "inform"
+    },
+    {
+        "back": "",
+        "definition": "倡議，主動的行動",
+        "example": "The organization took the initiative to reveal the shady side of the company.",
+        "front": "",
+        "main": "initiative",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "initiative"
     },
     {
         "back": "",
@@ -1530,6 +1760,16 @@
         "word": "lash out"
     },
     {
+        "back": "-span",
+        "definition": "壽命，使用期限",
+        "example": "The lifespan of this light bulb is limited to 1000 hours.",
+        "front": "",
+        "main": "life",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "lifespan"
+    },
+    {
         "back": "-ly",
         "definition": "實在的，真的",
         "example": "The city was literally destroyed.",
@@ -1561,6 +1801,16 @@
     },
     {
         "back": "",
+        "definition": "誘惑，吸引",
+        "example": "The company uses discounts to lure customers.",
+        "front": "",
+        "main": "lure",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "lure"
+    },
+    {
+        "back": "",
         "definition": "保持，維持",
         "example": "To maintain a relationship, do not insult your friend.",
         "front": "",
@@ -1568,6 +1818,16 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "maintain"
+    },
+    {
+        "back": "-er",
+        "definition": "製造商，廠商",
+        "example": "You should complain to the manufacturer.",
+        "front": "",
+        "main": "manufacture",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "manufacturer"
     },
     {
         "back": "-s",
@@ -1630,6 +1890,16 @@
         "word": "misbehavior"
     },
     {
+        "back": "-ing",
+        "definition": "使人誤解的",
+        "example": "Some films are misleading.",
+        "front": "",
+        "main": "mislead",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "misleading"
+    },
+    {
         "back": "",
         "definition": "動機",
         "example": "His motive to help me was unclear.",
@@ -1671,6 +1941,16 @@
     },
     {
         "back": "",
+        "definition": "不過",
+        "example": "He was angry; nevertheless, he listened to me.",
+        "front": "",
+        "main": "nevertheless",
+        "parts-of-speech": "副詞 (adverb)",
+        "test-count": 0,
+        "word": "nevertheless"
+    },
+    {
+        "back": "",
         "definition": "顯而易見的，明顯的，顯著的",
         "example": "Those colorful flowers are noticeable.",
         "front": "",
@@ -1688,6 +1968,16 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "notify"
+    },
+    {
+        "back": "",
+        "definition": "惡名昭彰的",
+        "example": "The city is notorious for its aor pollution.",
+        "front": "",
+        "main": "notorious",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "notorious"
     },
     {
         "back": "-ive",
@@ -1708,6 +1998,26 @@
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "observant"
+    },
+    {
+        "back": "",
+        "definition": "廢棄",
+        "example": "Planned obsolescence is a strategy to encourage customers to replace their products.",
+        "front": "",
+        "main": "obsolescence",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "obsolescence"
+    },
+    {
+        "back": "",
+        "definition": "廢棄，淘汰",
+        "example": "DVDs have become obsolete as more and more streaming platforms have came out.",
+        "front": "",
+        "main": "obsolete",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "obsolete"
     },
     {
         "back": "",
@@ -1761,8 +2071,8 @@
     },
     {
         "back": "",
-        "definition": "人物的血統",
-        "example": "The president's family was of poor origins.",
+        "definition": "事物的起源",
+        "example": "The story has unknown origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "名詞 (noun)",
@@ -1771,8 +2081,8 @@
     },
     {
         "back": "",
-        "definition": "事物的起源",
-        "example": "The story has unknown origins.",
+        "definition": "人物的血統",
+        "example": "The president's family was of poor origins.",
         "front": "",
         "main": "",
         "parts-of-speech": "名詞 (noun)",
@@ -1848,6 +2158,16 @@
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "passionate"
+    },
+    {
+        "back": "",
+        "definition": "處罰",
+        "example": "The referee gave a penalty.",
+        "front": "",
+        "main": "pentalty",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "penalty"
     },
     {
         "back": "",
@@ -2080,6 +2400,16 @@
         "word": "practical"
     },
     {
+        "back": "",
+        "definition": "實施，實行",
+        "example": "I think the idea would never work in practice.",
+        "front": "",
+        "main": "practice",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "practice"
+    },
+    {
         "back": "-cy",
         "definition": "懷孕",
         "example": "",
@@ -2118,6 +2448,16 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "progress"
+    },
+    {
+        "back": "",
+        "definition": "推廣，促進",
+        "example": "The government promoted the new traffic rules to raise public awareness.",
+        "front": "",
+        "main": "promote",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "promote"
     },
     {
         "back": "",
@@ -2240,6 +2580,16 @@
         "word": "rehearsal"
     },
     {
+        "back": "-ly",
+        "definition": "相較之下，相對的",
+        "example": "A light bulb is relatively inexpensive compared to a lamp.",
+        "front": "",
+        "main": "relative",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "relatively"
+    },
+    {
         "back": "",
         "definition": "緩和，減輕，解除",
         "example": "The pills gave him some relief.",
@@ -2271,8 +2621,8 @@
     },
     {
         "back": "",
-        "definition": "保持不變，仍然是",
-        "example": "It remains a secret.",
+        "definition": "維持",
+        "example": "All the other problems remained secret.",
         "front": "re-",
         "main": "main",
         "parts-of-speech": "動詞 (verb)",
@@ -2281,8 +2631,8 @@
     },
     {
         "back": "",
-        "definition": "維持",
-        "example": "All the other problems remained secret.",
+        "definition": "保持不變，仍然是",
+        "example": "It remains a secret.",
         "front": "re-",
         "main": "main",
         "parts-of-speech": "動詞 (verb)",
@@ -2308,6 +2658,16 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "rephrase"
+    },
+    {
+        "back": "",
+        "definition": "名聲，名譽",
+        "example": "This restaurant has an excellent repulation.",
+        "front": "",
+        "main": "reputation",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "reputation"
     },
     {
         "back": "-ial",
@@ -2358,6 +2718,16 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "revolution"
+    },
+    {
+        "back": "",
+        "definition": "撕，扯，剝",
+        "example": "The cloth is designed to be easy to rip.",
+        "front": "",
+        "main": "rip",
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "rip"
     },
     {
         "back": "",
@@ -2451,6 +2821,16 @@
     },
     {
         "back": "",
+        "definition": "醜聞",
+        "example": "It is a scandal for officials to cheat in elections.",
+        "front": "",
+        "main": "scandal",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "scandal"
+    },
+    {
+        "back": "",
         "definition": "圍巾，頭巾",
         "example": "Here is a bule scarf. Who is it belongs to?",
         "front": "",
@@ -2498,6 +2878,16 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "session"
+    },
+    {
+        "back": "",
+        "definition": "陰暗的，隱蔽的",
+        "example": "The shady side of the company has been revealed.",
+        "front": "",
+        "main": "shady",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "shady"
     },
     {
         "back": "",
@@ -2661,6 +3051,16 @@
     },
     {
         "back": "",
+        "definition": "庫存",
+        "example": "There is not much stock in the shop now.",
+        "front": "",
+        "main": "stock",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "stock"
+    },
+    {
+        "back": "",
         "definition": "奮鬥，鬥爭",
         "example": "We saw his passion during his struggles in life.",
         "front": "",
@@ -2708,6 +3108,16 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "sustainability"
+    },
+    {
+        "back": "",
+        "definition": "戰術，手法",
+        "example": "",
+        "front": "",
+        "main": "tactic",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "tactic"
     },
     {
         "back": "",
@@ -2801,6 +3211,16 @@
     },
     {
         "back": "",
+        "definition": "調色劑",
+        "example": "",
+        "front": "",
+        "main": "toner",
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "toner"
+    },
+    {
+        "back": "",
         "definition": "傳送",
         "example": "The ratio tower is used to transmit TV signals.",
         "front": "",
@@ -2808,6 +3228,16 @@
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "transmit"
+    },
+    {
+        "back": "-worthy",
+        "definition": "值得信賴的，可信的",
+        "example": "We are a construction company, and we are trustworthy.",
+        "front": "",
+        "main": "trust",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "trustworthy"
     },
     {
         "back": "",
@@ -2898,6 +3328,16 @@
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "victim"
+    },
+    {
+        "back": "-ful",
+        "definition": "浪費的",
+        "example": "You should break your wasteful habit.",
+        "front": "",
+        "main": "waste",
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "wasteful"
     },
     {
         "back": "-as",
