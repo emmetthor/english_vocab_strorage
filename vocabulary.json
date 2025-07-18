@@ -5,6 +5,7 @@
         "example": "",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": ""
@@ -15,9 +16,21 @@
         "example": "There's always a kernel of truth in criticism.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "諺語 (idiom)",
         "test-count": 0,
         "word": "a kernel of truth"
+    },
+    {
+        "back": "",
+        "definition": "短短的距離",
+        "example": "The hospital is only a stone's throw from my house.",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "諺語 (idiom)",
+        "test-count": 0,
+        "word": "a stone's throw"
     },
     {
         "back": "",
@@ -25,6 +38,7 @@
         "example": "Some people say that beauty itself is abstract.",
         "front": "",
         "main": "abstract",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "abstract"
@@ -35,6 +49,7 @@
         "example": "The party marked his acceptance into the community.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "acceptance"
@@ -45,6 +60,7 @@
         "example": "The hackers accessed the secret file.",
         "front": "",
         "main": "access",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "access"
@@ -55,6 +71,7 @@
         "example": "I paid for my flight and accommodations.",
         "front": "",
         "main": "accommodate",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "accommodation"
@@ -65,6 +82,7 @@
         "example": "They have accomplished the mission successfully.",
         "front": "",
         "main": "accomplish",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "accomplish"
@@ -75,6 +93,7 @@
         "example": "What a grand accomplishment!",
         "front": "",
         "main": "accomplish",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "accomplishment"
@@ -85,6 +104,7 @@
         "example": "The report lacks accuracy.",
         "front": "",
         "main": "accuracy",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "accuracy"
@@ -95,6 +115,7 @@
         "example": "You can't make wild accusations to others.",
         "front": "",
         "main": "accuse",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "accusation"
@@ -105,6 +126,7 @@
         "example": "He was accused of murder.",
         "front": "",
         "main": "accuse",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "accuse"
@@ -115,6 +137,7 @@
         "example": "The cost of the ticket, food, and drinks added up to a lot.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "add up"
@@ -125,6 +148,7 @@
         "example": "The car's addition is too fancy for me.",
         "front": "",
         "main": "addition",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "addition"
@@ -135,6 +159,7 @@
         "example": "Additional developments are planned to improve the app's performance.",
         "front": "",
         "main": "addition",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "additional"
@@ -145,9 +170,21 @@
         "example": "Additionally, the company provides 90-day technical support.",
         "front": "",
         "main": "additional",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "additionally"
+    },
+    {
+        "back": "",
+        "definition": "採納，採取",
+        "example": "After reconsidering, the boss adopted his suggestion.",
+        "front": "",
+        "main": "adopt",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "adopt"
     },
     {
         "back": "-ment",
@@ -155,9 +192,21 @@
         "example": "",
         "front": "",
         "main": "advance",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "advancement"
+    },
+    {
+        "back": "",
+        "definition": "優勢",
+        "example": "When someone cheats in a game, they gain an unfair advantage over their opponents.",
+        "front": "",
+        "main": "advantage",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "advantage"
     },
     {
         "back": "-able",
@@ -165,6 +214,7 @@
         "example": "These clothes are at affordable prices.",
         "front": "",
         "main": "affford",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "affordable"
@@ -175,6 +225,7 @@
         "example": "",
         "front": "",
         "main": "age",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "aging"
@@ -185,6 +236,7 @@
         "example": "The world's supply of agricultural land is shrinking fast.",
         "front": "",
         "main": "agriculture",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "agricultural"
@@ -195,6 +247,7 @@
         "example": "The area depends on agriculture for most of its income.",
         "front": "",
         "main": "agriculture",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "agriculture"
@@ -205,6 +258,7 @@
         "example": "The annual event is always held in the first day of the year.",
         "front": "",
         "main": "annual",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "annual"
@@ -215,6 +269,7 @@
         "example": "I'm anxious about his safety.",
         "front": "",
         "main": "anxious",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "anxious"
@@ -225,6 +280,7 @@
         "example": "He is a man of smart appearance",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "appearance"
@@ -235,6 +291,7 @@
         "example": "Older appliances are often better than new ones because they were made with higher quality materials.",
         "front": "",
         "main": "apply",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "appliance"
@@ -245,6 +302,7 @@
         "example": "He showed his approval with a smile.",
         "front": "",
         "main": "approve",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "approval"
@@ -255,6 +313,7 @@
         "example": "He doesn't approve of smoking.",
         "front": "",
         "main": "approve",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "approve"
@@ -265,6 +324,7 @@
         "example": "Swimming is easier if you put your fear aside.",
         "front": "a-",
         "main": "side",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "aside"
@@ -275,9 +335,21 @@
         "example": "",
         "front": "",
         "main": "associate",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "associate"
+    },
+    {
+        "back": "-ed",
+        "definition": "得到保證的，確定的",
+        "example": "He was assured of his ablility to solve the problem.",
+        "front": "",
+        "main": "assure",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "assured"
     },
     {
         "back": "",
@@ -285,6 +357,7 @@
         "example": "The atmosphere at the restaurant is awful—everyone's shouting!",
         "front": "",
         "main": "atmosphere",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "atmosphere"
@@ -295,6 +368,7 @@
         "example": "The E-mail is attached with a file.",
         "front": "",
         "main": "attach",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "attach"
@@ -305,6 +379,7 @@
         "example": "There is limited ticket availability, so book early to avoid disappointment.",
         "front": "",
         "main": "available",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "availability"
@@ -315,6 +390,7 @@
         "example": "What item is available today?",
         "front": "",
         "main": "avail",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "available"
@@ -325,9 +401,21 @@
         "example": "There is a general awareness that smoking is harmful.",
         "front": "",
         "main": "aware",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "awareness"
+    },
+    {
+        "back": "",
+        "definition": "餌，誘餌",
+        "example": "",
+        "front": "",
+        "main": "bait",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "bait"
     },
     {
         "back": "-cy",
@@ -335,6 +423,7 @@
         "example": "",
         "front": "",
         "main": "bankrupt",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "bankrupcy"
@@ -345,6 +434,7 @@
         "example": "This exercise isn't meant to be difficult.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "be meant to"
@@ -355,6 +445,7 @@
         "example": "When summer comes, the beach is the place to be.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "be the place to be"
@@ -365,6 +456,7 @@
         "example": "All religious and political beliefs should be respected equally.",
         "front": "",
         "main": "belief",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "belief"
@@ -375,6 +467,7 @@
         "example": "My beloved doll was thrown away.",
         "front": "",
         "main": "belove",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "beloved"
@@ -385,6 +478,7 @@
         "example": "The plan will benefit the company, but the customers will suffer.",
         "front": "",
         "main": "benefit",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "benefit"
@@ -395,6 +489,7 @@
         "example": "There's a binocular microscope.",
         "front": "bin-",
         "main": "ocular",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "binocular"
@@ -405,6 +500,7 @@
         "example": "The flowers all bloomed.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "bloom"
@@ -415,9 +511,21 @@
         "example": "Taiwan boasts high-tech products.",
         "front": "",
         "main": "boast",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "boast"
+    },
+    {
+        "back": "",
+        "definition": "勇敢的，無畏的",
+        "example": "He is a bold and fearless climber.",
+        "front": "",
+        "main": "bold",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "bold"
     },
     {
         "back": "-ing",
@@ -425,6 +533,7 @@
         "example": "",
         "front": "",
         "main": "boom",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "booming"
@@ -435,6 +544,7 @@
         "example": "The father boosts his children's spirits by buying them ice cream.",
         "front": "",
         "main": "boost",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "boost"
@@ -445,6 +555,7 @@
         "example": "I bought a coke at a small booth.",
         "front": "",
         "main": "booth",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "booth"
@@ -455,6 +566,7 @@
         "example": "",
         "front": "",
         "main": "bough",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "bough"
@@ -465,6 +577,7 @@
         "example": "Food prices are the bread-and-butter issues that most families have.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "專有名詞 (proper noun)",
         "test-count": 0,
         "word": "bread-and-butter issues"
@@ -475,6 +588,7 @@
         "example": "He stood up and made a brief speech.",
         "front": "",
         "main": "brief",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "brief"
@@ -485,6 +599,7 @@
         "example": "It was springtime and the fruit trees were in bud.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "bud"
@@ -495,6 +610,7 @@
         "example": "The kids were bundled up in coats.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "bundle up"
@@ -505,6 +621,7 @@
         "example": "That night was buzzing with energy because a famous actor showed up.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "buzzing with energy"
@@ -515,6 +632,7 @@
         "example": "This is a controversial new advertising campaign.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "campaign"
@@ -525,6 +643,7 @@
         "example": "",
         "front": "",
         "main": "cartel",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "cartel"
@@ -535,6 +654,7 @@
         "example": "",
         "front": "",
         "main": "cartridge",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "cartridge"
@@ -545,6 +665,7 @@
         "example": "Division by zero is possible in certain special cases.",
         "front": "",
         "main": "certain",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "certain"
@@ -555,6 +676,7 @@
         "example": "She is certainly doing her job.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "certainly"
@@ -565,6 +687,7 @@
         "example": "My circle of friends has become smaller as I have got older.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "circle of friends"
@@ -575,6 +698,7 @@
         "example": "Singapore is a highly developed city-state.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "city-state"
@@ -585,6 +709,7 @@
         "example": "The company claims that it is not responsible for the pollution in the river.",
         "front": "",
         "main": "claim",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "claim"
@@ -595,6 +720,7 @@
         "example": "Clarfying your opinion is important for communitation.",
         "front": "",
         "main": "clarfy",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "clarfy"
@@ -605,6 +731,7 @@
         "example": "\"War and Peace\" is a classic book of all time.",
         "front": "",
         "main": "class",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "classic"
@@ -615,6 +742,7 @@
         "example": "The caterpillar's cocoon is ugly. Why?",
         "front": "",
         "main": "cocoon",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "cocoon"
@@ -625,6 +753,7 @@
         "example": "As the cold snap comes, winter is coming.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "專有名詞 (proper noun)",
         "test-count": 0,
         "word": "cold snap"
@@ -635,6 +764,7 @@
         "example": "Taiwan was once a colony of Japan.",
         "front": "",
         "main": "colony",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "colony"
@@ -645,6 +775,7 @@
         "example": "It's little too hot for comfort.",
         "front": "",
         "main": "comfort",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "comfort"
@@ -655,6 +786,7 @@
         "example": "",
         "front": "",
         "main": "comment",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "comment"
@@ -665,6 +797,7 @@
         "example": "",
         "front": "",
         "main": "commission",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "commission"
@@ -675,6 +808,7 @@
         "example": "The community is well-known because of its food.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "community"
@@ -685,6 +819,7 @@
         "example": "A competitive person likes to win.",
         "front": "",
         "main": "compete",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "competitive"
@@ -695,6 +830,7 @@
         "example": "Don't compromise other people's dignity.",
         "front": "com-",
         "main": "promise",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "compromise"
@@ -705,6 +841,7 @@
         "example": "When you encounter a conflict, do not insult others.",
         "front": "",
         "main": "conflict",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "conflict"
@@ -715,6 +852,7 @@
         "example": "I was confronted by the fine.",
         "front": "",
         "main": "confront",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "confront"
@@ -725,6 +863,7 @@
         "example": "You should get your parents' consent to join the party.",
         "front": "",
         "main": "consent",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "consent"
@@ -735,6 +874,7 @@
         "example": "The consequence of skipping school is disciplinary action.",
         "front": "",
         "main": "consequence",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "consequence"
@@ -745,6 +885,7 @@
         "example": "He constantly criticises me.",
         "front": "",
         "main": "constant",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "constantly"
@@ -755,9 +896,21 @@
         "example": "That criticism is constructive. You should consider it.",
         "front": "",
         "main": "construct",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "constructive"
+    },
+    {
+        "back": "",
+        "definition": "看病",
+        "example": "If you find your body paining, consult a doctor to see what's going on.",
+        "front": "",
+        "main": "consult",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "consult"
     },
     {
         "back": "",
@@ -765,6 +918,7 @@
         "example": "Americans consumed 2 billion hot dogs last year.",
         "front": "",
         "main": "consume",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "consume"
@@ -775,9 +929,32 @@
         "example": "Football involves a lot of contact.",
         "front": "",
         "main": "contact",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "contact"
+    },
+    {
+        "back": "",
+        "definition": "大陸",
+        "example": "",
+        "front": "",
+        "main": "continent",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "continent"
+    },
+    {
+        "back": "-ial",
+        "definition": "爭議的，可疑的",
+        "example": "",
+        "front": "",
+        "main": "controversy",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "controversial"
     },
     {
         "back": "-y",
@@ -785,9 +962,21 @@
         "example": "The controversy damaged the company's reputation.",
         "front": "",
         "main": "controverse",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "controversy"
+    },
+    {
+        "back": "",
+        "definition": "忠告，勸告",
+        "example": "After careful consideration, I agreed with his counsel.",
+        "front": "",
+        "main": "counsel",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "counsel"
     },
     {
         "back": "-er",
@@ -795,6 +984,7 @@
         "example": "New technology countered the misuse of tracking.",
         "front": "",
         "main": "count",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "counter"
@@ -805,6 +995,7 @@
         "example": "",
         "front": "",
         "main": "crack",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "crack"
@@ -815,6 +1006,7 @@
         "example": "That's the soldier's crest.",
         "front": "",
         "main": "crest",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "crest"
@@ -825,6 +1017,7 @@
         "example": "He likes tasting food, so he wants to be a food critic someday.",
         "front": "",
         "main": "critic",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "critic"
@@ -835,6 +1028,7 @@
         "example": "Your advice, though critical, is very constructive.",
         "front": "",
         "main": "crisic",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "critical"
@@ -845,6 +1039,7 @@
         "example": "I have a few criticisms to make about your speech.",
         "front": "",
         "main": "critic",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "criticism"
@@ -855,6 +1050,7 @@
         "example": "His criticism is offensive.",
         "front": "",
         "main": "criticise",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "criticism"
@@ -865,6 +1061,7 @@
         "example": "Grains produced much larger crops.",
         "front": "",
         "main": "crop",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "crop"
@@ -875,6 +1072,7 @@
         "example": "Cell phones are becoming more and more crucial in our daily lives.",
         "front": "",
         "main": "crucial",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "crucial"
@@ -885,6 +1083,7 @@
         "example": "Stinky tofu is one of the most popular cuisines in Taiwan.",
         "front": "",
         "main": "cuisine",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "cuisine"
@@ -895,9 +1094,21 @@
         "example": "This kind of clothes is quite dated.",
         "front": "",
         "main": "date",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "dated"
+    },
+    {
+        "back": "",
+        "definition": "發牌",
+        "example": "It's your deal.",
+        "front": "",
+        "main": "deal",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "deal"
     },
     {
         "back": "",
@@ -905,6 +1116,7 @@
         "example": "The soldier's actions are deceptive against the enemy.",
         "front": "",
         "main": "deceptive",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "deceptive"
@@ -915,6 +1127,7 @@
         "example": "The player defaulted the game since the injury on his feet.",
         "front": "de-",
         "main": "fault",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "default"
@@ -925,6 +1138,7 @@
         "example": "His defensive act is making communication difficult.",
         "front": "",
         "main": "defense",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "defensive"
@@ -935,9 +1149,21 @@
         "example": "He is definitely coming.",
         "front": "",
         "main": "definite",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "definitely"
+    },
+    {
+        "back": "-ist",
+        "definition": "皮膚科醫師",
+        "example": "",
+        "front": "",
+        "main": "dermatology",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "dermatologist"
     },
     {
         "back": "",
@@ -945,6 +1171,7 @@
         "example": "You deserve it.",
         "front": "de-",
         "main": "serve",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "deserve"
@@ -955,6 +1182,7 @@
         "example": "His words had the desired effect.",
         "front": "",
         "main": "desire",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "desired"
@@ -965,6 +1193,7 @@
         "example": "Some sounds can not be detected by human.",
         "front": "",
         "main": "detect",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "detect"
@@ -975,6 +1204,7 @@
         "example": "He has the determination to overcome all the obstacles to succeess.",
         "front": "",
         "main": "determine",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "determination"
@@ -985,6 +1215,7 @@
         "example": "I determined to be a software engineer.",
         "front": "",
         "main": "determine",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "determine"
@@ -995,6 +1226,7 @@
         "example": "This city is well developed.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "developed"
@@ -1005,6 +1237,7 @@
         "example": "The dial on the washing machine is broken.",
         "front": "",
         "main": "dial",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "dial"
@@ -1015,6 +1248,7 @@
         "example": "Everyone has their own dignity.",
         "front": "",
         "main": "dignity",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "dignity"
@@ -1025,6 +1259,7 @@
         "example": "He dipped his finger to check whether the water is hot or not.",
         "front": "",
         "main": "dip",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "dip"
@@ -1035,6 +1270,7 @@
         "example": "He made a direct rejection.",
         "front": "",
         "main": "direct",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "direct"
@@ -1045,6 +1281,7 @@
         "example": "One of my friends asked me to dish out what happend that day.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "dish out"
@@ -1055,6 +1292,7 @@
         "example": "I have dished dinner up. Come here to enjoy.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "dish up"
@@ -1065,6 +1303,7 @@
         "example": "Some companies engage in dishonest practices that make their products break more easily.",
         "front": "dis-",
         "main": "honest",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "dishonest"
@@ -1075,9 +1314,21 @@
         "example": "I heard the distant explosion.",
         "front": "",
         "main": "distant",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "distant"
+    },
+    {
+        "back": "",
+        "definition": "不同的",
+        "example": "The twins have distinct hobbies.",
+        "front": "",
+        "main": "distinct",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "distinct"
     },
     {
         "back": "-ed",
@@ -1085,6 +1336,7 @@
         "example": "I often get distracted by phone notifications popping up.",
         "front": "",
         "main": "distract",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "distracted"
@@ -1095,6 +1347,7 @@
         "example": "The country's population is down from 4,000 to 200.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "phrase",
         "test-count": 0,
         "word": "down from"
@@ -1105,6 +1358,7 @@
         "example": "My cell phone's battery always drains too fast.",
         "front": "",
         "main": "drain",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "drain"
@@ -1115,9 +1369,32 @@
         "example": "He's an excellent speaker who always draws a crowd.",
         "front": "",
         "main": "draw",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "draw"
+    },
+    {
+        "back": "",
+        "definition": "漂浮",
+        "example": "He is drifting in his boat, waiting for someone to help him.",
+        "front": "",
+        "main": "drift",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "drift"
+    },
+    {
+        "back": "",
+        "definition": "漂流木",
+        "example": "",
+        "front": "drift-",
+        "main": "wood",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "driftwood"
     },
     {
         "back": "",
@@ -1125,9 +1402,21 @@
         "example": "This car is made by durable material.",
         "front": "",
         "main": "durable",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "durable"
+    },
+    {
+        "back": "-ly",
+        "definition": "有效的",
+        "example": "They are trying to make the machine work more effectively.",
+        "front": "",
+        "main": "effective",
+        "part-of-speech": null,
+        "parts-of-speech": "副詞 (adverb)",
+        "test-count": 0,
+        "word": "effectively"
     },
     {
         "back": "",
@@ -1135,6 +1424,7 @@
         "example": "The boss's decision elevated the company's income.",
         "front": "",
         "main": "elevate",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "elevate"
@@ -1145,6 +1435,7 @@
         "example": "The author of this app is Emmet.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "Emmet"
@@ -1155,9 +1446,21 @@
         "example": "I have to endure an 18-hour flight to get to Japan.",
         "front": "",
         "main": "endure",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "endure"
+    },
+    {
+        "back": "",
+        "definition": "表皮",
+        "example": "",
+        "front": "",
+        "main": "epidermis",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "epidermis"
     },
     {
         "back": "",
@@ -1165,6 +1468,7 @@
         "example": "The volcano erupted a few days ago.",
         "front": "",
         "main": "erupt",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "erupt"
@@ -1175,6 +1479,7 @@
         "example": "I like fruits, especially apples.",
         "front": "e-",
         "main": "specially",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "especially"
@@ -1185,9 +1490,21 @@
         "example": "Cooking skills are essential for daily life.",
         "front": "",
         "main": "essential",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "essential"
+    },
+    {
+        "back": "",
+        "definition": "估計",
+        "example": "The police estimated the number of victims at about 5000.",
+        "front": "",
+        "main": "estimate",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "estimate"
     },
     {
         "back": "-al",
@@ -1195,6 +1512,7 @@
         "example": "",
         "front": "",
         "main": "ethic",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "ethical"
@@ -1205,6 +1523,7 @@
         "example": "There's no evidence to prove that he committed a crime.",
         "front": "",
         "main": "evid",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "evidence"
@@ -1215,9 +1534,21 @@
         "example": "He loves boasting, and it's always exaggerated.",
         "front": "",
         "main": "exaggerate",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "exaggerated"
+    },
+    {
+        "back": "-tion",
+        "definition": "檢查，調查",
+        "example": "A close examination of the butterfly shows that it has four wings.",
+        "front": "",
+        "main": "exanminate",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "examination"
     },
     {
         "back": "-ment",
@@ -1225,6 +1556,7 @@
         "example": "The baby's first step caused a great excitement.",
         "front": "",
         "main": "excite",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "excitement"
@@ -1235,9 +1567,21 @@
         "example": "I attended an exhibition about cars.",
         "front": "",
         "main": "exhibition",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "exhibition"
+    },
+    {
+        "back": "-ure",
+        "definition": "暴露，曝曬",
+        "example": "Constant exposure may cause skin cancer.",
+        "front": "",
+        "main": "expose",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "exposure"
     },
     {
         "back": "",
@@ -1245,6 +1589,7 @@
         "example": "We've received a lot of expressions of support for our campaign.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "expression"
@@ -1255,9 +1600,21 @@
         "example": "His strength of will is extraordinary.",
         "front": "extra-",
         "main": "ordinary",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "extraordinary"
+    },
+    {
+        "back": "-ial",
+        "definition": "臉部的",
+        "example": "",
+        "front": "",
+        "main": "face",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "facial"
     },
     {
         "back": "",
@@ -1265,6 +1622,7 @@
         "example": "The combination of several factors caused this accident.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "factor"
@@ -1275,9 +1633,21 @@
         "example": "The false earthquake alarm from the government is annoying.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "專有名詞 (proper noun)",
         "test-count": 0,
         "word": "false alarm"
+    },
+    {
+        "back": "",
+        "definition": "名聲",
+        "example": "He moved to America in search of fame and fortune.",
+        "front": "",
+        "main": "fame",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "fame"
     },
     {
         "back": "-away",
@@ -1285,6 +1655,7 @@
         "example": "The faraway country produces milk as its main export.",
         "front": "",
         "main": "far",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "faraway"
@@ -1295,6 +1666,7 @@
         "example": "The event features music, food and shows.",
         "front": "",
         "main": "feature",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "feature"
@@ -1305,6 +1677,7 @@
         "example": "What is the focus of your report?",
         "front": "",
         "main": "focus",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "focus"
@@ -1315,6 +1688,7 @@
         "example": "He is a frugal housekeeper.",
         "front": "",
         "main": "frugal",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "frugal"
@@ -1325,6 +1699,7 @@
         "example": "After a big failure in business, he felt frustrated.",
         "front": "",
         "main": "frustrate",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "frustrated"
@@ -1335,9 +1710,76 @@
         "example": "In general, men are taller than women.",
         "front": "",
         "main": "general",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "general"
+    },
+    {
+        "back": "",
+        "definition": "傳達",
+        "example": "The context gets the idea across to us: life is precious.",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "片語 (phrase)",
+        "test-count": 0,
+        "word": "get across"
+    },
+    {
+        "back": "",
+        "definition": "僥倖逃過",
+        "example": "I seldom get away with my parents' complaints.",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "片語 (phrase)",
+        "test-count": 0,
+        "word": "get away with"
+    },
+    {
+        "back": "",
+        "definition": "投入，參與",
+        "example": "I've been getting into math, so I joined a math camp.",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "片語 (phrase)",
+        "test-count": 0,
+        "word": "get into"
+    },
+    {
+        "back": "",
+        "definition": "克服",
+        "example": "He still can get over his mom's death.",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "片語 (phrase)",
+        "test-count": 0,
+        "word": "get over"
+    },
+    {
+        "back": "",
+        "definition": "充分利用",
+        "example": "",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "片語 (phrase)",
+        "test-count": 0,
+        "word": "get the most out of"
+    },
+    {
+        "back": "",
+        "definition": "認清事實",
+        "example": "",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "諺語 (idiom)",
+        "test-count": 0,
+        "word": "get with it"
     },
     {
         "back": "",
@@ -1345,6 +1787,7 @@
         "example": "",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "go into labor"
@@ -1355,6 +1798,7 @@
         "example": "Have you heard the latest gossip?",
         "front": "",
         "main": "gossip",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "gossip"
@@ -1365,6 +1809,7 @@
         "example": "Handling criticism with grace is difficult.",
         "front": "",
         "main": "grace",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "grace"
@@ -1375,6 +1820,7 @@
         "example": "Speaking kindly helps maintain good relationships.",
         "front": "",
         "main": "gracious",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "graciously"
@@ -1385,6 +1831,7 @@
         "example": "We began to know each other gradually.",
         "front": "",
         "main": "gradual",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "gradually"
@@ -1395,6 +1842,7 @@
         "example": "Grain is one of the main exports of the American Midwest.",
         "front": "",
         "main": "grain",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "grain"
@@ -1405,6 +1853,7 @@
         "example": "I felt gratitude toward him because he pointed out my mistake.",
         "front": "",
         "main": "gratitude",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "gratitude"
@@ -1415,6 +1864,7 @@
         "example": "Because of the Green Revolution, we have much food today.",
         "front": "",
         "main": "Green Revolution",
+        "part-of-speech": null,
         "parts-of-speech": "專有名詞",
         "test-count": 0,
         "word": "Green Revolution"
@@ -1425,9 +1875,21 @@
         "example": "I'm new to this job. I'm a greenhorn.",
         "front": "",
         "main": "green",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "greenhorn"
+    },
+    {
+        "back": "",
+        "definition": "抱怨",
+        "example": "He often grumble out that he hates school.",
+        "front": "",
+        "main": "grumble",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "grumble"
     },
     {
         "back": "",
@@ -1435,6 +1897,7 @@
         "example": "What  a harsh criticism!",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "harsh"
@@ -1445,6 +1908,7 @@
         "example": "He is a honorable man.",
         "front": "",
         "main": "honor",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "honorable"
@@ -1455,6 +1919,7 @@
         "example": "",
         "front": "",
         "main": "hourglass",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "hourglass"
@@ -1465,6 +1930,7 @@
         "example": "This is a good household soap.",
         "front": "",
         "main": "house-hold",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "household"
@@ -1475,9 +1941,21 @@
         "example": "The hub of America's economy is New York.",
         "front": "",
         "main": "hub",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "hub"
+    },
+    {
+        "back": "",
+        "definition": "理想的，完美的",
+        "example": "You are a ideal family.",
+        "front": "",
+        "main": "ideal",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "ideal"
     },
     {
         "back": "-ify",
@@ -1485,6 +1963,7 @@
         "example": "Babies can identify their moms by their voice.",
         "front": "",
         "main": "ident",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "identify"
@@ -1495,6 +1974,7 @@
         "example": "The man's identity is kept as a secret.",
         "front": "",
         "main": "ident",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "identity"
@@ -1505,9 +1985,21 @@
         "example": "I have an imaginal friend when I wa little.",
         "front": "",
         "main": "imagine",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "imaginary"
+    },
+    {
+        "back": "",
+        "definition": "巨大的，廣大的",
+        "example": "What a immense world!",
+        "front": "",
+        "main": "immense",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "immense"
     },
     {
         "back": "",
@@ -1515,6 +2007,7 @@
         "example": "The word revolution could imply many things.",
         "front": "",
         "main": "imply",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "imply"
@@ -1525,6 +2018,7 @@
         "example": "Swiches don't have in-between settings like with a dial.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "in-between"
@@ -1535,6 +2029,7 @@
         "example": "He is indeed a good teacher.",
         "front": "",
         "main": "indeed",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "indeed"
@@ -1545,6 +2040,7 @@
         "example": "Every individuals has their own rights.",
         "front": "in-",
         "main": "divide",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "individual"
@@ -1555,6 +2051,7 @@
         "example": "The man is so inexperienced that the company is deciding to fire him",
         "front": "",
         "main": "experienced",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "inexperienced"
@@ -1565,6 +2062,7 @@
         "example": "I should have been informed about this problem, but I didn’t receive anything.",
         "front": "in-",
         "main": "form",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "inform"
@@ -1575,6 +2073,7 @@
         "example": "The organization took the initiative to reveal the shady side of the company.",
         "front": "",
         "main": "initiative",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "initiative"
@@ -1585,9 +2084,32 @@
         "example": "His speech gave us an insight into the problem of education.",
         "front": "in-",
         "main": "sight",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "insight"
+    },
+    {
+        "back": "",
+        "definition": "堅持",
+        "example": "He insists on his opinion.",
+        "front": "",
+        "main": "insist",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "insist"
+    },
+    {
+        "back": "-tion",
+        "definition": "檢查，檢驗",
+        "example": "The elevator should undergo a annual safty inpection.",
+        "front": "",
+        "main": "inspect",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "inspection"
     },
     {
         "back": "",
@@ -1595,6 +2117,7 @@
         "example": "She made several insults about my appearance.",
         "front": "",
         "main": "insult",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "insult"
@@ -1605,6 +2128,7 @@
         "example": "I integrated two projects into one.",
         "front": "",
         "main": "integrate",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "integrate"
@@ -1615,9 +2139,21 @@
         "example": "The integrety of the judge is unquestioned.",
         "front": "",
         "main": "integrety",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "integrety"
+    },
+    {
+        "back": "",
+        "definition": "意圖，打算",
+        "example": "When playing card games, it's important to hide your intentions.",
+        "front": "",
+        "main": "intention",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "intention"
     },
     {
         "back": "-al",
@@ -1625,6 +2161,7 @@
         "example": "I think the car accident was not intentional.",
         "front": "",
         "main": "intention",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "intentional"
@@ -1635,6 +2172,7 @@
         "example": "",
         "front": "",
         "main": "intentional",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "intentionally"
@@ -1645,9 +2183,21 @@
         "example": "",
         "front": "",
         "main": "interest",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "interest"
+    },
+    {
+        "back": "-al",
+        "definition": "內部的",
+        "example": "Give higher priority to a person's inner qualities than their appearance.",
+        "front": "",
+        "main": "intern",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "internal"
     },
     {
         "back": "-ize",
@@ -1655,6 +2205,7 @@
         "example": "I often internalize other's criticism.",
         "front": "",
         "main": "internal",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "internalize"
@@ -1665,6 +2216,7 @@
         "example": "After several weeks of investigation, the murder was finally proved to be an accident.",
         "front": "",
         "main": "investigate",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "investigation"
@@ -1675,9 +2227,21 @@
         "example": "This table of dish is inviting to me.",
         "front": "",
         "main": "invite",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "inviting"
+    },
+    {
+        "back": "",
+        "definition": "使煩躁，使惱怒",
+        "example": "His constant boasting irritates me.",
+        "front": "",
+        "main": "irritate",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "irritate"
     },
     {
         "back": "",
@@ -1685,6 +2249,7 @@
         "example": "I'm jelous of your money.",
         "front": "",
         "main": "jealous",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "jealous"
@@ -1695,6 +2260,7 @@
         "example": "He broke his brother's bike because of jealousy.",
         "front": "",
         "main": "jealous",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "jealousy"
@@ -1705,6 +2271,7 @@
         "example": "Have a great journey!",
         "front": "",
         "main": "journey",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "journey"
@@ -1715,6 +2282,7 @@
         "example": "He has a keen sense of smell.",
         "front": "",
         "main": "keen",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "keen"
@@ -1725,6 +2293,7 @@
         "example": "Experts from all over the world attended the kick off of the new language museum.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "kick off"
@@ -1735,6 +2304,7 @@
         "example": "Most shoes now are tied with knots.",
         "front": "",
         "main": "knot",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "knot"
@@ -1745,6 +2315,7 @@
         "example": "He just lacks a little confidence.",
         "front": "",
         "main": "lack",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "lack"
@@ -1755,6 +2326,7 @@
         "example": "Don't lash out just because you hear some criticism.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "lash out"
@@ -1765,6 +2337,7 @@
         "example": "The lifespan of this light bulb is limited to 1000 hours.",
         "front": "",
         "main": "life",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "lifespan"
@@ -1775,6 +2348,7 @@
         "example": "The city was literally destroyed.",
         "front": "",
         "main": "literal",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "literally"
@@ -1785,6 +2359,7 @@
         "example": "That farm is his livelihood.",
         "front": "",
         "main": "live",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "livelihood"
@@ -1795,9 +2370,21 @@
         "example": "His words are logical and clearly expressed.",
         "front": "",
         "main": "logic",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "logical"
+    },
+    {
+        "back": "",
+        "definition": "藥水，塗劑",
+        "example": "",
+        "front": "",
+        "main": "lotion",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "lotion"
     },
     {
         "back": "",
@@ -1805,6 +2392,7 @@
         "example": "The company uses discounts to lure customers.",
         "front": "",
         "main": "lure",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "lure"
@@ -1815,6 +2403,7 @@
         "example": "To maintain a relationship, do not insult your friend.",
         "front": "",
         "main": "maintain",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "maintain"
@@ -1825,6 +2414,7 @@
         "example": "You should complain to the manufacturer.",
         "front": "",
         "main": "manufacture",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "manufacturer"
@@ -1835,9 +2425,21 @@
         "example": "His means of earning money is unacceptable.",
         "front": "",
         "main": "mean",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "means"
+    },
+    {
+        "back": "",
+        "definition": "措施，手段",
+        "example": "The government was blamed for not taking measures to help the poor.",
+        "front": "",
+        "main": "measure",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "measure"
     },
     {
         "back": "-able",
@@ -1845,9 +2447,21 @@
         "example": "This is the most memorable day of my life.",
         "front": "",
         "main": "memory",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "memorable"
+    },
+    {
+        "back": "",
+        "definition": "良師，益友",
+        "example": "",
+        "front": "",
+        "main": "mentor",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "mentor"
     },
     {
         "back": "",
@@ -1855,6 +2469,7 @@
         "example": "The more people come, the merrier we are.",
         "front": "",
         "main": "merry",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "merry"
@@ -1865,6 +2480,7 @@
         "example": "",
         "front": "",
         "main": "metaphor",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "metaphor"
@@ -1875,6 +2491,7 @@
         "example": "I bought a miniature of the Eiffel Tower.",
         "front": "",
         "main": "miniature",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "miniature"
@@ -1885,6 +2502,7 @@
         "example": "The man went to jail because of his misbehavior.",
         "front": "mis-",
         "main": "behavior",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "misbehavior"
@@ -1895,6 +2513,7 @@
         "example": "Some films are misleading.",
         "front": "",
         "main": "mislead",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "misleading"
@@ -1905,6 +2524,7 @@
         "example": "His motive to help me was unclear.",
         "front": "",
         "main": "motive",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "motive"
@@ -1915,6 +2535,7 @@
         "example": "My boss kept moving the goalposts, so I eventually quit.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "諺語 (idiom)",
         "test-count": 0,
         "word": "move the goalposts"
@@ -1925,9 +2546,21 @@
         "example": "To succeed, you will need a strong multitasking skill.",
         "front": "",
         "main": "multitask",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "multitasking"
+    },
+    {
+        "back": "",
+        "definition": "咕噥著說",
+        "example": "When the old man speaks, he often mumble his words.",
+        "front": "",
+        "main": "mumble",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "mumble"
     },
     {
         "back": "-ily",
@@ -1935,9 +2568,21 @@
         "example": "",
         "front": "",
         "main": "necessary",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "necessarily"
+    },
+    {
+        "back": "",
+        "definition": "疏忽，忽視",
+        "example": "I apologize for neglecting to bring the report.",
+        "front": "",
+        "main": "neglect",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "neglect"
     },
     {
         "back": "",
@@ -1945,6 +2590,7 @@
         "example": "He was angry; nevertheless, he listened to me.",
         "front": "",
         "main": "nevertheless",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "nevertheless"
@@ -1955,6 +2601,7 @@
         "example": "Those colorful flowers are noticeable.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "noticeable"
@@ -1965,6 +2612,7 @@
         "example": "When there's an earthquake, the app will notify you with a ding.",
         "front": "",
         "main": "notify",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "notify"
@@ -1975,6 +2623,7 @@
         "example": "The city is notorious for its aor pollution.",
         "front": "",
         "main": "notorious",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "notorious"
@@ -1985,6 +2634,7 @@
         "example": "Can the salesman achive the final objective?",
         "front": "",
         "main": "object",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "objective"
@@ -1995,6 +2645,7 @@
         "example": "An observant person can always notice things before others.",
         "front": "",
         "main": "observe",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "observant"
@@ -2005,6 +2656,7 @@
         "example": "Planned obsolescence is a strategy to encourage customers to replace their products.",
         "front": "",
         "main": "obsolescence",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "obsolescence"
@@ -2015,9 +2667,21 @@
         "example": "DVDs have become obsolete as more and more streaming platforms have came out.",
         "front": "",
         "main": "obsolete",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "obsolete"
+    },
+    {
+        "back": "-s",
+        "definition": "機率，可能性",
+        "example": "The overall odds of winning a lottery prize are 1 in 13.",
+        "front": "",
+        "main": "odd",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "odds"
     },
     {
         "back": "",
@@ -2025,6 +2689,7 @@
         "example": "Like most working mothers, she is always on the go.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "idiom",
         "test-count": 0,
         "word": "on the go"
@@ -2035,6 +2700,7 @@
         "example": "Operating this machine is hard for greenhorns like me.",
         "front": "",
         "main": "operate",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "operate"
@@ -2045,6 +2711,7 @@
         "example": "The political opponent has lost the election.",
         "front": "",
         "main": "opponent",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "opponent"
@@ -2055,6 +2722,7 @@
         "example": "",
         "front": "",
         "main": "optimist",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "optimistic"
@@ -2065,6 +2733,7 @@
         "example": "The restaurant has changed the price of organic vegetables.",
         "front": "",
         "main": "organ",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "organic"
@@ -2075,6 +2744,7 @@
         "example": "The story has unknown origins.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "origin"
@@ -2085,6 +2755,7 @@
         "example": "The president's family was of poor origins.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "origin"
@@ -2095,6 +2766,7 @@
         "example": "The gardens have recently been restored to their original glory.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "original"
@@ -2105,6 +2777,7 @@
         "example": "Originally it was a bedroom, but we turned it into a study.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "originally"
@@ -2115,6 +2788,7 @@
         "example": "An overall view can help you know what to focus on.",
         "front": "over-",
         "main": "all",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "overall"
@@ -2125,6 +2799,7 @@
         "example": "He overcommitted himself by attending five clubs at the same time.",
         "front": "",
         "main": "overcommit",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "overcommitted"
@@ -2135,6 +2810,7 @@
         "example": "He is overextended at work and at home.",
         "front": "",
         "main": "overextend",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "overextended"
@@ -2145,6 +2821,7 @@
         "example": "Since I have to finish the project tomorrow but I havn't started yet, I feel overwhelmed.",
         "front": "",
         "main": "overwhelm",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "overwhelmed"
@@ -2155,9 +2832,21 @@
         "example": "He is obviously passionate about coding.",
         "front": "",
         "main": "passion",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "passionate"
+    },
+    {
+        "back": "",
+        "definition": "消遣，娛樂",
+        "example": "Playing cards is one of the most popular pastimes.",
+        "front": "",
+        "main": "pastime",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "pastime"
     },
     {
         "back": "",
@@ -2165,6 +2854,7 @@
         "example": "The referee gave a penalty.",
         "front": "",
         "main": "pentalty",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "penalty"
@@ -2175,6 +2865,7 @@
         "example": "I perceived a little cat hiding beneath a bench.",
         "front": "per-",
         "main": "ceive",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "perceive"
@@ -2185,6 +2876,7 @@
         "example": "Being perceptive allows you to notice things others might easily miss.",
         "front": "",
         "main": "percept",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "perceptive"
@@ -2195,6 +2887,7 @@
         "example": "Walking alone at night is really perilous.",
         "front": "",
         "main": "perilous",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "perilous"
@@ -2205,6 +2898,7 @@
         "example": "A vendor is not a permanent store.",
         "front": "",
         "main": "permanent",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "permanent"
@@ -2215,6 +2909,7 @@
         "example": "He still persists in his opinion, although it is totally wrong.",
         "front": "",
         "main": "persist",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "persist"
@@ -2225,6 +2920,7 @@
         "example": "",
         "front": "",
         "main": "personal",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "personally"
@@ -2235,6 +2931,7 @@
         "example": "Jack Frost is the personification of winter.",
         "front": "",
         "main": "presonify",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "personification"
@@ -2245,6 +2942,7 @@
         "example": "When you receive criticism, find out the perspective behind it first.",
         "front": "",
         "main": "perspective",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "perspective"
@@ -2255,6 +2953,7 @@
         "example": "",
         "front": "",
         "main": "pessimist",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "pessimistic"
@@ -2265,6 +2964,7 @@
         "example": "He piled the books on top of each other.",
         "front": "",
         "main": "pile",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "pile"
@@ -2275,6 +2975,7 @@
         "example": "He is now in a playful mood.",
         "front": "",
         "main": "play",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "playful"
@@ -2285,6 +2986,7 @@
         "example": "What a pleasant surprise!",
         "front": "",
         "main": "please",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "pleasant"
@@ -2295,6 +2997,7 @@
         "example": "He pleased everyone by his moves.",
         "front": "",
         "main": "please",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "please"
@@ -2305,6 +3008,7 @@
         "example": "",
         "front": "",
         "main": "poet",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "poetry"
@@ -2315,6 +3019,7 @@
         "example": "",
         "front": "",
         "main": "political",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "political"
@@ -2325,6 +3030,7 @@
         "example": "The politician lost the election.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "politician"
@@ -2335,6 +3041,7 @@
         "example": "Cellphones has gained populariy since they are useful.",
         "front": "",
         "main": "popular",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "popularity"
@@ -2345,6 +3052,7 @@
         "example": "India has the highest population in the world.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "population"
@@ -2355,6 +3063,7 @@
         "example": "I don't possess the ability to earn money.",
         "front": "",
         "main": "possess",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "possess"
@@ -2365,6 +3074,7 @@
         "example": "The meeting was postponed because of a typhoon.",
         "front": "",
         "main": "postpone",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "postpone"
@@ -2375,6 +3085,7 @@
         "example": "Be careful of potential dangers.",
         "front": "",
         "main": "potential",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "potential"
@@ -2385,6 +3096,7 @@
         "example": "",
         "front": "",
         "main": "powder",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "powder"
@@ -2395,6 +3107,7 @@
         "example": "Your invention is practical",
         "front": "",
         "main": "practical",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "practical"
@@ -2405,9 +3118,21 @@
         "example": "I think the idea would never work in practice.",
         "front": "",
         "main": "practice",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "practice"
+    },
+    {
+        "back": "",
+        "definition": "珍貴的",
+        "example": "Life is precious, so do not waste it.",
+        "front": "",
+        "main": "precious",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "precious"
     },
     {
         "back": "-cy",
@@ -2415,6 +3140,7 @@
         "example": "",
         "front": "",
         "main": "pregnant",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "pregnancy"
@@ -2425,6 +3151,7 @@
         "example": "I was surprised by the presence of so many people at the meeting.",
         "front": "",
         "main": "present",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "presence"
@@ -2435,9 +3162,32 @@
         "example": "The primary author of this book was once a president.",
         "front": "",
         "main": "primary",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "primary"
+    },
+    {
+        "back": "",
+        "definition": "在前，居前",
+        "example": "Safty has higher priority in factories.",
+        "front": "",
+        "main": "priority",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "priority"
+    },
+    {
+        "back": "",
+        "definition": "繼續做，繼續進行",
+        "example": "His lawyers have decided not to proceed with the case.",
+        "front": "",
+        "main": "proceed",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "proceed"
     },
     {
         "back": "",
@@ -2445,6 +3195,7 @@
         "example": "Technology is always progressing.",
         "front": "pro-",
         "main": "gress",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "progress"
@@ -2455,6 +3206,7 @@
         "example": "The government promoted the new traffic rules to raise public awareness.",
         "front": "",
         "main": "promote",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "promote"
@@ -2465,6 +3217,7 @@
         "example": "We were running out of time, so we decided to punt the sightseeing and just go shopping.",
         "front": "",
         "main": "punt",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "punt"
@@ -2475,6 +3228,7 @@
         "example": "We made this decision only for financial reasons.",
         "front": "",
         "main": "pure",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "purely"
@@ -2485,6 +3239,7 @@
         "example": "The meeting was put off because a typhoon was coming in two hours.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "put off"
@@ -2495,6 +3250,7 @@
         "example": "Digital number reaouts replaced the hands on old clocks.",
         "front": "",
         "main": "read",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "readout"
@@ -2505,6 +3261,7 @@
         "example": "",
         "front": "",
         "main": "real",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "realist"
@@ -2515,6 +3272,7 @@
         "example": "My father is always reasonable.",
         "front": "",
         "main": "reason",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "reasonable"
@@ -2525,6 +3283,7 @@
         "example": "Have you recognsized this song? It is famous.",
         "front": "",
         "main": "recognize",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "recognize"
@@ -2535,6 +3294,7 @@
         "example": "His words made me reconsider my opinion.",
         "front": "re-",
         "main": "consider",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "reconsider"
@@ -2545,6 +3305,7 @@
         "example": "After long reflection, he finally apologized to us.",
         "front": "",
         "main": "reflect",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "reflection"
@@ -2555,6 +3316,7 @@
         "example": "Some regions have their own special dishes.",
         "front": "",
         "main": "region",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "region"
@@ -2565,6 +3327,7 @@
         "example": "The regional accent here is hard to understand.",
         "front": "",
         "main": "region",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "regional"
@@ -2575,6 +3338,7 @@
         "example": "The students have rehearals for the show tonight.",
         "front": "",
         "main": "rehearsal",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "rehearsal"
@@ -2585,6 +3349,7 @@
         "example": "A light bulb is relatively inexpensive compared to a lamp.",
         "front": "",
         "main": "relative",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "relatively"
@@ -2595,6 +3360,7 @@
         "example": "The pills gave him some relief.",
         "front": "",
         "main": "relief",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "relief"
@@ -2605,6 +3371,7 @@
         "example": "I don't have any kinds of religious beliefs.",
         "front": "",
         "main": "religion",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "religious"
@@ -2615,19 +3382,10 @@
         "example": "",
         "front": "",
         "main": "relish",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "relish"
-    },
-    {
-        "back": "",
-        "definition": "維持",
-        "example": "All the other problems remained secret.",
-        "front": "re-",
-        "main": "main",
-        "parts-of-speech": "動詞 (verb)",
-        "test-count": 0,
-        "word": "remain"
     },
     {
         "back": "",
@@ -2635,6 +3393,18 @@
         "example": "It remains a secret.",
         "front": "re-",
         "main": "main",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "remain"
+    },
+    {
+        "back": "",
+        "definition": "維持",
+        "example": "All the other problems remained secret.",
+        "front": "re-",
+        "main": "main",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "remain"
@@ -2645,6 +3415,7 @@
         "example": "In the spring, everything renewals.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "renewal"
@@ -2655,6 +3426,7 @@
         "example": "",
         "front": "re-",
         "main": "phrase",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "rephrase"
@@ -2665,6 +3437,7 @@
         "example": "This restaurant has an excellent repulation.",
         "front": "",
         "main": "reputation",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "reputation"
@@ -2675,6 +3448,7 @@
         "example": "The land beside the city remained residential.",
         "front": "",
         "main": "resident",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "residential"
@@ -2685,6 +3459,7 @@
         "example": "You need resilience to face the problem.",
         "front": "",
         "main": "resilience",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "resilience"
@@ -2695,6 +3470,7 @@
         "example": "I made a resolution to give up video games.",
         "front": "",
         "main": "resolute",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "resolution"
@@ -2705,6 +3481,7 @@
         "example": "The people revolted for their freedom.",
         "front": "",
         "main": "revolt",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "revolt"
@@ -2715,6 +3492,7 @@
         "example": "The politician's speech led to a revolution.",
         "front": "",
         "main": "revolution",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "revolution"
@@ -2725,6 +3503,7 @@
         "example": "The cloth is designed to be easy to rip.",
         "front": "",
         "main": "rip",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "rip"
@@ -2735,6 +3514,7 @@
         "example": "Those bananas aren't ripe yet. They're still green.",
         "front": "",
         "main": "ripe",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "ripe"
@@ -2745,6 +3525,7 @@
         "example": "Some people likes to roast hot dogs around a campfire.",
         "front": "",
         "main": "roast",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "roast"
@@ -2755,6 +3536,7 @@
         "example": "I cooded some sweet potato rosemary dinner rolls.",
         "front": "",
         "main": "roll",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "roll"
@@ -2765,6 +3547,7 @@
         "example": "",
         "front": "",
         "main": "rosemary",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "rosemary"
@@ -2775,6 +3558,7 @@
         "example": "My hands get rough in the cold.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "rough"
@@ -2785,6 +3569,7 @@
         "example": "This area is still very rural.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "rural"
@@ -2795,6 +3580,7 @@
         "example": "The rustic community is full of warmth and kindness.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "rustic"
@@ -2805,6 +3591,7 @@
         "example": "He did that for his own sake.",
         "front": "",
         "main": "sake",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "sake"
@@ -2815,6 +3602,7 @@
         "example": "He scaned the file with a scanner.",
         "front": "",
         "main": "scan",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "scan"
@@ -2825,6 +3613,7 @@
         "example": "It is a scandal for officials to cheat in elections.",
         "front": "",
         "main": "scandal",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "scandal"
@@ -2835,6 +3624,7 @@
         "example": "Here is a bule scarf. Who is it belongs to?",
         "front": "",
         "main": "scarf",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "scarf"
@@ -2845,6 +3635,7 @@
         "example": "The school offers scholarships for students to study abroad.",
         "front": "",
         "main": "scholar",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "scholarship"
@@ -2855,6 +3646,7 @@
         "example": "The problem is outside the scope of my knowledge.",
         "front": "",
         "main": "scope",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "scope"
@@ -2865,6 +3657,7 @@
         "example": "",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "專有名詞 (proper noun)",
         "test-count": 0,
         "word": "scuba diving"
@@ -2875,6 +3668,7 @@
         "example": "",
         "front": "",
         "main": "session",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "session"
@@ -2885,9 +3679,21 @@
         "example": "The shady side of the company has been revealed.",
         "front": "",
         "main": "shady",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "shady"
+    },
+    {
+        "back": "",
+        "definition": "對 ... 做大改進",
+        "example": "Shake up your life and do something different.",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "片語 (phrase)",
+        "test-count": 0,
+        "word": "shake up"
     },
     {
         "back": "",
@@ -2895,6 +3701,7 @@
         "example": "Two weeks after we'd planted the seeds, little green shoots started to appear.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "shoot"
@@ -2905,6 +3712,7 @@
         "example": "Please sign here to complete the process.",
         "front": "",
         "main": "sign",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "sign"
@@ -2915,6 +3723,7 @@
         "example": "Your sigature dish tastes really wonderful.",
         "front": "",
         "main": "sign",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "signature"
@@ -2925,6 +3734,7 @@
         "example": "He likes to study and listento music simultaneously.",
         "front": "",
         "main": "simultaneous",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "simultaneously"
@@ -2935,9 +3745,21 @@
         "example": "The taxi skided on the road and caused an accident.",
         "front": "",
         "main": "skid",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "skid"
+    },
+    {
+        "back": "",
+        "definition": "袖子",
+        "example": "Wearing clothes with long sleeves can help prevent skin cancer.",
+        "front": "",
+        "main": "sleeve",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "sleeve"
     },
     {
         "back": "-ly",
@@ -2945,6 +3767,7 @@
         "example": "I'm slightly upset because one of my friends forgot my birthday.",
         "front": "",
         "main": "slight",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "slightly"
@@ -2955,6 +3778,7 @@
         "example": "He soaked his socks with detergent.",
         "front": "",
         "main": "soak",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "soak"
@@ -2965,6 +3789,7 @@
         "example": "I usually buy souvenirs when I go to a foreign city.",
         "front": "",
         "main": "souvenir",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "souvenir"
@@ -2975,6 +3800,7 @@
         "example": "I dug up some dirt with a spade.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "spade"
@@ -2985,6 +3811,7 @@
         "example": "I started a fire with a small spark generator.",
         "front": "",
         "main": "spark",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "spark"
@@ -2995,6 +3822,7 @@
         "example": "The car is special because of its windows.",
         "front": "",
         "main": "special",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "special"
@@ -3005,6 +3833,7 @@
         "example": "This is a specially good wine.",
         "front": "",
         "main": "special",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "specially"
@@ -3015,6 +3844,7 @@
         "example": "There are many people waiting in the stadium to enjoy the baseball game.",
         "front": "",
         "main": "stadium",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "stadium"
@@ -3025,6 +3855,7 @@
         "example": "I bought a soda at a small stall.",
         "front": "",
         "main": "stall",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "stall"
@@ -3035,6 +3866,7 @@
         "example": "She start off the meeting with her report.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "start off"
@@ -3045,6 +3877,7 @@
         "example": "The noise of a radio is called static.",
         "front": "",
         "main": "static",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "static"
@@ -3055,6 +3888,7 @@
         "example": "There is not much stock in the shop now.",
         "front": "",
         "main": "stock",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "stock"
@@ -3065,9 +3899,21 @@
         "example": "We saw his passion during his struggles in life.",
         "front": "",
         "main": "struggle",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "struggle"
+    },
+    {
+        "back": "",
+        "definition": "特技",
+        "example": "",
+        "front": "",
+        "main": "stunt",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "stunt"
     },
     {
         "back": "",
@@ -3075,6 +3921,7 @@
         "example": "Our subject for discussion is homelessness.",
         "front": "",
         "main": "subject",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "subject"
@@ -3085,6 +3932,7 @@
         "example": "",
         "front": "",
         "main": "sunroof",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "sunroof"
@@ -3095,6 +3943,7 @@
         "example": "If you suspect any kind of threat, call 110.",
         "front": "",
         "main": "suspect",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "suspect"
@@ -3105,6 +3954,7 @@
         "example": "The long-term sustainability is important for a community.",
         "front": "",
         "main": "sustainable",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "sustainability"
@@ -3115,6 +3965,7 @@
         "example": "",
         "front": "",
         "main": "tactic",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "tactic"
@@ -3125,6 +3976,7 @@
         "example": "A good architect takes into account the building's surroundings.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "諺語 (idiom)",
         "test-count": 0,
         "word": "take into account"
@@ -3135,6 +3987,7 @@
         "example": "He always teases me in an aggressive way.",
         "front": "",
         "main": "tease",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "tease"
@@ -3145,6 +3998,7 @@
         "example": "Most forms of exercise are so tedious.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "tedious"
@@ -3155,6 +4009,7 @@
         "example": "\"Without let or hindrance\" is a legal term that means \"freely\".",
         "front": "",
         "main": "term",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "term"
@@ -3165,6 +4020,7 @@
         "example": "He is a theologian who studies the Buddha.",
         "front": "",
         "main": "theology",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "theologian"
@@ -3175,6 +4031,7 @@
         "example": "The doctor did a thorough check, but still missed the point.",
         "front": "",
         "main": "thorough",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "thorough"
@@ -3185,6 +4042,7 @@
         "example": "Human activity has caused threats to wildlife",
         "front": "",
         "main": "threat",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "threat"
@@ -3195,6 +4053,7 @@
         "example": "Rice thrives in hot weather.",
         "front": "",
         "main": "thrive",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "thrive"
@@ -3205,9 +4064,21 @@
         "example": "People throughout the country are out of work.",
         "front": "",
         "main": "through",
+        "part-of-speech": null,
         "parts-of-speech": "介系詞 (preposition)",
         "test-count": 0,
         "word": "throughout"
+    },
+    {
+        "back": "",
+        "definition": "和 ... 有關",
+        "example": "His success is closely tied to his hard work.",
+        "front": "",
+        "main": "",
+        "part-of-speech": null,
+        "parts-of-speech": "片語 (phrase)",
+        "test-count": 0,
+        "word": "tie to"
     },
     {
         "back": "",
@@ -3215,9 +4086,21 @@
         "example": "",
         "front": "",
         "main": "toner",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "toner"
+    },
+    {
+        "back": "",
+        "definition": "特點，特性",
+        "example": "His sense of humer is his pleasing trait.",
+        "front": "",
+        "main": "trait",
+        "part-of-speech": null,
+        "parts-of-speech": "名詞 (noun)",
+        "test-count": 0,
+        "word": "trait"
     },
     {
         "back": "",
@@ -3225,6 +4108,7 @@
         "example": "The ratio tower is used to transmit TV signals.",
         "front": "",
         "main": "transmit",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "transmit"
@@ -3235,6 +4119,7 @@
         "example": "We are a construction company, and we are trustworthy.",
         "front": "",
         "main": "trust",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "trustworthy"
@@ -3245,6 +4130,7 @@
         "example": "Be sure to tune in to next week's show.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "片語 (phrase)",
         "test-count": 0,
         "word": "tune in"
@@ -3255,6 +4141,7 @@
         "example": "Video games are typically made by Unity.",
         "front": "",
         "main": "typical",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "typically"
@@ -3265,6 +4152,7 @@
         "example": "Ultimately, they called the police.",
         "front": "",
         "main": "ultimate",
+        "part-of-speech": null,
         "parts-of-speech": "副詞 (adverb)",
         "test-count": 0,
         "word": "ultimately"
@@ -3275,6 +4163,7 @@
         "example": "The news gave him uneasiness.",
         "front": "",
         "main": "uneasy",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "uneasiness"
@@ -3285,6 +4174,7 @@
         "example": "Watching grass grow is uninteresting.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "uninteresting"
@@ -3295,6 +4185,7 @@
         "example": "What an unpleasant movement!",
         "front": "un-",
         "main": "pleasant",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "unpleasant"
@@ -3305,9 +4196,32 @@
         "example": "The best way to unwind is to go on vacation.",
         "front": "un-",
         "main": "wind",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "unwind"
+    },
+    {
+        "back": "",
+        "definition": "緊急的，急迫的",
+        "example": "These people are in urgent need of help.",
+        "front": "",
+        "main": "urgent",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "urgent"
+    },
+    {
+        "back": "",
+        "definition": "重視，尊重",
+        "example": "",
+        "front": "",
+        "main": "value",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "value"
     },
     {
         "back": "",
@@ -3315,9 +4229,21 @@
         "example": "Weather is a highly unpredictable variable in our daily lives.",
         "front": "",
         "main": "variable",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "variable"
+    },
+    {
+        "back": "-ed",
+        "definition": "冒險的",
+        "example": "Nothing ventured, nothing gained.",
+        "front": "",
+        "main": "venture",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "ventured"
     },
     {
         "back": "",
@@ -3325,9 +4251,21 @@
         "example": "The parents of the victims cried when they realized the problem.",
         "front": "",
         "main": "victim",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "victim"
+    },
+    {
+        "back": "",
+        "definition": "涉水而行",
+        "example": "",
+        "front": "",
+        "main": "wade",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "wade"
     },
     {
         "back": "-ful",
@@ -3335,6 +4273,7 @@
         "example": "You should break your wasteful habit.",
         "front": "",
         "main": "waste",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "wasteful"
@@ -3345,6 +4284,7 @@
         "example": "",
         "front": "",
         "main": "where",
+        "part-of-speech": null,
         "parts-of-speech": "介係詞 (preposition)",
         "test-count": 0,
         "word": "whereas"
@@ -3355,9 +4295,21 @@
         "example": "Stop whining. Take action to solve the problem.",
         "front": "",
         "main": "whine",
+        "part-of-speech": null,
         "parts-of-speech": "動詞 (verb)",
         "test-count": 0,
         "word": "whine"
+    },
+    {
+        "back": "",
+        "definition": "扭動",
+        "example": "",
+        "front": "",
+        "main": "wiggle",
+        "part-of-speech": null,
+        "parts-of-speech": "動詞 (verb)",
+        "test-count": 0,
+        "word": "wiggle"
     },
     {
         "back": "",
@@ -3365,9 +4317,21 @@
         "example": "This wood-like house was built by my grandfather.",
         "front": "",
         "main": "",
+        "part-of-speech": null,
         "parts-of-speech": "形容詞 (adjective)",
         "test-count": 0,
         "word": "wood-like"
+    },
+    {
+        "back": "",
+        "definition": "值得的",
+        "example": "",
+        "front": "",
+        "main": "worthwhile",
+        "part-of-speech": null,
+        "parts-of-speech": "形容詞 (adjective)",
+        "test-count": 0,
+        "word": "worthwhile"
     },
     {
         "back": "",
@@ -3375,6 +4339,7 @@
         "example": "The restaurant always wrap their hot dog in brown paper.",
         "front": "",
         "main": "wrap",
+        "part-of-speech": null,
         "parts-of-speech": "名詞 (noun)",
         "test-count": 0,
         "word": "wrap"
