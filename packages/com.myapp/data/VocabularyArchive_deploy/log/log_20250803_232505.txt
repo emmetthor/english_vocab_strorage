@@ -1,0 +1,96 @@
+[10:28:45] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[10:28:45] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[10:28:45] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[10:28:45] DEBUG    log測試: 這是一條 debug 訊息
+[10:28:45] WARNING  log測試: 這是警告
+[10:28:45] CRITICAL log測試: 這是嚴重錯誤
+[10:28:45] INFO     log測試: 這是資訊
+[10:28:45] DEBUG    嘗試抓取單字
+[10:28:45] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[10:28:45] DEBUG    主頁按鈕已建立
+[10:28:45] DEBUG    新增單字按鈕已建立
+[10:28:45] DEBUG    搜尋單字按鈕已建立
+[10:28:45] DEBUG    測驗單字按鈕已建立
+[10:28:45] DEBUG    push to git按鈕已建立
+[10:28:45] DEBUG    搜尋欄已建立
+[10:28:45] DEBUG    搜尋結果列表已建立
+[10:28:45] DEBUG    返回按鈕已建立
+[10:28:45] DEBUG    單字欄位已建立
+[10:28:45] DEBUG    詞性欄位已建立
+[10:28:45] DEBUG    字義欄位已建立
+[10:28:45] DEBUG    字形拼湊欄位已建立
+[10:28:45] DEBUG    例句欄位已建立
+[10:28:46] DEBUG    抓取成功
+[10:28:46] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[10:28:46] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[10:28:46] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[10:28:46] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[10:28:46] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[10:28:46] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[10:28:46] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[10:28:46] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[10:28:46] DEBUG    fetchData(): "合併完成，總共 536 筆單字"
+[10:28:46] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[10:28:46] DEBUG    setProgressBar(): "進度條設為 536 / 5000"
+[10:28:46] DEBUG    距離 117/1/18 還有天數: 898
+[10:28:46] DEBUG    loadVocab(): 已載入 536 筆單字
+[10:30:22] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[10:30:22] INFO     searchVocabulary(): 搜尋結果個數: 52
+[10:30:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ad"
+[10:30:23] INFO     searchVocabulary(): 搜尋結果個數: 8
+[10:30:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "add"
+[10:30:23] INFO     searchVocabulary(): 搜尋結果個數: 4
+[10:30:24] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[10:30:24] DEBUG    onResultItemClicked(): 顯示單字: "additional"
+[10:34:59] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:34:59] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:35:00] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "f"
+[10:35:00] INFO     searchVocabulary(): 搜尋結果個數: 14
+[10:35:00] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fi"
+[10:35:00] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:35:00] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fir"
+[10:35:00] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:35:00] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "firm"
+[10:35:00] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:35:02] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:35:02] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:40:30] DEBUG    sendNewVocab(): 送出新單字: "firm" | "" | "firm" | "" | "形容詞 (adjective)" | "堅固的，牢固的" | "I think the chair is not firm enough to stand on."
+[10:40:30] DEBUG    setProgressBar(): "進度條設為 537 / 5000"
+[10:40:30] DEBUG    距離 117/1/18 還有天數: 898
+[10:40:30] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:40:30] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:40:35] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:40:35] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:40:35] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "n"
+[10:40:35] INFO     searchVocabulary(): 搜尋結果個數: 7
+[10:40:35] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ne"
+[10:40:35] INFO     searchVocabulary(): 搜尋結果個數: 4
+[10:40:37] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:40:37] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:41:37] DEBUG    sendNewVocab(): 送出新單字: "negotiation" | "" | "negotiate" | "-tion" | "名詞 (noun)" | "談判，協商" | "Peace negotiation is still going on."
+[10:41:37] DEBUG    setProgressBar(): "進度條設為 538 / 5000"
+[10:41:37] DEBUG    距離 117/1/18 還有天數: 898
+[10:41:38] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:41:38] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:41:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:41:43] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:41:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "o"
+[10:41:43] INFO     searchVocabulary(): 搜尋結果個數: 21
+[10:41:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "op"
+[10:41:44] INFO     searchVocabulary(): 搜尋結果個數: 3
+[10:41:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "opp"
+[10:41:44] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:41:45] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:41:45] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:43:07] DEBUG    sendNewVocab(): 送出新單字: "opposition" | "" | "opposite" | "-tion" | "名詞 (noun)" | "意見相反，反抗" | "Many citizens voiced their opposition to the plan."
+[10:43:07] DEBUG    setProgressBar(): "進度條設為 539 / 5000"
+[10:43:07] DEBUG    距離 117/1/18 還有天數: 898
+[10:43:07] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:43:07] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:43:13] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:43:13] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:43:51] DEBUG    sendNewVocab(): 送出新單字: "supposely" | "" | "suppose" | "-ly" | "副詞 (adverb)" | "推測，大概" | ""
+[10:43:51] DEBUG    setProgressBar(): "進度條設為 540 / 5000"
+[10:43:51] DEBUG    距離 117/1/18 還有天數: 898
+[10:43:51] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:43:51] DEBUG    openAddVocadPage(): 新增單字視窗關閉

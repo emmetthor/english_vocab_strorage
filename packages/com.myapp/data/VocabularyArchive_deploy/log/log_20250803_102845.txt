@@ -1,0 +1,300 @@
+[11:14:39] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[11:14:39] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[11:14:39] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[11:14:39] DEBUG    log測試: 這是一條 debug 訊息
+[11:14:39] WARNING  log測試: 這是警告
+[11:14:39] CRITICAL log測試: 這是嚴重錯誤
+[11:14:39] INFO     log測試: 這是資訊
+[11:14:39] DEBUG    嘗試抓取單字
+[11:14:39] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[11:14:39] DEBUG    主頁按鈕已建立
+[11:14:39] DEBUG    新增單字按鈕已建立
+[11:14:39] DEBUG    搜尋單字按鈕已建立
+[11:14:39] DEBUG    測驗單字按鈕已建立
+[11:14:39] DEBUG    push to git按鈕已建立
+[11:14:39] DEBUG    搜尋欄已建立
+[11:14:39] DEBUG    搜尋結果列表已建立
+[11:14:39] DEBUG    返回按鈕已建立
+[11:14:39] DEBUG    單字欄位已建立
+[11:14:39] DEBUG    詞性欄位已建立
+[11:14:39] DEBUG    字義欄位已建立
+[11:14:39] DEBUG    字形拼湊欄位已建立
+[11:14:39] DEBUG    例句欄位已建立
+[11:14:40] DEBUG    抓取成功
+[11:14:40] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[11:14:40] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[11:14:40] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[11:14:40] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[11:14:40] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[11:14:40] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[11:14:40] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[11:14:40] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[11:14:40] DEBUG    fetchData(): "合併完成，總共 524 筆單字"
+[11:14:40] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[11:14:40] DEBUG    setProgressBar(): "進度條設為 524 / 5000"
+[11:14:40] DEBUG    距離 117/1/18 還有天數: 899
+[11:14:40] DEBUG    loadVocab(): 已載入 524 筆單字
+[11:15:02] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[11:15:02] INFO     searchVocabulary(): 搜尋結果個數: 56
+[11:15:03] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ci"
+[11:15:03] INFO     searchVocabulary(): 搜尋結果個數: 2
+[11:15:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cir"
+[11:15:04] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:15:05] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[11:15:05] DEBUG    onResultItemClicked(): 顯示單字: "circle of friends"
+[11:15:06] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:15:06] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:15:58] DEBUG    sendNewVocab(): 送出新單字: "circular" | "" | "circular" | "" | "形容詞 (adjective)" | "圓形的，環狀的" | "The full moon has a circular shap."
+[11:15:58] DEBUG    setProgressBar(): "進度條設為 525 / 5000"
+[11:15:58] DEBUG    距離 117/1/18 還有天數: 899
+[11:15:58] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:15:58] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:16:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ci"
+[11:16:05] INFO     searchVocabulary(): 搜尋結果個數: 3
+[11:16:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[11:16:05] INFO     searchVocabulary(): 搜尋結果個數: 57
+[11:16:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:16:05] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:16:06] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[11:16:06] INFO     searchVocabulary(): 搜尋結果個數: 57
+[11:16:06] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "co"
+[11:16:06] INFO     searchVocabulary(): 搜尋結果個數: 28
+[11:16:06] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "con"
+[11:16:06] INFO     searchVocabulary(): 搜尋結果個數: 15
+[11:16:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cont"
+[11:16:07] INFO     searchVocabulary(): 搜尋結果個數: 5
+[11:16:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "contr"
+[11:16:07] INFO     searchVocabulary(): 搜尋結果個數: 3
+[11:16:07] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[11:16:07] DEBUG    onResultItemClicked(): 顯示單字: "contribute"
+[11:16:16] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cont"
+[11:16:16] INFO     searchVocabulary(): 搜尋結果個數: 5
+[11:16:17] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "con"
+[11:16:17] INFO     searchVocabulary(): 搜尋結果個數: 15
+[11:16:17] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "co"
+[11:16:17] INFO     searchVocabulary(): 搜尋結果個數: 28
+[11:16:17] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[11:16:17] INFO     searchVocabulary(): 搜尋結果個數: 57
+[11:16:17] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:16:17] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:16:18] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[11:16:18] INFO     searchVocabulary(): 搜尋結果個數: 34
+[11:16:18] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[11:16:18] INFO     searchVocabulary(): 搜尋結果個數: 15
+[11:16:18] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dia"
+[11:16:18] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:16:18] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "diar"
+[11:16:18] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:16:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dia"
+[11:16:19] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:16:20] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:16:20] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:17:00] DEBUG    sendNewVocab(): 送出新單字: "dairy" | "" | "dairy" | "" | "名詞 (noun)" | "乳品間" | "We bought some milk at the dairy."
+[11:17:00] DEBUG    setProgressBar(): "進度條設為 526 / 5000"
+[11:17:00] DEBUG    距離 117/1/18 還有天數: 899
+[11:17:00] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:17:00] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:17:04] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:17:04] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:20:38] DEBUG    sendNewVocab(): 送出新單字: "decompose" | "de-" | "compose" | "" | "動詞 (verb)" | "分解" | "Plastic bags are hard to decompose."
+[11:20:38] DEBUG    setProgressBar(): "進度條設為 527 / 5000"
+[11:20:38] DEBUG    距離 117/1/18 還有天數: 899
+[11:20:38] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:20:38] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:20:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:20:43] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:20:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "g"
+[11:20:43] INFO     searchVocabulary(): 搜尋結果個數: 19
+[11:20:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "gr"
+[11:20:43] INFO     searchVocabulary(): 搜尋結果個數: 9
+[11:20:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "gra"
+[11:20:43] INFO     searchVocabulary(): 搜尋結果個數: 5
+[11:20:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "grai"
+[11:20:44] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:20:45] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "grain"
+[11:20:45] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:20:45] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[11:20:45] DEBUG    onResultItemClicked(): 顯示單字: "grain"
+[11:20:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:20:52] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:20:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "o"
+[11:20:53] INFO     searchVocabulary(): 搜尋結果個數: 21
+[11:20:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "or"
+[11:20:53] INFO     searchVocabulary(): 搜尋結果個數: 6
+[11:20:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "org"
+[11:20:53] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:20:54] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[11:20:54] DEBUG    onResultItemClicked(): 顯示單字: "organic"
+[11:21:06] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:21:06] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:21:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "s"
+[11:21:07] INFO     searchVocabulary(): 搜尋結果個數: 43
+[11:21:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "sc"
+[11:21:07] INFO     searchVocabulary(): 搜尋結果個數: 6
+[11:21:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "scr"
+[11:21:07] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:21:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "scra"
+[11:21:07] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:21:08] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:21:08] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:22:10] WARNING  sendNewVocab(): 單字確認不符: "scrap" | "scrapl"
+[11:22:12] DEBUG    sendNewVocab(): 送出新單字: "scrap" | "" | "scrap" | "" | "名詞 (noun)" | "碎片，小塊" | "Put the scarps of paper in the basket."
+[11:22:12] DEBUG    setProgressBar(): "進度條設為 528 / 5000"
+[11:22:12] DEBUG    距離 117/1/18 還有天數: 899
+[11:22:12] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:22:12] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:22:18] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:22:18] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:23:51] DEBUG    sendNewVocab(): 送出新單字: "trackle" | "" | "trackle" | "" | "動詞 (verb)" | "處理，對付" | "He trackled the difficult problem, but he couldn't solve it."
+[11:23:51] DEBUG    setProgressBar(): "進度條設為 529 / 5000"
+[11:23:51] DEBUG    距離 117/1/18 還有天數: 899
+[11:23:51] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:23:51] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:24:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:24:55] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:24:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "u"
+[11:24:56] INFO     searchVocabulary(): 搜尋結果個數: 10
+[11:24:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "un"
+[11:24:56] INFO     searchVocabulary(): 搜尋結果個數: 8
+[11:24:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "und"
+[11:24:56] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:24:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "unde"
+[11:24:56] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:24:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "under"
+[11:24:56] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:24:58] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "unde"
+[11:24:58] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:24:58] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "und"
+[11:24:58] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:24:59] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:24:59] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:26:32] DEBUG    sendNewVocab(): 送出新單字: "understandable" | "" | "understand" | "-able" | "形容詞 (adjective)" | "可理解的" | "His weird behavior is understandable."
+[11:26:32] DEBUG    setProgressBar(): "進度條設為 530 / 5000"
+[11:26:32] DEBUG    距離 117/1/18 還有天數: 899
+[11:26:32] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:26:32] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:49:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:49:41] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:49:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[11:49:41] INFO     searchVocabulary(): 搜尋結果個數: 52
+[11:49:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ac"
+[11:49:42] INFO     searchVocabulary(): 搜尋結果個數: 10
+[11:49:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "acc"
+[11:49:42] INFO     searchVocabulary(): 搜尋結果個數: 10
+[11:49:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "acco"
+[11:49:43] INFO     searchVocabulary(): 搜尋結果個數: 5
+[11:49:47] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "acc"
+[11:49:47] INFO     searchVocabulary(): 搜尋結果個數: 10
+[11:49:47] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ac"
+[11:49:47] INFO     searchVocabulary(): 搜尋結果個數: 10
+[11:49:47] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[11:49:47] INFO     searchVocabulary(): 搜尋結果個數: 52
+[11:49:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "as"
+[11:49:48] INFO     searchVocabulary(): 搜尋結果個數: 6
+[11:49:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ass"
+[11:49:48] INFO     searchVocabulary(): 搜尋結果個數: 5
+[11:49:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "assc"
+[11:49:48] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:49:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ass"
+[11:49:48] INFO     searchVocabulary(): 搜尋結果個數: 5
+[11:49:49] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "asso"
+[11:49:49] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:49:50] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[11:49:50] DEBUG    onResultItemClicked(): 顯示單字: "associate"
+[11:49:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[11:49:54] INFO     searchVocabulary(): 搜尋結果個數: 0
+[11:49:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[11:49:55] INFO     searchVocabulary(): 搜尋結果個數: 57
+[11:49:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ch"
+[11:49:55] INFO     searchVocabulary(): 搜尋結果個數: 2
+[11:49:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cha"
+[11:49:55] INFO     searchVocabulary(): 搜尋結果個數: 1
+[11:49:58] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:49:58] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:53:16] DEBUG    sendNewVocab(): 送出新單字: "characteristic" | "" | "character" | "-istic" | "名詞 (noun)" | "特徵，特色" | "Unfortunately a big nose is a family characteristic."
+[11:53:16] DEBUG    setProgressBar(): "進度條設為 531 / 5000"
+[11:53:16] DEBUG    距離 117/1/18 還有天數: 899
+[11:53:16] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:53:16] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:53:42] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[11:53:42] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:56:05] DEBUG    sendNewVocab(): 送出新單字: "be in good company" | "" | "" | "" | "諺語 (idiom)" | "（有同樣問題的）大有人在" | ""
+[11:56:05] DEBUG    setProgressBar(): "進度條設為 532 / 5000"
+[11:56:05] DEBUG    距離 117/1/18 還有天數: 899
+[11:56:05] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:56:05] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[12:07:28] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[12:07:28] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:07:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[12:07:29] INFO     searchVocabulary(): 搜尋結果個數: 58
+[12:07:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cr"
+[12:07:29] INFO     searchVocabulary(): 搜尋結果個數: 8
+[12:07:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cri"
+[12:07:29] INFO     searchVocabulary(): 搜尋結果個數: 4
+[12:07:30] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "crit"
+[12:07:30] INFO     searchVocabulary(): 搜尋結果個數: 4
+[12:07:38] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "h"
+[12:07:38] INFO     searchVocabulary(): 搜尋結果個數: 9
+[12:07:38] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ha"
+[12:07:38] INFO     searchVocabulary(): 搜尋結果個數: 2
+[12:07:38] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "har"
+[12:07:38] INFO     searchVocabulary(): 搜尋結果個數: 2
+[12:07:39] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[12:07:39] DEBUG    onResultItemClicked(): 顯示單字: "harsh"
+[12:07:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[12:07:52] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:07:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "m"
+[12:07:53] INFO     searchVocabulary(): 搜尋結果個數: 23
+[12:07:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "me"
+[12:07:53] INFO     searchVocabulary(): 搜尋結果個數: 8
+[12:07:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "mem"
+[12:07:54] INFO     searchVocabulary(): 搜尋結果個數: 1
+[12:07:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "memk"
+[12:07:54] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:07:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "mem"
+[12:07:55] INFO     searchVocabulary(): 搜尋結果個數: 1
+[12:08:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[12:08:19] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:08:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "m"
+[12:08:20] INFO     searchVocabulary(): 搜尋結果個數: 23
+[12:08:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "mi"
+[12:08:20] INFO     searchVocabulary(): 搜尋結果個數: 4
+[12:08:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "mid"
+[12:08:20] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:08:21] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[12:08:21] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[12:08:55] DEBUG    sendNewVocab(): 送出新單字: "midst" | "" | "midst" | "" | "形容詞 (adjective)" | "中間，當中" | "How to survive in the midst of the desert?"
+[12:08:55] DEBUG    setProgressBar(): "進度條設為 533 / 5000"
+[12:08:55] DEBUG    距離 117/1/18 還有天數: 899
+[12:08:55] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[12:08:55] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[12:09:03] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[12:09:03] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:09:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "m"
+[12:09:04] INFO     searchVocabulary(): 搜尋結果個數: 24
+[12:09:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "mi"
+[12:09:05] INFO     searchVocabulary(): 搜尋結果個數: 5
+[12:09:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "mis"
+[12:09:05] INFO     searchVocabulary(): 搜尋結果個數: 2
+[12:10:45] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[12:10:45] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[12:15:40] DEBUG    sendNewVocab(): 送出新單字: "miserable" | "" | "miserable" | "" | "形容詞 (adjective)" | "痛苦的，不幸得" | "She miserable living on her own."
+[12:15:40] DEBUG    setProgressBar(): "進度條設為 534 / 5000"
+[12:15:40] DEBUG    距離 117/1/18 還有天數: 899
+[12:15:40] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[12:15:40] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[12:15:45] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[12:15:45] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[12:16:42] DEBUG    sendNewVocab(): 送出新單字: "necessity" | "" | "necessity" | "" | "名詞 (noun)" | "必要性，需要" | "Television is considered a necessity by a lot of people."
+[12:16:42] DEBUG    setProgressBar(): "進度條設為 535 / 5000"
+[12:16:42] DEBUG    距離 117/1/18 還有天數: 899
+[12:16:42] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[12:16:42] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[12:16:48] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[12:16:48] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[12:19:01] WARNING  sendNewVocab(): 單字確認不符: "tempt" | ""
+[12:19:10] DEBUG    sendNewVocab(): 送出新單字: "tempt" | "" | "" | "" | "名詞 (noun)" | "誘惑" | "The offer of free credit tempted her into buying a new car."
+[12:19:10] DEBUG    setProgressBar(): "進度條設為 536 / 5000"
+[12:19:10] DEBUG    距離 117/1/18 還有天數: 899
+[12:19:10] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[12:19:10] DEBUG    openAddVocadPage(): 新增單字視窗關閉

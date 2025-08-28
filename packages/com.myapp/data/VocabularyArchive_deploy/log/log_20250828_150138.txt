@@ -1,0 +1,183 @@
+[10:24:01] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[10:24:01] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[10:24:01] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[10:24:01] DEBUG    log測試: 這是一條 debug 訊息
+[10:24:01] WARNING  log測試: 這是警告
+[10:24:01] CRITICAL log測試: 這是嚴重錯誤
+[10:24:01] INFO     log測試: 這是資訊
+[10:24:01] DEBUG    嘗試抓取單字
+[10:24:01] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[10:24:01] DEBUG    主頁按鈕已建立
+[10:24:01] DEBUG    新增單字按鈕已建立
+[10:24:01] DEBUG    搜尋單字按鈕已建立
+[10:24:01] DEBUG    測驗單字按鈕已建立
+[10:24:01] DEBUG    push to git按鈕已建立
+[10:24:01] DEBUG    搜尋欄已建立
+[10:24:01] DEBUG    搜尋結果列表已建立
+[10:24:01] DEBUG    返回按鈕已建立
+[10:24:01] DEBUG    單字欄位已建立
+[10:24:01] DEBUG    詞性欄位已建立
+[10:24:01] DEBUG    字義欄位已建立
+[10:24:01] DEBUG    字形拼湊欄位已建立
+[10:24:01] DEBUG    例句欄位已建立
+[10:24:02] DEBUG    抓取成功
+[10:24:02] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[10:24:02] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[10:24:02] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[10:24:02] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[10:24:02] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[10:24:02] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[10:24:02] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[10:24:02] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[10:24:02] DEBUG    fetchData(): "合併完成，總共 563 筆單字"
+[10:24:02] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[10:24:02] DEBUG    setProgressBar(): "進度條設為 563 / 5000"
+[10:24:02] DEBUG    距離 117/1/18 還有天數: 895
+[10:24:02] DEBUG    loadVocab(): 已載入 563 筆單字
+[10:24:13] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[10:24:13] INFO     searchVocabulary(): 搜尋結果個數: 52
+[10:24:13] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "as"
+[10:24:13] INFO     searchVocabulary(): 搜尋結果個數: 6
+[10:24:14] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ass"
+[10:24:14] INFO     searchVocabulary(): 搜尋結果個數: 5
+[10:24:15] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "assi"
+[10:24:15] INFO     searchVocabulary(): 搜尋結果個數: 2
+[10:24:16] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:24:16] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:26:08] DEBUG    sendNewVocab(): 送出新單字: "assign" | "as-" | "sign" | "" | "動詞 (verb)" | "分配，分派" | "Instead of just assigning tasks, leaders should take part in the work."
+[10:26:08] DEBUG    setProgressBar(): "進度條設為 564 / 5000"
+[10:26:08] DEBUG    距離 117/1/18 還有天數: 895
+[10:26:08] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:26:08] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:26:18] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:26:18] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:26:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[10:26:19] INFO     searchVocabulary(): 搜尋結果個數: 53
+[10:26:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "au"
+[10:26:19] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:26:20] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[10:26:20] DEBUG    onResultItemClicked(): 顯示單字: "auction"
+[10:26:30] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:26:30] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:28:01] DEBUG    sendNewVocab(): 送出新單字: "authority" | "" | "author" | "-ity" | "名詞 (noun)" | "權力，職權" | "The United Nations has used its authority to restore peace in the area."
+[10:28:01] DEBUG    setProgressBar(): "進度條設為 565 / 5000"
+[10:28:01] DEBUG    距離 117/1/18 還有天數: 895
+[10:28:01] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:28:01] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:28:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:28:09] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:28:10] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[10:28:10] INFO     searchVocabulary(): 搜尋結果個數: 54
+[10:28:11] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "aw"
+[10:28:11] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:28:12] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:28:12] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:29:10] DEBUG    sendNewVocab(): 送出新單字: "award" | "" | "award" | "" | "動詞 (verb)" | "授予，給予" | "He was awarded the Nobel Prize."
+[10:29:10] DEBUG    setProgressBar(): "進度條設為 566 / 5000"
+[10:29:10] DEBUG    距離 117/1/18 還有天數: 895
+[10:29:10] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:29:10] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:29:22] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:29:22] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:29:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[10:29:23] INFO     searchVocabulary(): 搜尋結果個數: 61
+[10:29:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "co"
+[10:29:23] INFO     searchVocabulary(): 搜尋結果個數: 30
+[10:29:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "com"
+[10:29:23] INFO     searchVocabulary(): 搜尋結果個數: 7
+[10:29:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "comp"
+[10:29:24] INFO     searchVocabulary(): 搜尋結果個數: 3
+[10:29:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "compe"
+[10:29:24] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:29:32] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[10:29:32] DEBUG    onResultItemClicked(): 顯示單字: "competitive"
+[10:29:35] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:29:35] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:30:55] DEBUG    sendNewVocab(): 送出新單字: "competent" | "" | "compete" | "-nt" | "形容詞 (adjective)" | "有能力的，能幹的" | "He is competent to do the job."
+[10:30:55] DEBUG    setProgressBar(): "進度條設為 567 / 5000"
+[10:30:55] DEBUG    距離 117/1/18 還有天數: 895
+[10:30:55] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:30:55] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:31:02] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:31:02] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:31:03] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[10:31:03] INFO     searchVocabulary(): 搜尋結果個數: 37
+[10:31:03] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "de"
+[10:31:03] INFO     searchVocabulary(): 搜尋結果個數: 14
+[10:31:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dem"
+[10:31:04] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:31:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "demo"
+[10:31:04] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:31:05] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:31:05] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:33:42] DEBUG    sendNewVocab(): 送出新單字: "demonstrate" | "" | "demonstrate" | "" | "動詞 (verb)" | "展示，顯示" | "Before asking others to follow your guidance, demonstrate the behavior first."
+[10:33:42] DEBUG    setProgressBar(): "進度條設為 568 / 5000"
+[10:33:42] DEBUG    距離 117/1/18 還有天數: 895
+[10:33:42] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:33:43] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:33:57] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:33:57] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:34:26] DEBUG    sendNewVocab(): 送出新單字: "empowerment" | "" | "empower" | "-ment" | "名詞 (noun)" | "賦權" | ""
+[10:34:26] DEBUG    setProgressBar(): "進度條設為 569 / 5000"
+[10:34:26] DEBUG    距離 117/1/18 還有天數: 895
+[10:34:26] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:34:26] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:34:32] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:34:32] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:36:18] DEBUG    sendNewVocab(): 送出新單字: "guidance" | "" | "guide" | "-ance" | "名詞 (noun)" | "指導，教導" | "Thanks to his guidance, I am now competent to do the job."
+[10:36:18] DEBUG    setProgressBar(): "進度條設為 570 / 5000"
+[10:36:18] DEBUG    距離 117/1/18 還有天數: 895
+[10:36:18] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:36:18] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:36:22] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:36:22] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:37:30] DEBUG    sendNewVocab(): 送出新單字: "legacy" | "" | "legacy" | "" | "名詞 (noun)" | "遺澤，遺產" | "Books are the legacies that a great genius leaves to mankind."
+[10:37:30] DEBUG    setProgressBar(): "進度條設為 571 / 5000"
+[10:37:30] DEBUG    距離 117/1/18 還有天數: 895
+[10:37:30] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:37:30] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:37:35] DEBUG    openTestPage():  原單字:  "extraordinary"  -> 模糊比對單字:  "extraordinary"
+[10:37:35] DEBUG    openTestPage():  原單字:  "insight"  -> 模糊比對單字:  "insight"
+[10:37:35] DEBUG    openTestPage():  原單字:  "competitive"  -> 模糊比對單字:  "competitive"
+[10:37:35] DEBUG    openTestPage():  原單字:  "misbehavior"  -> 模糊比對單字:  "misbehavior"
+[10:37:35] DEBUG    openTestPage():  原單字:  "threat"  -> 模糊比對單字:  "threats"
+[10:37:35] DEBUG    openTestPage():  原單字:  "defensive"  -> 模糊比對單字:  "defensive"
+[10:37:35] DEBUG    openTestPage():  原單字:  "consent"  -> 模糊比對單字:  "consent"
+[10:37:35] DEBUG    openTestPage():  原單字:  "population"  -> 模糊比對單字:  "population"
+[10:37:35] DEBUG    openTestPage():  原單字:  "effectively"  -> 模糊比對單字:  "effectively"
+[10:37:35] DEBUG    openTestPage():  原單字:  "start off"  -> 模糊比對單字:  "start"
+[10:37:37] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:37:37] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:38:33] DEBUG    sendNewVocab(): 送出新單字: "merely" | "" | "mere" | "-ly" | "副詞 (adverb)" | "僅僅，只不過" | "That was a merely guess of mine."
+[10:38:33] DEBUG    setProgressBar(): "進度條設為 572 / 5000"
+[10:38:33] DEBUG    距離 117/1/18 還有天數: 895
+[10:38:33] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:38:33] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:38:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dem"
+[10:38:41] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:38:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "de"
+[10:38:41] INFO     searchVocabulary(): 搜尋結果個數: 15
+[10:38:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[10:38:41] INFO     searchVocabulary(): 搜尋結果個數: 38
+[10:38:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:38:41] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:38:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "p"
+[10:38:43] INFO     searchVocabulary(): 搜尋結果個數: 47
+[10:38:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pr"
+[10:38:43] INFO     searchVocabulary(): 搜尋結果個數: 14
+[10:38:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pri"
+[10:38:43] INFO     searchVocabulary(): 搜尋結果個數: 3
+[10:38:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "prio"
+[10:38:43] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:38:44] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[10:38:44] DEBUG    onResultItemClicked(): 顯示單字: "priority"
+[10:38:59] DEBUG    openTestPage():  原單字:  "scandal"  -> 模糊比對單字:  "scandal"
+[10:38:59] DEBUG    openTestPage():  原單字:  "charity"  -> 模糊比對單字:  "charity"
+[10:38:59] DEBUG    openTestPage():  原單字:  "shady"  -> 模糊比對單字:  "shady"
+[10:38:59] DEBUG    openTestPage():  原單字:  "inadequate"  -> 模糊比對單字:  "inadequate"
+[10:38:59] DEBUG    openTestPage():  原單字:  "ambitious"  -> 模糊比對單字:  "ambitious"
+[10:38:59] DEBUG    openTestPage():  原單字:  "grumble"  -> 模糊比對單字:  "grumble"
+[10:38:59] DEBUG    openTestPage():  原單字:  "a stone's throw"  -> 模糊比對單字:  "stone"
+[10:38:59] DEBUG    openTestPage():  原單字:  "start off"  -> 模糊比對單字:  "start"
+[10:38:59] DEBUG    openTestPage():  原單字:  "a stone's throw"  -> 模糊比對單字:  "stone"
+[10:38:59] DEBUG    openTestPage():  原單字:  "grumble"  -> 模糊比對單字:  "grumble"

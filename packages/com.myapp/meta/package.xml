@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>MyApp</DisplayName>
+    <Description>我的 Qt 應用程式</Description>
+    <Version>0.0.4</Version>
+    <ReleaseDate>2025-08-28</ReleaseDate>
+    <Default>true</Default>
+
+    <Updater>
+        <RemoteRepositories>
+            <Repository>
+                <Url>https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/packages/</Url>
+            </Repository>
+        </RemoteRepositories>
+    </Updater>
+</Package>

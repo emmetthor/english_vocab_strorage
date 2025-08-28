@@ -1,0 +1,110 @@
+[09:45:11] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[09:45:11] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[09:45:11] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[09:45:11] DEBUG    log測試: 這是一條 debug 訊息
+[09:45:11] WARNING  log測試: 這是警告
+[09:45:11] CRITICAL log測試: 這是嚴重錯誤
+[09:45:11] INFO     log測試: 這是資訊
+[09:45:11] DEBUG    嘗試抓取單字
+[09:45:11] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[09:45:11] DEBUG    主頁按鈕已建立
+[09:45:11] DEBUG    新增單字按鈕已建立
+[09:45:11] DEBUG    搜尋單字按鈕已建立
+[09:45:11] DEBUG    測驗單字按鈕已建立
+[09:45:11] DEBUG    push to git按鈕已建立
+[09:45:11] DEBUG    搜尋欄已建立
+[09:45:11] DEBUG    搜尋結果列表已建立
+[09:45:11] DEBUG    返回按鈕已建立
+[09:45:11] DEBUG    單字欄位已建立
+[09:45:11] DEBUG    詞性欄位已建立
+[09:45:11] DEBUG    字義欄位已建立
+[09:45:11] DEBUG    字形拼湊欄位已建立
+[09:45:11] DEBUG    例句欄位已建立
+[09:45:13] DEBUG    抓取成功
+[09:45:13] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[09:45:13] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[09:45:13] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[09:45:13] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[09:45:13] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[09:45:13] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[09:45:13] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[09:45:13] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[09:45:13] DEBUG    fetchData(): "合併完成，總共 541 筆單字"
+[09:45:13] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[09:45:13] DEBUG    setProgressBar(): "進度條設為 541 / 5000"
+[09:45:13] DEBUG    距離 117/1/18 還有天數: 897
+[09:45:13] DEBUG    loadVocab(): 已載入 541 筆單字
+[09:45:14] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:45:14] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:45:29] DEBUG    sendNewVocab(): 送出新單字: "barrel" | "" | "barrel" | "" | "名詞 (noun)" | "木桶" | ""
+[09:45:29] DEBUG    setProgressBar(): "進度條設為 542 / 5000"
+[09:45:29] DEBUG    距離 117/1/18 還有天數: 897
+[09:45:29] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:45:29] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[09:45:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "manufacture"
+[09:45:53] INFO     searchVocabulary(): 搜尋結果個數: 1
+[09:45:54] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:45:54] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:46:38] DEBUG    sendNewVocab(): 送出新單字: "manufacture" | "" | "manufacture" | "" | "動詞 (verb)" | "生產，製造" | "He works in a company manufacturing car parts."
+[09:46:38] DEBUG    setProgressBar(): "進度條設為 543 / 5000"
+[09:46:38] DEBUG    距離 117/1/18 還有天數: 897
+[09:46:38] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:46:38] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[09:46:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[09:46:43] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:46:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "r"
+[09:46:44] INFO     searchVocabulary(): 搜尋結果個數: 42
+[09:46:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "re"
+[09:46:44] INFO     searchVocabulary(): 搜尋結果個數: 30
+[09:46:45] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "rec"
+[09:46:45] INFO     searchVocabulary(): 搜尋結果個數: 2
+[09:46:46] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[09:46:46] DEBUG    onResultItemClicked(): 顯示單字: "recognize"
+[09:46:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[09:46:48] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:46:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "u"
+[09:46:48] INFO     searchVocabulary(): 搜尋結果個數: 11
+[09:46:49] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[09:46:49] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:46:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "i"
+[09:46:50] INFO     searchVocabulary(): 搜尋結果個數: 40
+[09:46:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "id"
+[09:46:50] INFO     searchVocabulary(): 搜尋結果個數: 3
+[09:46:51] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[09:46:51] DEBUG    onResultItemClicked(): 顯示單字: "identity"
+[09:46:52] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[09:46:52] DEBUG    onResultItemClicked(): 顯示單字: "identify"
+[09:46:58] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[09:46:58] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:46:59] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "s"
+[09:46:59] INFO     searchVocabulary(): 搜尋結果個數: 46
+[09:47:00] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "sk"
+[09:47:00] INFO     searchVocabulary(): 搜尋結果個數: 1
+[09:47:00] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ski"
+[09:47:00] INFO     searchVocabulary(): 搜尋結果個數: 1
+[09:47:00] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "skin"
+[09:47:00] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:47:01] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:47:01] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:47:30] DEBUG    sendNewVocab(): 送出新單字: "skinny" | "" | "skin" | "-ny" | "形容詞 (adjective)" | "瘦的" | "What a skinny kid!"
+[09:47:30] DEBUG    setProgressBar(): "進度條設為 544 / 5000"
+[09:47:30] DEBUG    距離 117/1/18 還有天數: 897
+[09:47:30] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:47:30] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[09:47:34] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[09:47:34] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:47:35] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "t"
+[09:47:35] INFO     searchVocabulary(): 搜尋結果個數: 26
+[09:47:35] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "tw"
+[09:47:35] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:47:36] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "twi"
+[09:47:36] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:47:36] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "twig"
+[09:47:36] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:47:37] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:47:37] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:47:46] DEBUG    sendNewVocab(): 送出新單字: "twig" | "" | "twig" | "" | "名詞 (noun)" | "嫩枝" | ""
+[09:47:46] DEBUG    setProgressBar(): "進度條設為 545 / 5000"
+[09:47:46] DEBUG    距離 117/1/18 還有天數: 897
+[09:47:46] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:47:46] DEBUG    openAddVocadPage(): 新增單字視窗關閉

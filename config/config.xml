@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>MyApp Installer</Name>
+    <Version>0.0.4</Version>
+    <Title>MyApp 安裝程式</Title>
+    <Publisher>MyCompany</Publisher>
+    <StartMenuDir>MyApp</StartMenuDir>
+    <TargetDir>@HomeDir@/MyApp</TargetDir>
+</Installer>

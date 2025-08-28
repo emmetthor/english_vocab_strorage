@@ -1,0 +1,70 @@
+[12:33:00] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[12:33:00] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[12:33:00] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[12:33:00] DEBUG    log測試: 這是一條 debug 訊息
+[12:33:00] WARNING  log測試: 這是警告
+[12:33:00] CRITICAL log測試: 這是嚴重錯誤
+[12:33:00] INFO     log測試: 這是資訊
+[12:33:00] DEBUG    嘗試抓取單字
+[12:33:00] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[12:33:00] DEBUG    主頁按鈕已建立
+[12:33:00] DEBUG    新增單字按鈕已建立
+[12:33:00] DEBUG    搜尋單字按鈕已建立
+[12:33:00] DEBUG    測驗單字按鈕已建立
+[12:33:00] DEBUG    push to git按鈕已建立
+[12:33:00] DEBUG    搜尋欄已建立
+[12:33:00] DEBUG    搜尋結果列表已建立
+[12:33:00] DEBUG    返回按鈕已建立
+[12:33:00] DEBUG    單字欄位已建立
+[12:33:00] DEBUG    詞性欄位已建立
+[12:33:00] DEBUG    字義欄位已建立
+[12:33:00] DEBUG    字形拼湊欄位已建立
+[12:33:00] DEBUG    例句欄位已建立
+[12:33:01] DEBUG    抓取成功
+[12:33:01] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[12:33:01] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[12:33:01] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[12:33:01] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[12:33:01] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[12:33:01] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[12:33:01] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[12:33:01] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[12:33:01] DEBUG    fetchData(): "合併完成，總共 485 筆單字"
+[12:33:01] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[12:33:01] DEBUG    setProgressBar(): "進度條設為 485 / 5000"
+[12:33:01] DEBUG    距離 117/1/18 還有天數: 905
+[12:33:01] DEBUG    loadVocab(): 已載入 485 筆單字
+[12:38:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "f"
+[12:38:19] INFO     searchVocabulary(): 搜尋結果個數: 12
+[12:38:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fd"
+[12:38:19] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:38:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "f"
+[12:38:20] INFO     searchVocabulary(): 搜尋結果個數: 12
+[12:38:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[12:38:20] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:38:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[12:38:20] INFO     searchVocabulary(): 搜尋結果個數: 30
+[12:38:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[12:38:21] INFO     searchVocabulary(): 搜尋結果個數: 11
+[12:38:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dix"
+[12:38:21] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:38:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[12:38:21] INFO     searchVocabulary(): 搜尋結果個數: 11
+[12:38:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dis"
+[12:38:21] INFO     searchVocabulary(): 搜尋結果個數: 6
+[12:38:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "disc"
+[12:38:23] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:38:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dis"
+[12:38:23] INFO     searchVocabulary(): 搜尋結果個數: 6
+[12:38:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[12:38:24] INFO     searchVocabulary(): 搜尋結果個數: 11
+[12:38:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[12:38:24] INFO     searchVocabulary(): 搜尋結果個數: 30
+[12:38:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[12:38:24] INFO     searchVocabulary(): 搜尋結果個數: 0
+[12:51:27] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[12:51:27] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[13:06:49] DEBUG    searchVocabulary(): 嘗試搜尋keyword: " "
+[13:06:49] INFO     searchVocabulary(): 搜尋結果個數: 0
+[13:06:49] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "  "
+[13:06:49] INFO     searchVocabulary(): 搜尋結果個數: 0

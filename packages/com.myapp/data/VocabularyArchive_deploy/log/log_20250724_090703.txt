@@ -1,0 +1,192 @@
+[10:36:02] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[10:36:02] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[10:36:02] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[10:36:02] DEBUG    log測試: 這是一條 debug 訊息
+[10:36:02] WARNING  log測試: 這是警告
+[10:36:02] CRITICAL log測試: 這是嚴重錯誤
+[10:36:02] INFO     log測試: 這是資訊
+[10:36:02] DEBUG    嘗試抓取單字
+[10:36:02] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[10:36:02] DEBUG    主頁按鈕已建立
+[10:36:02] DEBUG    新增單字按鈕已建立
+[10:36:02] DEBUG    搜尋單字按鈕已建立
+[10:36:02] DEBUG    測驗單字按鈕已建立
+[10:36:02] DEBUG    push to git按鈕已建立
+[10:36:02] DEBUG    搜尋欄已建立
+[10:36:02] DEBUG    搜尋結果列表已建立
+[10:36:02] DEBUG    返回按鈕已建立
+[10:36:02] DEBUG    單字欄位已建立
+[10:36:02] DEBUG    詞性欄位已建立
+[10:36:02] DEBUG    字義欄位已建立
+[10:36:02] DEBUG    字形拼湊欄位已建立
+[10:36:02] DEBUG    例句欄位已建立
+[10:36:03] DEBUG    抓取成功
+[10:36:03] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[10:36:03] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[10:36:03] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[10:36:03] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[10:36:03] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[10:36:03] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[10:36:03] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[10:36:03] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[10:36:03] DEBUG    fetchData(): "合併完成，總共 458 筆單字"
+[10:36:03] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[10:36:03] DEBUG    setProgressBar(): "進度條設為 458 / 5000"
+[10:36:03] DEBUG    距離 117/1/18 還有天數: 909
+[10:36:03] DEBUG    loadVocab(): 已載入 458 筆單字
+[10:36:40] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:36:40] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:43:42] WARNING  sendNewVocab(): 單字確認不符: "adventurous" | "adventurous."
+[10:43:43] DEBUG    sendNewVocab(): 送出新單字: "adventurous" | "" | "adventure" | "-ous" | "形容詞 (adjective)" | "大膽的，愛冒險的" | "He is an adventurous man."
+[10:43:43] DEBUG    setProgressBar(): "進度條設為 459 / 5000"
+[10:43:43] DEBUG    距離 117/1/18 還有天數: 909
+[10:43:43] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:43:43] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:43:47] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:43:47] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:45:13] DEBUG    sendNewVocab(): 送出新單字: "altitude" | "" | "altitude" | "" | "名詞 (noun)" | "海拔" | "Mt. Ali is at an altitude of 3,000 meters."
+[10:45:13] DEBUG    setProgressBar(): "進度條設為 460 / 5000"
+[10:45:13] DEBUG    距離 117/1/18 還有天數: 909
+[10:45:13] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:45:13] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:45:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[10:45:21] INFO     searchVocabulary(): 搜尋結果個數: 47
+[10:45:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "al"
+[10:45:21] INFO     searchVocabulary(): 搜尋結果個數: 2
+[10:45:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "alt"
+[10:45:21] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:45:22] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "alth"
+[10:45:22] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:45:22] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "alt"
+[10:45:22] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:45:23] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:45:23] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:46:27] WARNING  sendNewVocab(): 單字確認不符: "athletic" | ""
+[10:47:00] DEBUG    sendNewVocab(): 送出新單字: "athletic" | "" | "athlete" | "-ic" | "形容詞 (adjective)" | "運動的，體育的" | "The school athletic meet is going to be held."
+[10:47:00] DEBUG    setProgressBar(): "進度條設為 461 / 5000"
+[10:47:00] DEBUG    距離 117/1/18 還有天數: 909
+[10:47:00] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:47:00] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:47:09] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:47:09] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:55:28] DEBUG    sendNewVocab(): 送出新單字: "enthusiasm" | "" | "enthusiasm" | "" | "名詞 (noun)" | "熱情，熱忱" | ""
+[10:55:28] DEBUG    setProgressBar(): "進度條設為 462 / 5000"
+[10:55:28] DEBUG    距離 117/1/18 還有天數: 909
+[10:55:28] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:55:28] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:55:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "al"
+[10:55:32] INFO     searchVocabulary(): 搜尋結果個數: 2
+[10:55:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[10:55:32] INFO     searchVocabulary(): 搜尋結果個數: 48
+[10:55:33] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:55:33] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:55:33] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "i"
+[10:55:33] INFO     searchVocabulary(): 搜尋結果個數: 32
+[10:55:33] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "in"
+[10:55:33] INFO     searchVocabulary(): 搜尋結果個數: 24
+[10:55:33] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ind"
+[10:55:33] INFO     searchVocabulary(): 搜尋結果個數: 2
+[10:55:34] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "indi"
+[10:55:34] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:55:35] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:55:35] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:57:15] DEBUG    sendNewVocab(): 送出新單字: "indicate" | "" | "indicate" | "" | "動詞 (verb)" | "指出，指示" | "The light above the elevator indicated that the elevator was at the fifteenth floor."
+[10:57:15] DEBUG    setProgressBar(): "進度條設為 463 / 5000"
+[10:57:15] DEBUG    距離 117/1/18 還有天數: 909
+[10:57:15] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:57:15] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:57:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ind"
+[10:57:20] INFO     searchVocabulary(): 搜尋結果個數: 3
+[10:57:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "in"
+[10:57:20] INFO     searchVocabulary(): 搜尋結果個數: 25
+[10:57:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "i"
+[10:57:20] INFO     searchVocabulary(): 搜尋結果個數: 33
+[10:57:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:57:20] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:57:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "o"
+[10:57:21] INFO     searchVocabulary(): 搜尋結果個數: 19
+[10:57:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ob"
+[10:57:21] INFO     searchVocabulary(): 搜尋結果個數: 4
+[10:57:21] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "obt"
+[10:57:21] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:57:22] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:57:22] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:58:03] DEBUG    sendNewVocab(): 送出新單字: "obtain" | "" | "obtain" | "" | "動詞 (verb)" | "得到，獲得" | "He failed to obtain scholarship."
+[10:58:03] DEBUG    setProgressBar(): "進度條設為 464 / 5000"
+[10:58:03] DEBUG    距離 117/1/18 還有天數: 909
+[10:58:03] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:58:03] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:58:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ob"
+[10:58:19] INFO     searchVocabulary(): 搜尋結果個數: 5
+[10:58:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "o"
+[10:58:19] INFO     searchVocabulary(): 搜尋結果個數: 20
+[10:58:19] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:58:19] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:58:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "p"
+[10:58:20] INFO     searchVocabulary(): 搜尋結果個數: 38
+[10:58:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pe"
+[10:58:20] INFO     searchVocabulary(): 搜尋結果個數: 10
+[10:58:20] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "per"
+[10:58:20] INFO     searchVocabulary(): 搜尋結果個數: 8
+[10:58:22] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "perm"
+[10:58:22] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:58:24] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:58:24] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[10:59:28] DEBUG    sendNewVocab(): 送出新單字: "permit" | "" | "permit" | "" | "動詞 (verb)" | "允許，許可" | "They permitted him to leave."
+[10:59:28] DEBUG    setProgressBar(): "進度條設為 465 / 5000"
+[10:59:28] DEBUG    距離 117/1/18 還有天數: 909
+[10:59:28] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[10:59:28] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[10:59:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "per"
+[10:59:32] INFO     searchVocabulary(): 搜尋結果個數: 9
+[10:59:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pe"
+[10:59:32] INFO     searchVocabulary(): 搜尋結果個數: 11
+[10:59:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "p"
+[10:59:32] INFO     searchVocabulary(): 搜尋結果個數: 39
+[10:59:34] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pr"
+[10:59:34] INFO     searchVocabulary(): 搜尋結果個數: 10
+[10:59:34] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pro"
+[10:59:34] INFO     searchVocabulary(): 搜尋結果個數: 3
+[10:59:34] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "prom"
+[10:59:34] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:59:36] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[10:59:36] DEBUG    onResultItemClicked(): 顯示單字: "promote"
+[10:59:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[10:59:41] INFO     searchVocabulary(): 搜尋結果個數: 0
+[10:59:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "r"
+[10:59:42] INFO     searchVocabulary(): 搜尋結果個數: 37
+[10:59:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "re"
+[10:59:42] INFO     searchVocabulary(): 搜尋結果個數: 26
+[10:59:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "res"
+[10:59:43] INFO     searchVocabulary(): 搜尋結果個數: 3
+[10:59:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "reso"
+[10:59:43] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:59:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "resol"
+[10:59:43] INFO     searchVocabulary(): 搜尋結果個數: 1
+[10:59:44] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[10:59:44] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[11:00:27] DEBUG    sendNewVocab(): 送出新單字: "resolve" | "" | "resolve" | "" | "形容詞 (adjective)" | "下定決心的" | ""
+[11:00:27] DEBUG    setProgressBar(): "進度條設為 466 / 5000"
+[11:00:27] DEBUG    距離 117/1/18 還有天數: 909
+[11:00:27] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[11:00:27] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[11:08:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[14:26:08] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."

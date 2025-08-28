@@ -1,0 +1,43 @@
+[23:25:05] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[23:25:05] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[23:25:05] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[23:25:05] DEBUG    log測試: 這是一條 debug 訊息
+[23:25:05] WARNING  log測試: 這是警告
+[23:25:05] CRITICAL log測試: 這是嚴重錯誤
+[23:25:05] INFO     log測試: 這是資訊
+[23:25:05] DEBUG    嘗試抓取單字
+[23:25:05] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[23:25:05] DEBUG    主頁按鈕已建立
+[23:25:05] DEBUG    新增單字按鈕已建立
+[23:25:05] DEBUG    搜尋單字按鈕已建立
+[23:25:05] DEBUG    測驗單字按鈕已建立
+[23:25:05] DEBUG    push to git按鈕已建立
+[23:25:05] DEBUG    搜尋欄已建立
+[23:25:05] DEBUG    搜尋結果列表已建立
+[23:25:05] DEBUG    返回按鈕已建立
+[23:25:05] DEBUG    單字欄位已建立
+[23:25:05] DEBUG    詞性欄位已建立
+[23:25:05] DEBUG    字義欄位已建立
+[23:25:05] DEBUG    字形拼湊欄位已建立
+[23:25:05] DEBUG    例句欄位已建立
+[23:25:06] DEBUG    抓取成功
+[23:25:06] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[23:25:06] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[23:25:06] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[23:25:06] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[23:25:06] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[23:25:06] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[23:25:06] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[23:25:06] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[23:25:06] DEBUG    fetchData(): "合併完成，總共 540 筆單字"
+[23:25:06] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[23:25:06] DEBUG    setProgressBar(): "進度條設為 540 / 5000"
+[23:25:06] DEBUG    距離 117/1/18 還有天數: 898
+[23:25:06] DEBUG    loadVocab(): 已載入 540 筆單字
+[23:25:10] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[23:25:10] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[23:26:59] DEBUG    sendNewVocab(): 送出新單字: "stranded" | "" | "stranded" | "" | "形容詞 (adjective)" | "被困住的，無依靠的" | "Cacti are helpful to people who are stranded in the desert."
+[23:27:00] DEBUG    setProgressBar(): "進度條設為 541 / 5000"
+[23:27:00] DEBUG    距離 117/1/18 還有天數: 898
+[23:27:00] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[23:27:00] DEBUG    openAddVocadPage(): 新增單字視窗關閉

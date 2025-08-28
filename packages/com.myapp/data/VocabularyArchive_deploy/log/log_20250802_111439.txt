@@ -1,0 +1,226 @@
+[14:11:18] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[14:11:18] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[14:11:18] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[14:11:18] DEBUG    log測試: 這是一條 debug 訊息
+[14:11:18] WARNING  log測試: 這是警告
+[14:11:18] CRITICAL log測試: 這是嚴重錯誤
+[14:11:18] INFO     log測試: 這是資訊
+[14:11:18] DEBUG    嘗試抓取單字
+[14:11:18] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[14:11:18] DEBUG    主頁按鈕已建立
+[14:11:18] DEBUG    新增單字按鈕已建立
+[14:11:18] DEBUG    搜尋單字按鈕已建立
+[14:11:18] DEBUG    測驗單字按鈕已建立
+[14:11:18] DEBUG    push to git按鈕已建立
+[14:11:18] DEBUG    搜尋欄已建立
+[14:11:18] DEBUG    搜尋結果列表已建立
+[14:11:18] DEBUG    返回按鈕已建立
+[14:11:18] DEBUG    單字欄位已建立
+[14:11:18] DEBUG    詞性欄位已建立
+[14:11:18] DEBUG    字義欄位已建立
+[14:11:18] DEBUG    字形拼湊欄位已建立
+[14:11:18] DEBUG    例句欄位已建立
+[14:11:19] DEBUG    抓取成功
+[14:11:19] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[14:11:19] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[14:11:19] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[14:11:19] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[14:11:19] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[14:11:19] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[14:11:19] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[14:11:19] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[14:11:19] DEBUG    fetchData(): "合併完成，總共 513 筆單字"
+[14:11:19] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[14:11:19] DEBUG    setProgressBar(): "進度條設為 513 / 5000"
+[14:11:19] DEBUG    距離 117/1/18 還有天數: 900
+[14:11:19] DEBUG    loadVocab(): 已載入 513 筆單字
+[14:11:23] DEBUG    openTestPage():  原單字:  "politician"  -> 模糊比對單字:  "politician"
+[14:11:23] DEBUG    openTestPage():  原單字:  "appearance"  -> 模糊比對單字:  "appearance"
+[14:11:23] DEBUG    openTestPage():  原單字:  "organic"  -> 模糊比對單字:  "organic"
+[14:11:23] DEBUG    openTestPage():  原單字:  "affordable"  -> 模糊比對單字:  "affordable"
+[14:11:23] DEBUG    openTestPage():  原單字:  "irritate"  -> 模糊比對單字:  "irritates"
+[14:11:23] DEBUG    openTestPage():  原單字:  "get into"  -> 模糊比對單字:  "getting"
+[14:11:23] DEBUG    openTestPage():  原單字:  "city-state"  -> 模糊比對單字:  "city-state"
+[14:11:23] DEBUG    openTestPage():  原單字:  "lure"  -> 模糊比對單字:  "lure"
+[14:11:23] DEBUG    openTestPage():  原單字:  "inspection"  -> 模糊比對單字:  "inpection"
+[14:11:23] DEBUG    openTestPage():  原單字:  "remain"  -> 模糊比對單字:  "remained"
+[14:12:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[14:12:41] INFO     searchVocabulary(): 搜尋結果個數: 54
+[14:12:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cl"
+[14:12:41] INFO     searchVocabulary(): 搜尋結果個數: 3
+[14:12:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cle"
+[14:12:43] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:12:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "clee"
+[14:12:43] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:12:45] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:12:45] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:19:10] DEBUG    sendNewVocab(): 送出新單字: "cleanliness" | "" | "clean" | "" | "名詞 (noun)" | "潔淨，整潔" | ""
+[14:19:10] DEBUG    setProgressBar(): "進度條設為 514 / 5000"
+[14:19:10] DEBUG    距離 117/1/18 還有天數: 900
+[14:19:10] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:19:10] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:19:38] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:19:38] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:19:39] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:19:40] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cle"
+[14:19:40] INFO     searchVocabulary(): 搜尋結果個數: 1
+[14:19:40] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cl"
+[14:19:40] INFO     searchVocabulary(): 搜尋結果個數: 4
+[14:19:40] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[14:19:40] INFO     searchVocabulary(): 搜尋結果個數: 55
+[14:19:40] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:19:40] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:19:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[14:19:42] INFO     searchVocabulary(): 搜尋結果個數: 55
+[14:19:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "co"
+[14:19:42] INFO     searchVocabulary(): 搜尋結果個數: 27
+[14:19:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "con"
+[14:19:42] INFO     searchVocabulary(): 搜尋結果個數: 14
+[14:19:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cons"
+[14:19:42] INFO     searchVocabulary(): 搜尋結果個數: 6
+[14:19:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "consu"
+[14:19:43] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:19:44] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:19:44] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:21:29] DEBUG    sendNewVocab(): 送出新單字: "consumption" | "" | "consume" | "-ption" | "名詞 (noun)" | "消耗，消費" | ""
+[14:21:29] DEBUG    setProgressBar(): "進度條設為 515 / 5000"
+[14:21:29] DEBUG    距離 117/1/18 還有天數: 900
+[14:21:29] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:21:29] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:21:36] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:21:36] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:24:42] DEBUG    sendNewVocab(): 送出新單字: "economically" | "" | "economical" | "-ly" | "副詞 (adverb)" | "經濟上來說" | "Econimically, the country improves steadly."
+[14:24:42] DEBUG    setProgressBar(): "進度條設為 516 / 5000"
+[14:24:42] DEBUG    距離 117/1/18 還有天數: 900
+[14:24:42] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:24:42] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:24:48] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:24:48] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:28:59] DEBUG    sendNewVocab(): 送出新單字: "floral" | "" | "floral" | "" | "形容詞 (adjective)" | "花的" | "The building is famous for the floral pattern on it."
+[14:28:59] DEBUG    setProgressBar(): "進度條設為 517 / 5000"
+[14:28:59] DEBUG    距離 117/1/18 還有天數: 900
+[14:28:59] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:28:59] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:36:44] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:36:44] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:39:22] DEBUG    sendNewVocab(): 送出新單字: "grocery" | "" | "grocery" | "" | "名詞 (noun)" | "食品雜貨" | "She bought a box of groceries."
+[14:39:22] DEBUG    setProgressBar(): "進度條設為 518 / 5000"
+[14:39:22] DEBUG    距離 117/1/18 還有天數: 900
+[14:39:22] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:39:22] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:39:30] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:39:30] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:39:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "i"
+[14:39:32] INFO     searchVocabulary(): 搜尋結果個數: 39
+[14:39:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "in"
+[14:39:32] INFO     searchVocabulary(): 搜尋結果個數: 30
+[14:39:32] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ind"
+[14:39:32] INFO     searchVocabulary(): 搜尋結果個數: 3
+[14:39:33] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[14:39:33] DEBUG    onResultItemClicked(): 顯示單字: "individual"
+[14:39:38] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:39:38] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:42:32] DEBUG    sendNewVocab(): 送出新單字: "individually" | "" | "individual" | "-ly" | "副詞 (adverb)" | "單獨的，分別的" | "The students will be interviewed individually."
+[14:42:32] DEBUG    setProgressBar(): "進度條設為 519 / 5000"
+[14:42:32] DEBUG    距離 117/1/18 還有天數: 900
+[14:42:32] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:42:32] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:42:41] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:42:41] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:45:23] WARNING  sendNewVocab(): 單字確認不符: "sanitation" | "santation"
+[14:45:27] DEBUG    sendNewVocab(): 送出新單字: "sanitation" | "" | "sanitation" | "" | "名詞 (noun)" | "公共衛生" | "Poor sanitation can lead to the spread of diseases."
+[14:45:27] DEBUG    setProgressBar(): "進度條設為 520 / 5000"
+[14:45:27] DEBUG    距離 117/1/18 還有天數: 900
+[14:45:27] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:45:27] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:45:32] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:45:32] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:46:44] DEBUG    sendNewVocab(): 送出新單字: "squander" | "" | "squander" | "" | "動詞 (verb)" | "浪費，揮霍" | "Don't squander your time on playing video games."
+[14:46:44] DEBUG    setProgressBar(): "進度條設為 521 / 5000"
+[14:46:44] DEBUG    距離 117/1/18 還有天數: 900
+[14:46:44] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:46:44] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:46:49] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "i"
+[14:46:49] INFO     searchVocabulary(): 搜尋結果個數: 40
+[14:46:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:46:50] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:46:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "s"
+[14:46:50] INFO     searchVocabulary(): 搜尋結果個數: 42
+[14:46:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "su"
+[14:46:50] INFO     searchVocabulary(): 搜尋結果個數: 6
+[14:46:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "sus"
+[14:46:50] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:46:52] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[14:46:52] DEBUG    onResultItemClicked(): 顯示單字: "sustainability"
+[14:46:54] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:46:54] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:48:22] DEBUG    sendNewVocab(): 送出新單字: "sustainable" | "" | "sustain" | "" | "形容詞 (adjective)" | "可維持的，可永續的" | ""
+[14:48:22] DEBUG    setProgressBar(): "進度條設為 522 / 5000"
+[14:48:22] DEBUG    距離 117/1/18 還有天數: 900
+[14:48:22] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:48:22] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:48:26] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:48:26] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:48:27] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "n"
+[14:48:27] INFO     searchVocabulary(): 搜尋結果個數: 6
+[14:48:28] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:48:28] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:48:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "u"
+[14:48:29] INFO     searchVocabulary(): 搜尋結果個數: 9
+[14:48:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "un"
+[14:48:29] INFO     searchVocabulary(): 搜尋結果個數: 7
+[14:48:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "und"
+[14:48:29] INFO     searchVocabulary(): 搜尋結果個數: 1
+[14:48:30] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "un"
+[14:48:30] INFO     searchVocabulary(): 搜尋結果個數: 7
+[14:48:30] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "unn"
+[14:48:30] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:48:30] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "unne"
+[14:48:30] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:48:31] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "unn"
+[14:48:31] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:48:31] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "un"
+[14:48:31] INFO     searchVocabulary(): 搜尋結果個數: 7
+[14:48:31] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "une"
+[14:48:31] INFO     searchVocabulary(): 搜尋結果個數: 1
+[14:48:33] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[14:48:33] DEBUG    onResultItemClicked(): 顯示單字: "uneasiness"
+[14:48:37] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:48:37] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:01:54] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:00] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:01] WARNING  "Unable to open monitor interface to \\\\.\\DISPLAY1:" "Unknown error 0xe0000225."
+[15:16:58] DEBUG    sendNewVocab(): 送出新單字: "unnecessary" | "un-" | "necessary" | "" | "形容詞 (adjective)" | "不需要的，不必須的" | "That was an unnecessary remark."
+[15:16:58] DEBUG    setProgressBar(): "進度條設為 523 / 5000"
+[15:16:58] DEBUG    距離 117/1/18 還有天數: 900
+[15:16:58] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:16:58] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:17:02] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:17:02] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:17:30] DEBUG    sendNewVocab(): 送出新單字: "vast" | "" | "vast" | "" | "形容詞 (adjective)" | "廣大的" | "What a vast desert!"
+[15:17:30] DEBUG    setProgressBar(): "進度條設為 524 / 5000"
+[15:17:30] DEBUG    距離 117/1/18 還有天數: 900
+[15:17:30] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:17:30] DEBUG    openAddVocadPage(): 新增單字視窗關閉

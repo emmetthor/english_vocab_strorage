@@ -1,0 +1,364 @@
+[14:31:28] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[14:31:28] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[14:31:28] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[14:31:28] DEBUG    log測試: 這是一條 debug 訊息
+[14:31:28] WARNING  log測試: 這是警告
+[14:31:28] CRITICAL log測試: 這是嚴重錯誤
+[14:31:28] INFO     log測試: 這是資訊
+[14:31:28] DEBUG    嘗試抓取單字
+[14:31:28] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[14:31:28] DEBUG    主頁按鈕已建立
+[14:31:28] DEBUG    新增單字按鈕已建立
+[14:31:28] DEBUG    搜尋單字按鈕已建立
+[14:31:28] DEBUG    測驗單字按鈕已建立
+[14:31:28] DEBUG    push to git按鈕已建立
+[14:31:28] DEBUG    搜尋欄已建立
+[14:31:28] DEBUG    搜尋結果列表已建立
+[14:31:28] DEBUG    返回按鈕已建立
+[14:31:28] DEBUG    單字欄位已建立
+[14:31:28] DEBUG    詞性欄位已建立
+[14:31:28] DEBUG    字義欄位已建立
+[14:31:28] DEBUG    字形拼湊欄位已建立
+[14:31:28] DEBUG    例句欄位已建立
+[14:31:29] DEBUG    抓取成功
+[14:31:29] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[14:31:29] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[14:31:29] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[14:31:29] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[14:31:29] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[14:31:29] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[14:31:29] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[14:31:29] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[14:31:29] DEBUG    fetchData(): "合併完成，總共 485 筆單字"
+[14:31:29] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[14:31:29] DEBUG    setProgressBar(): "進度條設為 485 / 5000"
+[14:31:29] DEBUG    距離 117/1/18 還有天數: 905
+[14:31:29] DEBUG    loadVocab(): 已載入 485 筆單字
+[14:31:30] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:31:30] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:33:01] DEBUG    sendNewVocab(): 送出新單字: "discard" | "dis-" | "card" | "" | "動詞 (verb)" | "拋棄，丟棄" | "Foods are often discarded at the consumer level."
+[14:33:01] DEBUG    setProgressBar(): "進度條設為 486 / 5000"
+[14:33:01] DEBUG    距離 117/1/18 還有天數: 905
+[14:33:01] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:33:01] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:33:06] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:33:06] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:33:07] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:33:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[14:33:09] INFO     searchVocabulary(): 搜尋結果個數: 31
+[14:33:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[14:33:09] INFO     searchVocabulary(): 搜尋結果個數: 12
+[14:33:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dis"
+[14:33:09] INFO     searchVocabulary(): 搜尋結果個數: 7
+[14:33:11] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:33:11] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:35:29] DEBUG    sendNewVocab(): 送出新單字: "distribution" | "" | "distribute" | "-tion" | "名詞 (noun)" | "分發，分配，配給物" | "They could not agree about the distribution of the profits."
+[14:35:29] DEBUG    setProgressBar(): "進度條設為 487 / 5000"
+[14:35:29] DEBUG    距離 117/1/18 還有天數: 905
+[14:35:29] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:35:29] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:35:33] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:35:33] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:35:38] WARNING  sendNewVocab(): 單字確認不符: "distribution center" | ""
+[14:35:46] DEBUG    sendNewVocab(): 送出新單字: "distribution center" | "" | "" | "" | "名詞 (noun)" | "發貨中心" | ""
+[14:35:46] DEBUG    setProgressBar(): "進度條設為 488 / 5000"
+[14:35:46] DEBUG    距離 117/1/18 還有天數: 905
+[14:35:46] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:35:46] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:35:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[14:35:53] INFO     searchVocabulary(): 搜尋結果個數: 14
+[14:35:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[14:35:53] INFO     searchVocabulary(): 搜尋結果個數: 33
+[14:35:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:35:54] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:35:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[14:35:54] INFO     searchVocabulary(): 搜尋結果個數: 33
+[14:35:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[14:35:54] INFO     searchVocabulary(): 搜尋結果個數: 14
+[14:35:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "dis"
+[14:35:54] INFO     searchVocabulary(): 搜尋結果個數: 9
+[14:35:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "di"
+[14:35:55] INFO     searchVocabulary(): 搜尋結果個數: 14
+[14:35:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[14:35:55] INFO     searchVocabulary(): 搜尋結果個數: 33
+[14:35:55] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:35:55] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:35:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "f"
+[14:35:56] INFO     searchVocabulary(): 搜尋結果個數: 12
+[14:35:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fa"
+[14:35:56] INFO     searchVocabulary(): 搜尋結果個數: 6
+[14:35:57] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fac"
+[14:35:57] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:35:59] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[14:35:59] DEBUG    onResultItemClicked(): 顯示單字: "facial"
+[14:36:02] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:36:02] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:36:59] DEBUG    sendNewVocab(): 送出新單字: "facility" | "" | "facility" | "" | "名詞 (noun)" | "設施，設備，工具" | "The apartment doesn't have cooking facilities."
+[14:36:59] DEBUG    setProgressBar(): "進度條設為 489 / 5000"
+[14:36:59] DEBUG    距離 117/1/18 還有天數: 905
+[14:36:59] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:36:59] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:37:02] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:37:02] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:38:27] DEBUG    sendNewVocab(): 送出新單字: "harvest" | "" | "harvest" | "" | "名詞 (noun)" | "收穫，收穫季節" | "The farmer hired extra workers for the harvest."
+[14:38:27] DEBUG    setProgressBar(): "進度條設為 490 / 5000"
+[14:38:27] DEBUG    距離 117/1/18 還有天數: 905
+[14:38:27] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:38:27] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:38:30] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:38:30] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:39:36] DEBUG    sendNewVocab(): 送出新單字: "hoarse" | "" | "hoarse" | "" | "形容詞 (adjective)" | "沙啞的" | "The Earth is becoming hoarse telling us not to waste food."
+[14:39:36] DEBUG    setProgressBar(): "進度條設為 491 / 5000"
+[14:39:36] DEBUG    距離 117/1/18 還有天數: 905
+[14:39:36] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:39:36] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:39:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fa"
+[14:39:53] INFO     searchVocabulary(): 搜尋結果個數: 7
+[14:39:56] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fac"
+[14:39:56] INFO     searchVocabulary(): 搜尋結果個數: 3
+[14:39:57] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:39:57] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:40:50] DEBUG    sendNewVocab(): 送出新單字: "inadequate" | "in-" | "adequate" | "" | "形容詞 (adjective)" | "不合適的，不適當的" | "He's inadequate for the job."
+[14:40:50] DEBUG    setProgressBar(): "進度條設為 492 / 5000"
+[14:40:50] DEBUG    距離 117/1/18 還有天數: 905
+[14:40:50] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:40:50] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:40:54] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:40:54] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:40:56] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:40:57] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fa"
+[14:40:57] INFO     searchVocabulary(): 搜尋結果個數: 7
+[14:40:57] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "f"
+[14:40:57] INFO     searchVocabulary(): 搜尋結果個數: 13
+[14:40:57] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:40:57] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:40:57] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "e"
+[14:40:57] INFO     searchVocabulary(): 搜尋結果個數: 25
+[14:40:58] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ef"
+[14:40:58] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:40:58] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "eff"
+[14:40:58] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:40:59] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[14:40:59] DEBUG    onResultItemClicked(): 顯示單字: "effectively"
+[14:41:04] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:41:04] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:46:07] DEBUG    sendNewVocab(): 送出新單字: "inefficient" | "in" | "efficient" | "" | "形容詞 (adjective)" | "效率差的，無效的" | "The business failed due to inefficient management."
+[14:46:07] DEBUG    setProgressBar(): "進度條設為 493 / 5000"
+[14:46:07] DEBUG    距離 117/1/18 還有天數: 905
+[14:46:07] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:46:07] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:46:12] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ef"
+[14:46:12] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:46:13] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "e"
+[14:46:13] INFO     searchVocabulary(): 搜尋結果個數: 25
+[14:46:13] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:46:13] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:46:14] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "i"
+[14:46:14] INFO     searchVocabulary(): 搜尋結果個數: 37
+[14:46:14] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "in"
+[14:46:14] INFO     searchVocabulary(): 搜尋結果個數: 29
+[14:46:14] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "int"
+[14:46:14] INFO     searchVocabulary(): 搜尋結果個數: 12
+[14:46:15] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "inte"
+[14:46:15] INFO     searchVocabulary(): 搜尋結果個數: 10
+[14:46:20] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[14:46:20] DEBUG    onResultItemClicked(): 顯示單字: "intentional"
+[14:47:18] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:47:18] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:47:34] DEBUG    sendNewVocab(): 送出新單字: "mould" | "" | "mould" | "" | "名詞 (noun)" | "黴菌" | ""
+[14:47:34] DEBUG    setProgressBar(): "進度條設為 494 / 5000"
+[14:47:34] DEBUG    距離 117/1/18 還有天數: 905
+[14:47:34] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:47:34] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:47:43] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:47:43] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:47:56] DEBUG    sendNewVocab(): 送出新單字: "pest" | "" | "pest" | "" | "名詞 (noun)" | "害蟲" | ""
+[14:47:56] DEBUG    setProgressBar(): "進度條設為 495 / 5000"
+[14:47:56] DEBUG    距離 117/1/18 還有天數: 905
+[14:47:56] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:47:56] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:48:03] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:48:03] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:49:00] DEBUG    sendNewVocab(): 送出新單字: "retail" | "" | "retail" | "" | "動詞 (verb)" | "零售" | "He planned to retail books."
+[14:49:00] DEBUG    setProgressBar(): "進度條設為 496 / 5000"
+[14:49:00] DEBUG    距離 117/1/18 還有天數: 905
+[14:49:00] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:49:00] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:49:04] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:49:04] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:49:41] DEBUG    sendNewVocab(): 送出新單字: "retailer" | "" | "retail" | "-er" | "名詞 (noun)" | "零售商" | ""
+[14:49:41] DEBUG    setProgressBar(): "進度條設為 497 / 5000"
+[14:49:41] DEBUG    距離 117/1/18 還有天數: 905
+[14:49:41] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:49:41] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:49:46] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:49:46] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:50:02] DEBUG    sendNewVocab(): 送出新單字: "rhyme" | "" | "rhyme" | "" | "動詞 (verb)" | "押韻" | ""
+[14:50:02] DEBUG    setProgressBar(): "進度條設為 498 / 5000"
+[14:50:02] DEBUG    距離 117/1/18 還有天數: 905
+[14:50:02] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:50:02] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:50:06] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:50:06] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:50:07] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:50:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[14:50:09] INFO     searchVocabulary(): 搜尋結果個數: 0
+[14:50:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "s"
+[14:50:09] INFO     searchVocabulary(): 搜尋結果個數: 39
+[14:50:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "sp"
+[14:50:09] INFO     searchVocabulary(): 搜尋結果個數: 4
+[14:50:10] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "spe"
+[14:50:10] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:50:10] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "spec"
+[14:50:10] INFO     searchVocabulary(): 搜尋結果個數: 2
+[14:50:12] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:50:12] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:51:47] DEBUG    sendNewVocab(): 送出新單字: "spectrum" | "" | "spectrum" | "" | "名詞 (noun)" | "範圍，範疇" | "There is a wide spectrum of opinions on this question."
+[14:51:47] DEBUG    setProgressBar(): "進度條設為 499 / 5000"
+[14:51:47] DEBUG    距離 117/1/18 還有天數: 905
+[14:51:47] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:51:47] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:51:52] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:51:52] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:52:48] DEBUG    sendNewVocab(): 送出新單字: "wear and tear" | "" | "" | "" | "諺語 (idiom)" | "磨損" | "Seat covers on buses take a lot of wear and tear."
+[14:52:48] DEBUG    setProgressBar(): "進度條設為 500 / 5000"
+[14:52:48] DEBUG    距離 117/1/18 還有天數: 905
+[14:52:48] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:52:48] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[14:52:56] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[14:52:56] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[14:54:21] DEBUG    sendNewVocab(): 送出新單字: "technically" | "" | "technical" | "-ly" | "副詞 (adverb)" | "嚴格上來說" | "Technically, teenagers are children."
+[14:54:21] DEBUG    setProgressBar(): "進度條設為 501 / 5000"
+[14:54:21] DEBUG    距離 117/1/18 還有天數: 905
+[14:54:21] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[14:54:21] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:07:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "spe"
+[15:07:05] INFO     searchVocabulary(): 搜尋結果個數: 3
+[15:07:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "sp"
+[15:07:05] INFO     searchVocabulary(): 搜尋結果個數: 5
+[15:07:06] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "s"
+[15:07:06] INFO     searchVocabulary(): 搜尋結果個數: 40
+[15:07:06] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:07:06] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:07:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[15:07:07] INFO     searchVocabulary(): 搜尋結果個數: 51
+[15:07:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ac"
+[15:07:07] INFO     searchVocabulary(): 搜尋結果個數: 9
+[15:07:07] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "acc"
+[15:07:07] INFO     searchVocabulary(): 搜尋結果個數: 9
+[15:07:08] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "acco"
+[15:07:08] INFO     searchVocabulary(): 搜尋結果個數: 4
+[15:07:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "accou"
+[15:07:09] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:07:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "accoun"
+[15:07:09] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:07:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "account"
+[15:07:09] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:07:13] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:07:13] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:08:29] WARNING  sendNewVocab(): 單字確認不符: "account" | "acount"
+[15:08:33] DEBUG    sendNewVocab(): 送出新單字: "account" | "" | "account" | "" | "動詞 (verb)" | "佔 ..." | "Food waste accountted 8 percent of GHG emissions."
+[15:08:33] DEBUG    setProgressBar(): "進度條設為 502 / 5000"
+[15:08:33] DEBUG    距離 117/1/18 還有天數: 905
+[15:08:33] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:08:33] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:08:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:08:41] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:08:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[15:08:42] INFO     searchVocabulary(): 搜尋結果個數: 52
+[15:08:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ad"
+[15:08:42] INFO     searchVocabulary(): 搜尋結果個數: 8
+[15:08:42] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "add"
+[15:08:42] INFO     searchVocabulary(): 搜尋結果個數: 4
+[15:08:43] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[15:08:43] DEBUG    onResultItemClicked(): 顯示單字: "additionally"
+[15:08:59] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:08:59] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:09:18] DEBUG    sendNewVocab(): 送出新單字: "compost" | "" | "compost" | "" | "名詞 (noun)" | "堆肥" | ""
+[15:09:18] DEBUG    setProgressBar(): "進度條設為 503 / 5000"
+[15:09:18] DEBUG    距離 117/1/18 還有天數: 905
+[15:09:18] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:09:18] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:09:21] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:09:21] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:10:37] DEBUG    sendNewVocab(): 送出新單字: "conference" | "" | "conference" | "" | "名詞 (noun)" | "協商會，研討會" | "The teacher was in conference with parents after school."
+[15:10:37] DEBUG    setProgressBar(): "進度條設為 504 / 5000"
+[15:10:37] DEBUG    距離 117/1/18 還有天數: 905
+[15:10:37] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:10:37] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:10:43] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:10:43] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:12:19] WARNING  sendNewVocab(): 單字確認不符: "disastrous" | "disastrous\\"
+[15:12:20] DEBUG    sendNewVocab(): 送出新單字: "disastrous" | "" | "disaster" | "-rous" | "形容詞 (adjective)" | "災難性的" | "The flood caused a disastrous loss of life and property."
+[15:12:20] DEBUG    setProgressBar(): "進度條設為 505 / 5000"
+[15:12:20] DEBUG    距離 117/1/18 還有天數: 905
+[15:12:20] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:12:20] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:12:24] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:12:24] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:13:33] WARNING  sendNewVocab(): 單字確認不符: "emission" | "emissions"
+[15:13:34] DEBUG    sendNewVocab(): 送出新單字: "emission" | "" | "emission" | "" | "名詞 (noun)" | "放射，散發" | "Food waste caused global greenhouse gas emissons."
+[15:13:34] DEBUG    setProgressBar(): "進度條設為 506 / 5000"
+[15:13:34] DEBUG    距離 117/1/18 還有天數: 905
+[15:13:34] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:13:34] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:14:13] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:14:13] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:15:44] DEBUG    sendNewVocab(): 送出新單字: "impact" | "" | "impact" | "" | "動詞 (verb)" | "造成影響" | "Obviously bad movies will impact on childrem."
+[15:15:44] DEBUG    setProgressBar(): "進度條設為 507 / 5000"
+[15:15:44] DEBUG    距離 117/1/18 還有天數: 905
+[15:15:44] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:15:44] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:15:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:15:50] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:15:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "i"
+[15:15:52] INFO     searchVocabulary(): 搜尋結果個數: 38
+[15:15:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "in"
+[15:15:52] INFO     searchVocabulary(): 搜尋結果個數: 29
+[15:15:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ins"
+[15:15:52] INFO     searchVocabulary(): 搜尋結果個數: 4
+[15:15:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "inse"
+[15:15:52] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:15:54] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:15:54] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:16:24] DEBUG    sendNewVocab(): 送出新單字: "insecurity" | "in-" | "security" | "" | "名詞 (noun)" | "不安全，危險" | ""
+[15:16:24] DEBUG    setProgressBar(): "進度條設為 508 / 5000"
+[15:16:24] DEBUG    距離 117/1/18 還有天數: 905
+[15:16:24] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:16:24] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:16:27] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:16:27] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:16:50] DEBUG    sendNewVocab(): 送出新單字: "landfill" | "" | "landfill" | "" | "名詞 (noun)" | "垃圾掩埋場" | ""
+[15:16:50] DEBUG    setProgressBar(): "進度條設為 509 / 5000"
+[15:16:50] DEBUG    距離 117/1/18 還有天數: 905
+[15:16:50] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:16:50] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:16:54] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:16:54] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:17:07] WARNING  sendNewVocab(): 單字確認不符: "methane" | "mathane"
+[15:17:13] DEBUG    sendNewVocab(): 送出新單字: "methane" | "" | "methane" | "" | "名詞 (noun)" | "沼氣" | ""
+[15:17:13] DEBUG    setProgressBar(): "進度條設為 510 / 5000"
+[15:17:13] DEBUG    距離 117/1/18 還有天數: 905
+[15:17:13] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:17:13] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:17:18] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:17:18] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:18:32] DEBUG    sendNewVocab(): 送出新單字: "odorless" | "" | "odor" | "-less" | "形容詞 (adjective)" | "無臭的" | "Methane is odorless."
+[15:18:32] DEBUG    setProgressBar(): "進度條設為 511 / 5000"
+[15:18:32] DEBUG    距離 117/1/18 還有天數: 905
+[15:18:32] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:18:32] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:18:37] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:18:37] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:19:36] DEBUG    sendNewVocab(): 送出新單字: "represent" | "re-" | "present" | "" | "動詞 (verb)" | "表現出" | "The dove represents peace."
+[15:19:36] DEBUG    setProgressBar(): "進度條設為 512 / 5000"
+[15:19:36] DEBUG    距離 117/1/18 還有天數: 905
+[15:19:36] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:19:36] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:19:39] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:19:39] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:20:39] DEBUG    sendNewVocab(): 送出新單字: "ungrateful" | "un-" | "grateful" | "" | "形容詞 (adjective)" | "忘恩負義的" | "Don't be ungrateful."
+[15:20:39] DEBUG    setProgressBar(): "進度條設為 513 / 5000"
+[15:20:39] DEBUG    距離 117/1/18 還有天數: 905
+[15:20:39] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:20:39] DEBUG    openAddVocadPage(): 新增單字視窗關閉

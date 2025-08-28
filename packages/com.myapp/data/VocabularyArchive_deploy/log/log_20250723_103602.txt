@@ -1,0 +1,36 @@
+[22:15:39] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[22:15:39] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[22:15:39] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[22:15:39] DEBUG    log測試: 這是一條 debug 訊息
+[22:15:39] WARNING  log測試: 這是警告
+[22:15:39] CRITICAL log測試: 這是嚴重錯誤
+[22:15:39] INFO     log測試: 這是資訊
+[22:15:39] DEBUG    嘗試抓取單字
+[22:15:39] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[22:15:39] DEBUG    主頁按鈕已建立
+[22:15:39] DEBUG    新增單字按鈕已建立
+[22:15:39] DEBUG    搜尋單字按鈕已建立
+[22:15:39] DEBUG    測驗單字按鈕已建立
+[22:15:39] DEBUG    push to git按鈕已建立
+[22:15:39] DEBUG    搜尋欄已建立
+[22:15:39] DEBUG    搜尋結果列表已建立
+[22:15:39] DEBUG    返回按鈕已建立
+[22:15:39] DEBUG    單字欄位已建立
+[22:15:39] DEBUG    詞性欄位已建立
+[22:15:39] DEBUG    字義欄位已建立
+[22:15:39] DEBUG    字形拼湊欄位已建立
+[22:15:39] DEBUG    例句欄位已建立
+[22:15:41] DEBUG    抓取成功
+[22:15:41] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[22:15:41] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[22:15:41] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[22:15:41] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[22:15:41] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[22:15:41] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[22:15:41] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[22:15:41] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[22:15:41] DEBUG    fetchData(): "合併完成，總共 458 筆單字"
+[22:15:41] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[22:15:41] DEBUG    setProgressBar(): "進度條設為 458 / 5000"
+[22:15:41] DEBUG    距離 117/1/18 還有天數: 910
+[22:15:41] DEBUG    loadVocab(): 已載入 458 筆單字

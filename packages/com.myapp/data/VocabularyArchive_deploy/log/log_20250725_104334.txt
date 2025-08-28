@@ -1,0 +1,119 @@
+[09:07:04] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[09:07:04] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[09:07:04] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[09:07:04] DEBUG    log測試: 這是一條 debug 訊息
+[09:07:04] WARNING  log測試: 這是警告
+[09:07:04] CRITICAL log測試: 這是嚴重錯誤
+[09:07:04] INFO     log測試: 這是資訊
+[09:07:04] DEBUG    嘗試抓取單字
+[09:07:04] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[09:07:04] DEBUG    主頁按鈕已建立
+[09:07:04] DEBUG    新增單字按鈕已建立
+[09:07:04] DEBUG    搜尋單字按鈕已建立
+[09:07:04] DEBUG    測驗單字按鈕已建立
+[09:07:04] DEBUG    push to git按鈕已建立
+[09:07:04] DEBUG    搜尋欄已建立
+[09:07:04] DEBUG    搜尋結果列表已建立
+[09:07:04] DEBUG    返回按鈕已建立
+[09:07:04] DEBUG    單字欄位已建立
+[09:07:04] DEBUG    詞性欄位已建立
+[09:07:04] DEBUG    字義欄位已建立
+[09:07:04] DEBUG    字形拼湊欄位已建立
+[09:07:04] DEBUG    例句欄位已建立
+[09:07:04] DEBUG    抓取成功
+[09:07:04] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[09:07:04] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[09:07:04] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[09:07:04] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[09:07:04] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[09:07:04] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[09:07:04] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[09:07:04] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[09:07:04] DEBUG    fetchData(): "合併完成，總共 466 筆單字"
+[09:07:04] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[09:07:04] DEBUG    setProgressBar(): "進度條設為 466 / 5000"
+[09:07:04] DEBUG    距離 117/1/18 還有天數: 908
+[09:07:04] DEBUG    loadVocab(): 已載入 466 筆單字
+[09:09:25] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "t"
+[09:09:25] INFO     searchVocabulary(): 搜尋結果個數: 21
+[09:09:25] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "th"
+[09:09:25] INFO     searchVocabulary(): 搜尋結果個數: 5
+[09:09:25] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "thr"
+[09:09:25] INFO     searchVocabulary(): 搜尋結果個數: 3
+[09:09:27] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[09:09:27] DEBUG    onResultItemClicked(): 顯示單字: "thrive"
+[09:09:29] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:09:29] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:10:46] DEBUG    sendNewVocab(): 送出新單字: "thrill" | "" | "thrill" | "" | "動詞 (verb)" | "使興奮，使激動" | "He was thrilled by her conversation."
+[09:10:46] DEBUG    setProgressBar(): "進度條設為 467 / 5000"
+[09:10:46] DEBUG    距離 117/1/18 還有天數: 908
+[09:10:46] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:10:46] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[09:10:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "th"
+[09:10:52] INFO     searchVocabulary(): 搜尋結果個數: 6
+[09:10:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "t"
+[09:10:53] INFO     searchVocabulary(): 搜尋結果個數: 22
+[09:10:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "tr"
+[09:10:53] INFO     searchVocabulary(): 搜尋結果個數: 5
+[09:10:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "tra"
+[09:10:53] INFO     searchVocabulary(): 搜尋結果個數: 3
+[09:10:54] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[09:10:54] DEBUG    onResultItemClicked(): 顯示單字: "trait"
+[09:11:00] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:11:00] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:12:31] DEBUG    sendNewVocab(): 送出新單字: "transatlantic" | "trans-" | "atlantic" | "" | "形容詞 (adjective)" | "橫渡大西洋的" | "She was the first person to take a transatlantic flight."
+[09:12:31] DEBUG    setProgressBar(): "進度條設為 468 / 5000"
+[09:12:31] DEBUG    距離 117/1/18 還有天數: 908
+[09:12:31] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:12:31] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[09:12:38] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[09:12:38] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:12:38] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "u"
+[09:12:38] INFO     searchVocabulary(): 搜尋結果個數: 7
+[09:12:38] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "un"
+[09:12:38] INFO     searchVocabulary(): 搜尋結果個數: 5
+[09:12:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "u"
+[09:12:41] INFO     searchVocabulary(): 搜尋結果個數: 7
+[09:12:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[09:12:41] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:12:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[09:12:41] INFO     searchVocabulary(): 搜尋結果個數: 50
+[09:12:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ce"
+[09:12:41] INFO     searchVocabulary(): 搜尋結果個數: 3
+[09:12:41] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cer"
+[09:12:41] INFO     searchVocabulary(): 搜尋結果個數: 2
+[09:12:42] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:12:42] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:13:43] DEBUG    sendNewVocab(): 送出新單字: "uncertain" | "un-" | "certain" | "" | "形容詞 (adjective)" | "不確定的，不明確的" | "I am uncertain whether he'll come tomorrow."
+[09:13:43] DEBUG    setProgressBar(): "進度條設為 469 / 5000"
+[09:13:43] DEBUG    距離 117/1/18 還有天數: 908
+[09:13:43] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:13:43] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[09:13:47] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:13:47] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:15:36] DEBUG    sendNewVocab(): 送出新單字: "yonder" | "" | "yonder" | "" | "形容詞 (adjective)" | "那邊的，遠處的" | "But soft! What light through yonder window breaks?"
+[09:15:36] DEBUG    setProgressBar(): "進度條設為 470 / 5000"
+[09:15:36] DEBUG    距離 117/1/18 還有天數: 908
+[09:15:36] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:15:36] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[09:15:45] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ce"
+[09:15:45] INFO     searchVocabulary(): 搜尋結果個數: 3
+[09:15:46] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cel"
+[09:15:46] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:15:46] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cele"
+[09:15:46] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:15:46] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cel"
+[09:15:46] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:15:46] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ce"
+[09:15:46] INFO     searchVocabulary(): 搜尋結果個數: 3
+[09:15:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cel"
+[09:15:48] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:15:48] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cele"
+[09:15:48] INFO     searchVocabulary(): 搜尋結果個數: 0
+[09:15:49] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[09:15:49] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[09:16:52] DEBUG    sendNewVocab(): 送出新單字: "celebrity" | "" | "celebrity" | "" | "名詞 (noun)" | "名人" | "After inventing the first airplane, he soonly become a celebrity."
+[09:16:52] DEBUG    setProgressBar(): "進度條設為 471 / 5000"
+[09:16:52] DEBUG    距離 117/1/18 還有天數: 908
+[09:16:52] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[09:16:52] DEBUG    openAddVocadPage(): 新增單字視窗關閉

@@ -1,0 +1,258 @@
+[15:22:00] INFO     應用程式路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive"
+[15:22:00] INFO     本地單字庫路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/vocabulary.json"
+[15:22:00] INFO     log路徑: "E:/Emmet/coding/vocabApp/VocabularyArchive/log/log.txt"
+[15:22:00] DEBUG    log測試: 這是一條 debug 訊息
+[15:22:00] WARNING  log測試: 這是警告
+[15:22:00] CRITICAL log測試: 這是嚴重錯誤
+[15:22:00] INFO     log測試: 這是資訊
+[15:22:00] DEBUG    嘗試抓取單字
+[15:22:00] DEBUG    傳送抓取請求: QUrl("https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/vocabulary.json")
+[15:22:00] DEBUG    主頁按鈕已建立
+[15:22:00] DEBUG    新增單字按鈕已建立
+[15:22:00] DEBUG    搜尋單字按鈕已建立
+[15:22:00] DEBUG    測驗單字按鈕已建立
+[15:22:00] DEBUG    push to git按鈕已建立
+[15:22:00] DEBUG    搜尋欄已建立
+[15:22:00] DEBUG    搜尋結果列表已建立
+[15:22:00] DEBUG    返回按鈕已建立
+[15:22:00] DEBUG    單字欄位已建立
+[15:22:00] DEBUG    詞性欄位已建立
+[15:22:00] DEBUG    字義欄位已建立
+[15:22:00] DEBUG    字形拼湊欄位已建立
+[15:22:00] DEBUG    例句欄位已建立
+[15:22:01] DEBUG    抓取成功
+[15:22:01] DEBUG    fetchData(): "已將 RAW 轉成 JSON 檔案"
+[15:22:01] DEBUG    mergeWithLocal(): 嘗試讀取本地 json 單字
+[15:22:01] DEBUG    mergeWithLocal(): 讀取本地 json 單字完成
+[15:22:01] DEBUG    mergeWithLocal(): 嘗試排序本地 json 單字
+[15:22:01] DEBUG    mergeWithLocal(): 排序本地 json 單字完成
+[15:22:01] DEBUG    mergeWithLocal(): 融合本地 json 單字
+[15:22:01] DEBUG    fixFormat():  "修正詞性格式共 0 項"
+[15:22:01] DEBUG    fixFormat():  "修正測試次數格式共 0 項"
+[15:22:01] DEBUG    fetchData(): "合併完成，總共 551 筆單字"
+[15:22:01] DEBUG    loadVocab(): 嘗試將單字載入 memory
+[15:22:01] DEBUG    setProgressBar(): "進度條設為 551 / 5000"
+[15:22:01] DEBUG    距離 117/1/18 還有天數: 897
+[15:22:01] DEBUG    loadVocab(): 已載入 551 筆單字
+[15:23:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "a"
+[15:23:04] INFO     searchVocabulary(): 搜尋結果個數: 52
+[15:23:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ap"
+[15:23:04] INFO     searchVocabulary(): 搜尋結果個數: 5
+[15:23:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "app"
+[15:23:04] INFO     searchVocabulary(): 搜尋結果個數: 5
+[15:23:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "appl"
+[15:23:05] INFO     searchVocabulary(): 搜尋結果個數: 1
+[15:23:43] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:23:43] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:23:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[15:23:44] INFO     searchVocabulary(): 搜尋結果個數: 58
+[15:23:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ch"
+[15:23:44] INFO     searchVocabulary(): 搜尋結果個數: 3
+[15:23:44] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "cha"
+[15:23:44] INFO     searchVocabulary(): 搜尋結果個數: 2
+[15:23:46] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:23:46] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:24:19] DEBUG    sendNewVocab(): 送出新單字: "character" | "" | "character" | "" | "名詞 (noun)" | "特質，特性" | "He has a changable character."
+[15:24:19] DEBUG    setProgressBar(): "進度條設為 552 / 5000"
+[15:24:19] DEBUG    距離 117/1/18 還有天數: 897
+[15:24:19] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:24:19] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:24:26] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:24:26] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:24:27] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "e"
+[15:24:27] INFO     searchVocabulary(): 搜尋結果個數: 29
+[15:24:27] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:24:27] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:24:27] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "c"
+[15:24:27] INFO     searchVocabulary(): 搜尋結果個數: 59
+[15:24:27] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "co"
+[15:24:27] INFO     searchVocabulary(): 搜尋結果個數: 28
+[15:24:28] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "con"
+[15:24:28] INFO     searchVocabulary(): 搜尋結果個數: 15
+[15:24:28] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "conc"
+[15:24:28] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:24:28] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "conce"
+[15:24:28] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:24:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "conc"
+[15:24:29] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:24:29] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "con"
+[15:24:29] INFO     searchVocabulary(): 搜尋結果個數: 15
+[15:24:31] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "conc"
+[15:24:31] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:24:32] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:24:32] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:24:42] WARNING  sendNewVocab(): 單字確認不符: "concept" | ""
+[15:25:31] DEBUG    sendNewVocab(): 送出新單字: "concept" | "" | "concept" | "" | "名詞 (noun)" | "概念，觀念" | "He presented a new concept of the beginning of the universe."
+[15:25:31] DEBUG    setProgressBar(): "進度條設為 553 / 5000"
+[15:25:31] DEBUG    距離 117/1/18 還有天數: 897
+[15:25:31] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:25:31] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:25:36] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:25:36] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:26:31] DEBUG    sendNewVocab(): 送出新單字: "core" | "" | "core" | "" | "名詞 (noun)" | "精隨，核心" | "Let's go to the core of the problem."
+[15:26:31] DEBUG    setProgressBar(): "進度條設為 554 / 5000"
+[15:26:31] DEBUG    距離 117/1/18 還有天數: 897
+[15:26:32] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:26:32] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:26:36] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:26:36] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:26:36] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "d"
+[15:26:36] INFO     searchVocabulary(): 搜尋結果個數: 36
+[15:26:36] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "de"
+[15:26:36] INFO     searchVocabulary(): 搜尋結果個數: 13
+[15:26:37] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "del"
+[15:26:37] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:26:37] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "deli"
+[15:26:37] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:26:39] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:26:39] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:29:45] DEBUG    sendNewVocab(): 送出新單字: "deliberate" | "" | "deliberate" | "" | "形容詞 (adjective)" | "深思熟慮的，慎重的" | "They took a deliberate approach to solve the problem."
+[15:29:45] DEBUG    setProgressBar(): "進度條設為 555 / 5000"
+[15:29:45] DEBUG    距離 117/1/18 還有天數: 897
+[15:29:45] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:29:45] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:29:50] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:29:50] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:29:51] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "e"
+[15:29:51] INFO     searchVocabulary(): 搜尋結果個數: 29
+[15:29:51] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "en"
+[15:29:51] INFO     searchVocabulary(): 搜尋結果個數: 4
+[15:29:51] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "enh"
+[15:29:51] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:29:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "enh="
+[15:29:52] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:29:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "enh"
+[15:29:52] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:29:52] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "en"
+[15:29:52] INFO     searchVocabulary(): 搜尋結果個數: 4
+[15:29:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "e"
+[15:29:53] INFO     searchVocabulary(): 搜尋結果個數: 29
+[15:29:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:29:53] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:29:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "h"
+[15:29:53] INFO     searchVocabulary(): 搜尋結果個數: 9
+[15:29:53] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "ha"
+[15:29:53] INFO     searchVocabulary(): 搜尋結果個數: 2
+[15:29:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "h"
+[15:29:54] INFO     searchVocabulary(): 搜尋結果個數: 9
+[15:29:54] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:29:54] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:29:55] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:29:55] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:31:03] DEBUG    sendNewVocab(): 送出新單字: "enhance" | "" | "enhance" | "" | "動詞 (verb)" | "提高，增加" | "The software update significantly enhanced battery life."
+[15:31:03] DEBUG    setProgressBar(): "進度條設為 556 / 5000"
+[15:31:03] DEBUG    距離 117/1/18 還有天數: 897
+[15:31:03] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:31:03] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:31:08] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "f"
+[15:31:08] INFO     searchVocabulary(): 搜尋結果個數: 15
+[15:31:08] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fo"
+[15:31:08] INFO     searchVocabulary(): 搜尋結果個數: 1
+[15:31:08] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fou"
+[15:31:08] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:31:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "foun"
+[15:31:09] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:31:10] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "foun\\"
+[15:31:10] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:31:10] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "foun\\\\"
+[15:31:10] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:31:11] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "foun\\"
+[15:31:11] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:31:11] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "foun"
+[15:31:11] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:31:11] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fou"
+[15:31:11] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:31:11] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "fo"
+[15:31:11] INFO     searchVocabulary(): 搜尋結果個數: 1
+[15:31:12] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "f"
+[15:31:12] INFO     searchVocabulary(): 搜尋結果個數: 15
+[15:31:28] DEBUG    openTestPage():  原單字:  "transatlantic"  -> 模糊比對單字:  "transatlantic"
+[15:31:28] DEBUG    openTestPage():  原單字:  "resolution"  -> 模糊比對單字:  "resolution"
+[15:31:28] DEBUG    openTestPage():  原單字:  "keen"  -> 模糊比對單字:  "keen"
+[15:31:28] DEBUG    openTestPage():  原單字:  "punt"  -> 模糊比對單字:  "punt"
+[15:31:28] DEBUG    openTestPage():  原單字:  "logical"  -> 模糊比對單字:  "logical"
+[15:31:28] DEBUG    openTestPage():  原單字:  "harsh"  -> 模糊比對單字:  "harsh"
+[15:31:28] DEBUG    openTestPage():  原單字:  "perspective"  -> 模糊比對單字:  "perspective"
+[15:31:28] DEBUG    openTestPage():  原單字:  "attach"  -> 模糊比對單字:  "attached"
+[15:31:28] DEBUG    openTestPage():  原單字:  "uncertain"  -> 模糊比對單字:  "uncertain"
+[15:31:28] DEBUG    openTestPage():  原單字:  "confront"  -> 模糊比對單字:  "confronted"
+[15:31:34] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:31:34] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:32:52] DEBUG    sendNewVocab(): 送出新單字: "foundation" | "" | "foundation" | "" | "名詞 (noun)" | "基礎" | "The rumor has no foundation in fact."
+[15:32:52] DEBUG    setProgressBar(): "進度條設為 557 / 5000"
+[15:32:52] DEBUG    距離 117/1/18 還有天數: 897
+[15:32:52] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:32:52] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:33:02] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:33:02] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:35:06] WARNING  sendNewVocab(): 單字確認不符: "incorporate" | "incorporatte"
+[15:35:09] DEBUG    sendNewVocab(): 送出新單字: "incorporate" | "" | "incorporate" | "" | "動詞 (verb)" | "包含，加入" | "We will incorporate your suggestion in the new plan."
+[15:35:09] DEBUG    setProgressBar(): "進度條設為 558 / 5000"
+[15:35:09] DEBUG    距離 117/1/18 還有天數: 897
+[15:35:09] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:35:09] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:35:22] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:35:22] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:35:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "p"
+[15:35:23] INFO     searchVocabulary(): 搜尋結果個數: 46
+[15:35:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pr"
+[15:35:23] INFO     searchVocabulary(): 搜尋結果個數: 13
+[15:35:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pro"
+[15:35:23] INFO     searchVocabulary(): 搜尋結果個數: 4
+[15:35:23] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pron"
+[15:35:23] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:35:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pro"
+[15:35:24] INFO     searchVocabulary(): 搜尋結果個數: 4
+[15:35:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pr"
+[15:35:24] INFO     searchVocabulary(): 搜尋結果個數: 13
+[15:35:24] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "pri"
+[15:35:24] INFO     searchVocabulary(): 搜尋結果個數: 2
+[15:35:25] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "prin"
+[15:35:25] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:35:25] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:35:25] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:48:42] DEBUG    sendNewVocab(): 送出新單字: "principle" | "" | "principle" | "" | "名詞 (noun)" | "原則" | ""
+[15:48:42] DEBUG    setProgressBar(): "進度條設為 559 / 5000"
+[15:48:42] DEBUG    距離 117/1/18 還有天數: 897
+[15:48:42] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:48:42] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:49:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "p"
+[15:49:04] INFO     searchVocabulary(): 搜尋結果個數: 47
+[15:49:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: ""
+[15:49:04] INFO     searchVocabulary(): 搜尋結果個數: 0
+[15:49:04] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "s"
+[15:49:04] INFO     searchVocabulary(): 搜尋結果個數: 47
+[15:49:05] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "st"
+[15:49:05] INFO     searchVocabulary(): 搜尋結果個數: 8
+[15:49:09] DEBUG    searchVocabulary(): 嘗試搜尋keyword: "stu"
+[15:49:09] INFO     searchVocabulary(): 搜尋結果個數: 1
+[15:49:10] DEBUG    onResultItemClicked(): 嘗試顯示單字
+[15:49:10] DEBUG    onResultItemClicked(): 顯示單字: "stunt"
+[15:49:11] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:49:11] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:49:50] DEBUG    sendNewVocab(): 送出新單字: "sturdy" | "" | "sturdy" | "" | "形容詞 (adjective)" | "結實的，健壯的" | "Children need sturdy clothes."
+[15:49:50] DEBUG    setProgressBar(): "進度條設為 560 / 5000"
+[15:49:50] DEBUG    距離 117/1/18 還有天數: 897
+[15:49:50] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:49:50] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:49:55] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:49:55] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:50:26] DEBUG    sendNewVocab(): 送出新單字: "theme" | "" | "theme" | "" | "名詞 (noun)" | "論題，話題" | "The main theme of this book is honesty."
+[15:50:26] DEBUG    setProgressBar(): "進度條設為 561 / 5000"
+[15:50:26] DEBUG    距離 117/1/18 還有天數: 897
+[15:50:26] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:50:26] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:50:29] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:50:29] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:50:37] DEBUG    sendNewVocab(): 送出新單字: "title" | "" | "title" | "" | "名詞 (noun)" | "職稱" | ""
+[15:50:37] DEBUG    setProgressBar(): "進度條設為 562 / 5000"
+[15:50:37] DEBUG    距離 117/1/18 還有天數: 897
+[15:50:37] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:50:37] DEBUG    openAddVocadPage(): 新增單字視窗關閉
+[15:50:41] DEBUG    openAddVocadPage(): 嘗試開啟 新增單字視窗
+[15:50:41] DEBUG    openAddVocadPage(): 新增單字視窗已開啟
+[15:51:04] DEBUG    sendNewVocab(): 送出新單字: "willingness" | "" | "willing" | "-ness" | "名詞 (noun)" | "自願，樂意" | ""
+[15:51:04] DEBUG    setProgressBar(): "進度條設為 563 / 5000"
+[15:51:04] DEBUG    距離 117/1/18 還有天數: 897
+[15:51:04] DEBUG    writeIntoJson(): 寫入 JSON 完成
+[15:51:04] DEBUG    openAddVocadPage(): 新增單字視窗關閉
