@@ -1,0 +1,6 @@
+# 忽略所有檔案
+*
+
+# 但允許這個 JSON 檔案
+!vocabulary.json
+!.gitignore
