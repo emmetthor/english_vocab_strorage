@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>VocabularyArchive</DisplayName>
+    <Description>我的 Qt 應用程式</Description>
+    <Version>0.0.5</Version> <!-- 每次更新必須增加 -->
+    <ReleaseDate>2025-08-28</ReleaseDate>
+    <Default>true</Default>
+</Package>
