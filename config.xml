@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UpdateCheck>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <InstallerUrl>https://github.com/emmetthor/english_vocab_strorage/releases/download/v0.0.1/MyAppInstaller.exe</InstallerUrl>
 </UpdateCheck>
