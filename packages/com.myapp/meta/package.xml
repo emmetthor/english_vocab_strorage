@@ -2,14 +2,14 @@
 <Package>
     <DisplayName>MyApp</DisplayName>
     <Description>我的 Qt 應用程式</Description>
-    <Version>0.0.4</Version>
+    <Version>0.0.5</Version>
     <ReleaseDate>2025-08-28</ReleaseDate>
     <Default>true</Default>
 
     <Updater>
         <RemoteRepositories>
             <Repository>
-                <Url>https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/main/packages/</Url>
+                <Url>https://raw.githubusercontent.com/emmetthor/english_vocab_strorage/refs/heads/main/config/config.xml</Url>
             </Repository>
         </RemoteRepositories>
     </Updater>
